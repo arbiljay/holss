@@ -1,0 +1,65 @@
+{
+  "title": "Saint Seiya: Another Story of Hades — Dark Wing",
+  "description": "A high school student suffers an accident and wakes up in Elysium, the Land of the Dead. There he meets Hades, the God of the Underworld, who sends him on a mission only he can fulfill.",
+  "artist": "Shinshuu UEDA",
+  "author": "Saito KENJI, Masami KURUMADA",
+  "cover": "https://mangadex.org/covers/58e2a0a4-1296-4cdd-9552-84bd0349bd0e/a3bde826-9847-4f8a-9e20-25028df8ddcd.jpg.512.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Boy of Black Wings",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/IVZfE4v/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "The Lord of the Underworld’s Mission",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/UyeiHNy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "The Boy of Gemini",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/yD5rF5L/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "The Agenda of the Lord of the Underworld’s Troops",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/9vB9UOQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "The Shooting Star of Sagittarius",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/Cx4Atu5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "The Servant of the Princess of the Underworld",
+      "volume": "2",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/jqUdzkH/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "The Agent of Justice",
+      "volume": "2",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/9ffXp3G/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
