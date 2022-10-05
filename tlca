@@ -1,0 +1,56 @@
+{
+  "title": "Saint Seiya: The Lost Canvas — Anecdotes",
+  "description": "An anthology of short stories focusing on each of the Gold Saints from 'Saint Seiya: The Lost Canvas', exploring events in their lives which occurred mainly before those of the main series.",
+  "author": "Shiori TESHIROGI, Masami KURUMADA",
+  "cover": "https://64.media.tumblr.com/4108955048a7c739ccd74d5f8f06a318/4ca645cbcbe3ca6e-47/s1280x1920/5f29fbc41726ef2de8899d04617a5f8aed3b1145.jpg",
+  "chapters": {
+    "Volume 13": {
+      "title": "Extras",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/aCOFWeR/"
+      },
+      "last_updated": "1598699947"
+    },
+    "75": {
+      "title": "Dreams of Aries",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/sECmwzz/"
+      },
+      "last_updated": "1593256747"
+    },
+    "76": {
+      "title": "A Timeless Messenger",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/Ih5Eblw/"
+      },
+      "last_updated": "1593861547"
+    },
+    "77": {
+      "title": "Crossroads",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/IJeRhkv/"
+      },
+      "last_updated": "1611317947"
+    },
+    "78": {
+      "title": "Turning Point",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/5gw9txR/"
+      },
+      "last_updated": "1612613947"
+    },
+    "Extra track": {
+      "title": "Past → Future",
+      "volume": "13",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/fkowQwb/"
+      },
+      "last_updated": "1598699947"
+    }    
+  }
+}
