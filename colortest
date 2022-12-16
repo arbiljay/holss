@@ -1,0 +1,17 @@
+{
+  "title": "EG",
+  "description": "_",
+  "artist": "_",
+  "author": "_",
+  "cover": "https://64.media.tumblr.com/061547357657c3f7eaa08b82d64ecd23/4ca645cbcbe3ca6e-50/s1280x1920/540f05a8886e5330fee86962a799a6b14f99bf44.jpg",
+  "chapters": {
+    "1": {
+      "title": "Color",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/S3fT25y/"
+      },
+      "last_updated": "1662850468"
+    }
+  }
+}
