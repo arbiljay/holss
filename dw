@@ -116,6 +116,22 @@
         "House of Libra": "/proxy/api/imgur/chapter/guXo4rT/"
       },
       "last_updated": "1670750279"
+    },
+    "15": {
+      "title": "The Dark Archer",
+      "volume": "3",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/2aPe5bX/"
+      },
+      "last_updated": "1671712969"
+    },
+    "16": {
+      "title": "The Wish of a Goddess",
+      "volume": "3",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/184vov5/"
+      },
+      "last_updated": "1671712969"
     }
   }
 }
