@@ -1,0 +1,24 @@
+{
+  "title": "Saint Seiya: Episode G",
+  "description": "",
+  "author": "Megumu OKADA, Masami KURUMADA",
+  "cover": "https://64.media.tumblr.com/5accce1cfae9fae53d193b9c11a6926a/4ca645cbcbe3ca6e-80/s1280x1920/bdc4fc660cc24bdbfd28a1ffb948706e5f763ca2.jpg",
+  "chapters": {
+    "57": {
+      "title": "The One Who Understands All",
+      "volume": "14",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/cNnvMvp/"
+      },
+      "last_updated": "1694872353"
+    },
+    "58": {
+      "title": "The One Who is Dead As a Warrior",
+      "volume": "14",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/396TQqZ/"
+      },
+      "last_updated": "1694872353"
+    }
+  }
+}
