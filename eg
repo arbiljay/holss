@@ -68,6 +68,22 @@
         "House of Libra": "/proxy/api/imgur/chapter/7MTWmDw/"
       },
       "last_updated": "1701037660"
+    },
+    "63.5": {
+      "title": "The One Who Stands in Black Smoke",
+      "volume": "16",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/SfFL4LR/"
+      },
+      "last_updated": "1701526085"
+    },
+    "64": {
+      "title": "The One Who Bears Infinity",
+      "volume": "16",
+      "groups": {
+        "House of Libra": "/proxy/api/imgur/chapter/yIyM2TU/"
+      },
+      "last_updated": "1701526085"
     }
   }
 }
