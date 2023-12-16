@@ -5,11 +5,19 @@
   "artist": "Megumu OKADA",
   "cover": "https://64.media.tumblr.com/5accce1cfae9fae53d193b9c11a6926a/4ca645cbcbe3ca6e-80/s1280x1920/bdc4fc660cc24bdbfd28a1ffb948706e5f763ca2.jpg",
   "chapters": {
+    "55.5": {
+      "title": "Those Who Sever Ties",
+      "volume": "14",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/6RT7cYshFc/"
+      },
+      "last_updated": "1694872353"
+    },
     "57": {
       "title": "The One Who Understands All",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/cNnvMvp/"
+        "House of Libra": "/proxy/api/imgbox/chapter/lQJvlgVRux/"
       },
       "last_updated": "1694872353"
     },
@@ -17,7 +25,7 @@
       "title": "The One Who Is Dead as a Warrior",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/396TQqZ/"
+        "House of Libra": "/proxy/api/imgbox/chapter/0NlD13I2s3/"
       },
       "last_updated": "1694872353"
     },
@@ -25,7 +33,7 @@
       "title": "The One Who Gives Precious Gifts",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/IA7Nt9L/"
+        "House of Libra": "/proxy/api/imgbox/chapter/KuzaLRvjni/"
       },
       "last_updated": "1694962212"
     },
@@ -33,7 +41,7 @@
       "title": "The One Who Transcends His Limits",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/otmF0MF/"
+        "House of Libra": "/proxy/api/imgbox/chapter/aq99UZas5F/"
       },
       "last_updated": "1694985751"
     },
@@ -41,7 +49,7 @@
       "title": "The One Who Stands On His Own",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/mqYmJZh/"
+        "House of Libra": "/proxy/api/imgbox/chapter/835HnJmSKK/"
       },
       "last_updated": "1695125658"
     },
@@ -49,7 +57,7 @@
       "title": "The One Who Conveys His Feelings",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/LTzgfqI/"
+        "House of Libra": "/proxy/api/imgbox/chapter/BihmqMpVaY/"
       },
       "last_updated": "1697931107"
     },
@@ -57,7 +65,7 @@
       "title": "The One Summoned by the Evil Waters",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/S6SJTzN/"
+        "House of Libra": "/proxy/api/imgbox/chapter/mqJb7Rm92f/"
       },
       "last_updated": "1700418540"
     },
@@ -65,7 +73,7 @@
       "title": "The One Ablaze in Darkness",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/7MTWmDw/"
+        "House of Libra": "/proxy/api/imgbox/chapter/u09a3JEogG/"
       },
       "last_updated": "1701037660"
     },
@@ -73,7 +81,7 @@
       "title": "The One Who Stands in Black Smoke",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/SfFL4LR/"
+        "House of Libra": "/proxy/api/imgbox/chapter/ONgU5C62oj/"
       },
       "last_updated": "1701526085"
     },
@@ -81,7 +89,7 @@
       "title": "The One Who Bears Infinity",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/yIyM2TU/"
+        "House of Libra": "/proxy/api/imgbox/chapter/H81m0C1lQ0/"
       },
       "last_updated": "1701526085"
     }
