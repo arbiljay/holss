@@ -97,7 +97,7 @@
       "title": "The One Who Bears Destruction",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/SQQfhid/"
+        "House of Libra": "/proxy/api/imgbox/chapter/FrN1vMfx/"
       },
       "last_updated": "1702767300"
     },
@@ -105,9 +105,17 @@
       "title": "The One Who Was Gifted Divine Ringing Thunder",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/K7Etd0F/"
+        "House of Libra": "/proxy/api/imgbox/chapter/pWMN49dG/"
       },
       "last_updated": "1702833300"
+    },
+    "67": {
+      "title": "That Which Remains in the End",
+      "volume": "16",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/8CYNosRI/"
+      },
+      "last_updated": "1707679800"
     }
   }
 }
