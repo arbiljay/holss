@@ -214,7 +214,7 @@
       "last_updated": "1708884000"
     },
     "27": {
-      "title": "Fist vs Sword",
+      "title": "Fist vs. Sword",
       "volume": "5",
       "groups": {
         "House of Libra": "/proxy/api/imgbox/chapter/nytpRCSgnI/"
@@ -276,6 +276,14 @@
         "House of Libra": "/proxy/api/imgbox/chapter/oYRK0kOPK4/"
       },
       "last_updated": "1728146337"
+    },
+    "35": {
+      "title": "Golden Warriors vs. Dramaturgical Knights",
+      "volume": "6",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/skXm3T6tSO/"
+      },
+      "last_updated": "1728392067"
     }
   }
 }
