@@ -1,16 +1,40 @@
 {
   "title": "Saint Mariya",
-  "description": "",
+  "description": "The manga centers on a young girl named Mariya, who is looking forward to starting her school life in Graad University. However, something strange happens in the auditorium after a certain harp is played.",
   "author": "Seira SHIMOTSUKI, Masami KURUMADA",
-  "cover": "https://64.media.tumblr.com/dffe82f55684c9cd2f4dcf8fe9961d63/4ca645cbcbe3ca6e-d9/s400x600/810c4174e27d3636631d03afc9e456ba888ad8ed.jpg",
+  "cover": "https://64.media.tumblr.com/a22da831bb45de67f2940c1f7dd60f9f/4ca645cbcbe3ca6e-3a/s2048x3072/ebe591a668fa9469c1d1b1edce1d4ddb0b05e78d.jpg",
   "chapters": {
     "1": {
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/PcVjjszxCQ/"
+        "House of Libra": "/proxy/api/imgbox/chapter/GpvTVvBmjF/"
       },
       "last_updated": "1680651998"
-    }    
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/BrKftbN0UH/"
+      },
+      "last_updated": "1763657550"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/TCMvrs0jEm/"
+      },
+      "last_updated": "1763657550"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "House of Libra": "/proxy/api/imgbox/chapter/cZMkevMOPG/"
+      },
+      "last_updated": "1763657550"
+    }
   }
 }
