@@ -2,191 +2,656 @@
   "title": "Saint Seiya: The Lost Canvas — Anecdotes",
   "description": "An anthology of short stories focusing on each of the Gold Saints from 'Saint Seiya: The Lost Canvas', exploring events in their lives which occurred mainly before those of the main series.",
   "author": "Shiori TESHIROGI, Masami KURUMADA",
-  "cover": "https://64.media.tumblr.com/4108955048a7c739ccd74d5f8f06a318/4ca645cbcbe3ca6e-47/s1280x1920/5f29fbc41726ef2de8899d04617a5f8aed3b1145.jpg",
+  "cover": "https://lh3.googleusercontent.com/d/1Y6t28ttcFvJWa_rNKg0GZ9Yiul2t1QQ8",
   "chapters": {
-    "13.0": {
-      "title": "Extras",
-      "volume": "13",
-      "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/aCOFWeR/"
-      },
-      "last_updated": "1598699947"
-    },
-    "13.75": {
+    "75": {
       "title": "Dreams of Aries",
       "volume": "13",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/sECmwzz/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1wha31ZCZYMlH707v8yQ6PeZjU7KWgNOM",
+          "https://lh3.googleusercontent.com/d/1SPJDKXOfXn0kBoRx26bsuM9B29nWdkK5",
+          "https://lh3.googleusercontent.com/d/1Z6Tk3hOesLoY5Vli-isuPSPui9RHjJfQ",
+          "https://lh3.googleusercontent.com/d/1q06__2IOMvcGkBTKMTXlmXKdAkDWsKRh",
+          "https://lh3.googleusercontent.com/d/1zcdisq_09bkGfsJnSDkwyDZGxCsuPVAP",
+          "https://lh3.googleusercontent.com/d/1FO5b41x5DtoqdxB3Ec3dZji-IFUHd9uF",
+          "https://lh3.googleusercontent.com/d/19vbpWs98402-7ufCDbZqlLyziazCYkkk",
+          "https://lh3.googleusercontent.com/d/1Vs1aX5AMPyABuy4WlnFNvXXGAd6Wtnb5",
+          "https://lh3.googleusercontent.com/d/1c5fivDU1NgWFBxi5Z7vr6aQuVoG887cY",
+          "https://lh3.googleusercontent.com/d/1NLYPmigtaQjtfcBEe6WNgpFNhRBKwgOt",
+          "https://lh3.googleusercontent.com/d/1IHjSJPa8rnIs_Tb8zMJebTDoo2XZDPSt",
+          "https://lh3.googleusercontent.com/d/1CXMoz2yJaE2JGVw5qF7fXwPdBsgKG4wO",
+          "https://lh3.googleusercontent.com/d/17dn8a_heJ1OkjKeqZunqYKw7mx5tVVsa",
+          "https://lh3.googleusercontent.com/d/1rZ05eUaoGpe5H76YjhL9qmNA-POx5YKI",
+          "https://lh3.googleusercontent.com/d/1p56gp3ExOkNaZDiFNA7FGwWK9rWjjEiu",
+          "https://lh3.googleusercontent.com/d/1fUHAFTialm6B-qkiG2Rcb8Va4yRMN_Z9",
+          "https://lh3.googleusercontent.com/d/1nQa9HRZigrfrQxaSZcQCDvfOzspTORyZ",
+          "https://lh3.googleusercontent.com/d/1Kx0T2wXLSRzF63oMN1JSAuE6gPbejGld",
+          "https://lh3.googleusercontent.com/d/1x__4W1kK01SFb_fsyuW2WwOoh8M94rrT",
+          "https://lh3.googleusercontent.com/d/1CWaC_skHyHlWEDa7YSdF-VwU6n_S7xRN",
+          "https://lh3.googleusercontent.com/d/1IEAQ9bKsBHCGOGjD74ACYxs5b9l7pVBy",
+          "https://lh3.googleusercontent.com/d/1Y9hEHC9xSXnK7xEObQAaR-_8-jwF7R40",
+          "https://lh3.googleusercontent.com/d/15itqthleRnoaCgNvNiHK_Fl3uE5uSe6i",
+          "https://lh3.googleusercontent.com/d/1hL8MwXrGW1qhVH3aguh38o5HRYZ6VVp8",
+          "https://lh3.googleusercontent.com/d/1sC59edMGbAEf-dbAQGchPFttBWQRNek9",
+          "https://lh3.googleusercontent.com/d/1zbCMo0Hv3W0yQceG0JUcR5OiDEim7K0L",
+          "https://lh3.googleusercontent.com/d/1WzWw4DKIC_gOvaG5g2BKySD3zue2yYlY",
+          "https://lh3.googleusercontent.com/d/1NDBWZx83Q8F6v3YHc-7R6jqzZgMRvjAf",
+          "https://lh3.googleusercontent.com/d/1WEs33WfCwru8MVnmpxgsaXAdYnAufZDD",
+          "https://lh3.googleusercontent.com/d/1MAaWRCIdUBLHarVYWUrN_VH_ri9jHnr4",
+          "https://lh3.googleusercontent.com/d/103KWzqqLnbta0XF2f7gg63hoNdON05L5",
+          "https://lh3.googleusercontent.com/d/1DPMMDQA_gf-KKlZrx6p-m1AbZS_4MYCj",
+          "https://lh3.googleusercontent.com/d/1vYq8RpbpA2AO_TlY6jXA7fI5ki-cxYKh",
+          "https://lh3.googleusercontent.com/d/1e2fZrX6SJGsUemQf3J1Y0AmWpCMTGhfl",
+          "https://lh3.googleusercontent.com/d/1pnRG4y8dOSw9vRWaywoAJTj1VwtNyxjz",
+          "https://lh3.googleusercontent.com/d/1fPbxzYpgfGUwBTi0tPsq1VakCQE9uKVR",
+          "https://lh3.googleusercontent.com/d/1smHrZfOS7nvtoCXDydhDvea0JGnh-tdz",
+          "https://lh3.googleusercontent.com/d/1wyS619bK1ZqhSM1JW6wldDLCQyk4P_SA",
+          "https://lh3.googleusercontent.com/d/1sQUYPvOxxikhSRoVNm_2CP_5wbCXp_sv",
+          "https://lh3.googleusercontent.com/d/147c2hm4qlxVulM_kK3bXjF3Rnl_9IwKx",
+          "https://lh3.googleusercontent.com/d/1go2-Q8k46Ny8KGhve2siW3PD4MEVo1j0",
+          "https://lh3.googleusercontent.com/d/1tlAuWqqaM230DEa4yxOHFT1gnU5tv3iX",
+          "https://lh3.googleusercontent.com/d/1-qXDLjBIdduSOhHA7IuD-tpx7MfzzIWf",
+          "https://lh3.googleusercontent.com/d/1bJX7rsWZAO5LXyLpJiE7zvFjUcnDM2BI",
+          "https://lh3.googleusercontent.com/d/1LCYOin08bvMwjL_8Ij63pnuc2kJjFsEz",
+          "https://lh3.googleusercontent.com/d/1LiE7BcZ3epRCjKql8bxRyU8wX8qxwV2m"
+        ]
       },
       "last_updated": "1593256747"
     },
-    "13.76": {
+    "76": {
       "title": "A Timeless Messenger",
       "volume": "13",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/Ih5Eblw/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1lAXDkZLkM80aj-fuNjTY6rrpT7Rdf1RF",
+          "https://lh3.googleusercontent.com/d/1MC5xtAf-SLnrbcJahp_VdJ9Sc3ioFR_v",
+          "https://lh3.googleusercontent.com/d/1aTOJnUD9yWthU7BDUjeKzgfwAqy-1BBg",
+          "https://lh3.googleusercontent.com/d/1Dgi95kZl2ezv2HBzk_RVIZALFUFrdBKq",
+          "https://lh3.googleusercontent.com/d/1WuR-1LfU2JRfVSz2YbWtn3m6IJ56Ihvk",
+          "https://lh3.googleusercontent.com/d/1P8PSFlKzcYy-aXEQD4kVkIk4p3qZGeRZ",
+          "https://lh3.googleusercontent.com/d/1sDxj47iLhVZkE7brh5-i5f9TnmTDE6Kw",
+          "https://lh3.googleusercontent.com/d/1XYuHC45qR6sNMoNi1TC3mD49MQx5zrEW",
+          "https://lh3.googleusercontent.com/d/1Rd4yVnrrL4Saka8Ha94Zf3ageYgTi5gS",
+          "https://lh3.googleusercontent.com/d/1AUWS9biTF0OwlDYha5eQkKn1hUZCveIi",
+          "https://lh3.googleusercontent.com/d/1Qd5JqjZN4fg1F-jus1jE6aNYlxXvjfcz",
+          "https://lh3.googleusercontent.com/d/1ll6YS8XvfKrTkZlO8_sj6XnsYWPRLf7S",
+          "https://lh3.googleusercontent.com/d/1MzibcGSqrssBy45ILqcL1FjFd091gyp_",
+          "https://lh3.googleusercontent.com/d/1L50Apz4stw354DJWuC-DFm6eU2zTp39d",
+          "https://lh3.googleusercontent.com/d/1MsElpjP1w3xSlBWJDoSKVo9aCmERQzXT",
+          "https://lh3.googleusercontent.com/d/1qAdrxqHrfD0my-ixknQaBM4GB9qvogdP",
+          "https://lh3.googleusercontent.com/d/1zhizU-mw0f3vDrczMpZ6XtZrHhc_v1cR",
+          "https://lh3.googleusercontent.com/d/1by8ZPIJjQC-huLvBiFrJvickAE3WraAs",
+          "https://lh3.googleusercontent.com/d/13k4lRPQEZJFrqle5U3N94ddvYeykth85",
+          "https://lh3.googleusercontent.com/d/115ZWDfAMJtAxdzL1p7E3dFEbBFJvoI-h",
+          "https://lh3.googleusercontent.com/d/1UmclKSsoUNthzCu27iBc91FjV2qMJYFO",
+          "https://lh3.googleusercontent.com/d/1kI4UUK0vYpl6imXBSfY4oJTG8cpzjKxM",
+          "https://lh3.googleusercontent.com/d/1KGEszHg6nzevW7ILPy0HZUqrVRuduQLT",
+          "https://lh3.googleusercontent.com/d/1hht7vkRu-tiN3NZChMLO8uhGXzv2g51e",
+          "https://lh3.googleusercontent.com/d/1lYpIUStWXFJ63fKtFo08f46QDu0wJygG",
+          "https://lh3.googleusercontent.com/d/1l2ycg7OMOfE7JjKYhvILFvPKLKh05RL2",
+          "https://lh3.googleusercontent.com/d/1FnLrEAZ5--yF0nblxh2emVI2Gj1wQLij",
+          "https://lh3.googleusercontent.com/d/1JfymkuV3Mi6gOFUJj1Pc2AUQzMtv9PNT",
+          "https://lh3.googleusercontent.com/d/1-6DAAcB6a_SzMrW0o6TQnbX-FJvjFQhV",
+          "https://lh3.googleusercontent.com/d/1GRq2fmRKf-R4IQAQnqPT5sbA0JBT1V2M",
+          "https://lh3.googleusercontent.com/d/16XgE0XPng4vphuowoPv3jC_2kgdqaoKP",
+          "https://lh3.googleusercontent.com/d/1uhYWl4ixdg8bA9vPEMZKIO54QaqAEUZg",
+          "https://lh3.googleusercontent.com/d/1OORe4SINMeTPjlbJWO6POyKydbk3uBr0",
+          "https://lh3.googleusercontent.com/d/1lvZ9tpyJ3__SfezB1mmrd7RGUP6io60N",
+          "https://lh3.googleusercontent.com/d/16rI-9rry3CpMy-m5x3uO0pW4Dqcx1A70",
+          "https://lh3.googleusercontent.com/d/15oIPp2dQiiG1MbBzEW2qBA8rZBAFNzzN",
+          "https://lh3.googleusercontent.com/d/1iZ16j4vMT6E6uBZHrV82iTT39G6dsW1B",
+          "https://lh3.googleusercontent.com/d/1jY8DvC3h6dGQcToeO4_CK1XbHaUFGBL3",
+          "https://lh3.googleusercontent.com/d/1L4nbYmXisOm3-qSuwcdnUVcSO67RvAex",
+          "https://lh3.googleusercontent.com/d/147akYpIx-2K1gWrQMqK_d6U8EAt6b6dX",
+          "https://lh3.googleusercontent.com/d/1Ac4_9bPpek_BUYb-3UKOVjWi3D29-gG0",
+          "https://lh3.googleusercontent.com/d/1-Ug_XSYP53L6EeeDCkQkhbMydNhpi5qL",
+          "https://lh3.googleusercontent.com/d/1ZYD_zAW0iKBEWAQ2hYWQw4gUHCmHTH2H"
+        ]
       },
       "last_updated": "1593861547"
     },
-    "13.77": {
+    "77": {
       "title": "Crossroads",
       "volume": "13",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/IJeRhkv/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1ECU219--ySCwGxHKulnFaIr46cYHuaN6",
+          "https://lh3.googleusercontent.com/d/1ILsYwH3B0qvjZ4S1INQeMTiHjXUavJ-Q",
+          "https://lh3.googleusercontent.com/d/1oc7eCoSp7umtYiEnZp-N-xUj3pTeCWRt",
+          "https://lh3.googleusercontent.com/d/10KfHveoxXuM45TDa4VwOUpexf6TmwRPb",
+          "https://lh3.googleusercontent.com/d/1BCNg6zpBhyzJIU-Jt4n8zPfSdAtMtTYc",
+          "https://lh3.googleusercontent.com/d/1phmST7RmzaUKsi1uu8fGukUShnhxCa8E",
+          "https://lh3.googleusercontent.com/d/1bgVfs1GKquos3BmKQK62z2y756Q1udZf",
+          "https://lh3.googleusercontent.com/d/1v-3GQKcxMxeyQtRFtt7wGhhL3JgVmNvM",
+          "https://lh3.googleusercontent.com/d/1qAnUB5J_bIV5dlk-BnJ8NkqOhwouFksq",
+          "https://lh3.googleusercontent.com/d/1S0wPBbzcOsGa4WU9IxqPqZWprQ4OI79D",
+          "https://lh3.googleusercontent.com/d/1F56sfLMpf1otvj6c0-UMb_KebCFZeaqm",
+          "https://lh3.googleusercontent.com/d/11JxASs6ZlgdI6S_Loswg6YSdBKMvA9Fo",
+          "https://lh3.googleusercontent.com/d/1m-gzkm-QGq-GpRS-1qp7QkaBet_vurvj",
+          "https://lh3.googleusercontent.com/d/1Ch1FSqnCmozeKwr0zBzh0Ofp7QX73doT",
+          "https://lh3.googleusercontent.com/d/1OU6UoDeUn-SJD48eGHCh74ZzWUb4CHCJ",
+          "https://lh3.googleusercontent.com/d/1oreXmh7CQDUZVlpqO4f8NpT_dRhlLlrt",
+          "https://lh3.googleusercontent.com/d/1Gc2mkL4ePPmuTWF19Vqb3DpUY_m3ptaF",
+          "https://lh3.googleusercontent.com/d/1NXjt6ngPZpCOOnXvvwTfEhP1TbW5_e7J",
+          "https://lh3.googleusercontent.com/d/1r_YJ2JcCbX6AU6VOidPgU0UP6Q1fg241",
+          "https://lh3.googleusercontent.com/d/1azldQdC5mgJDNUPY2WW65NWhsIPF5wKE",
+          "https://lh3.googleusercontent.com/d/1_J6WaELAyD65OF6nSd0hGKyK7-0s5qUd",
+          "https://lh3.googleusercontent.com/d/1Vl68xKXZBYAUyQstHFMW2i5MlUTLlALe",
+          "https://lh3.googleusercontent.com/d/1ic4taug7Uz0R0BSZ35pIlsbPgm7B9mhh",
+          "https://lh3.googleusercontent.com/d/1wcq_tSPY_7H1SpNYwKuxNvEw306PdJ5S",
+          "https://lh3.googleusercontent.com/d/1HngPph3zBAgMGEVvoxUe55LKcjTdqftX",
+          "https://lh3.googleusercontent.com/d/1ALNgZTDgq5BRquXdPQlvbyIRwDu4ADv-",
+          "https://lh3.googleusercontent.com/d/1PMM8Os4yX9NkbWEFZDCoI5PPrM0pUqUJ",
+          "https://lh3.googleusercontent.com/d/1Si64Pmqc1E2YQYZyQJk8TYgjTy5mhLa9",
+          "https://lh3.googleusercontent.com/d/1ZGbCZqEDEWA8R4mXtOnlZyJu8V_giHaF",
+          "https://lh3.googleusercontent.com/d/1fZ5QRJeMIE1MXei4e2fsaympu84W8x97",
+          "https://lh3.googleusercontent.com/d/1QHvWaFcaHLdQZKmiPPk5j5Wxb50vw5cf",
+          "https://lh3.googleusercontent.com/d/14ucGywlAGrHh-2N68nZZxqN2NxcEx_Uz",
+          "https://lh3.googleusercontent.com/d/1vl6GXEAI1Ph92IeRCaaJwyTv3lF2A4lO",
+          "https://lh3.googleusercontent.com/d/1xgI1c1o7_inOftcCPcfixbRCmfOEqPHS",
+          "https://lh3.googleusercontent.com/d/1MBnGT4x1aF0MFea3_4ssfCYW6Wjz_8xH",
+          "https://lh3.googleusercontent.com/d/1YJVT-DnOJfDH0e7IBzhffEXYGp5RCf5v",
+          "https://lh3.googleusercontent.com/d/1O6BJmNkKMccuHLthnQVZuj9UHgJjR9Vv",
+          "https://lh3.googleusercontent.com/d/1COH5jETPyS8asdVD0zzbQejad1bMNssp",
+          "https://lh3.googleusercontent.com/d/1j4ME6PeNJ50-QuS2ORhowPuX5kdNxeEU"
+        ]
       },
       "last_updated": "1611317947"
     },
-    "13.78": {
+    "78": {
       "title": "Turning Point",
       "volume": "13",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/5gw9txR/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1DetjODePakXlJLlg2skjfrXNbwu4I9EB",
+          "https://lh3.googleusercontent.com/d/1fRdW13t1g_50fmBYTnwMC711-r21DKX5",
+          "https://lh3.googleusercontent.com/d/1rfvDEmqy42uNKGGwluerAssG1VQDkqY0",
+          "https://lh3.googleusercontent.com/d/1suAj20RP4lD58u8tr6cMookffESnavsH",
+          "https://lh3.googleusercontent.com/d/1lsUD4f1azUwGdHnkbcMZ-qLAjSlVzF4C",
+          "https://lh3.googleusercontent.com/d/1DSNNvklnAoyNe8ntB1v74oGG1ijx-nNB",
+          "https://lh3.googleusercontent.com/d/1KeCNxgoi-BaVzt4vlKIEGTqLayQv0NY5",
+          "https://lh3.googleusercontent.com/d/1WGFIGF1YRC4zS47EoWk90OwYGzm7uVBT",
+          "https://lh3.googleusercontent.com/d/18-1xsa2dG3yOcNFgNgkTw3hRrbYt6e1A",
+          "https://lh3.googleusercontent.com/d/1_v-MrQQpEEEjshOwEDVQYgHiX0rgUHn-",
+          "https://lh3.googleusercontent.com/d/1Tp8BqHi9whPtyc-yInZ28tRdqypHTdw3",
+          "https://lh3.googleusercontent.com/d/1bSBSugJb0OPZGx9Zbjhbl4zwQeM7fE9v",
+          "https://lh3.googleusercontent.com/d/1wH080mYJbqdOQLfgcccMaX_Rx4H5Yclb",
+          "https://lh3.googleusercontent.com/d/1OCUgLnPwVMLzG9lD9gWEVthzmax6I0g_",
+          "https://lh3.googleusercontent.com/d/1ontA3s5Uq89xohw1QwNDEGPPRQmMVi8m",
+          "https://lh3.googleusercontent.com/d/1YRcNPtnRjDzR8wx_9QRSNQXGGf0RZJqa",
+          "https://lh3.googleusercontent.com/d/1UDzTugbN4WDc-iLeAH70FdiBkf1euClj",
+          "https://lh3.googleusercontent.com/d/1KidJX7lbmt11xlfbks-qx_ulcN2bjTgK",
+          "https://lh3.googleusercontent.com/d/1E9WG1uctbVvbCQ-GWsWlyS61kTx4meDU",
+          "https://lh3.googleusercontent.com/d/1DmrrvPDSa9sixYMZn4VfgqyMq-OufhlY",
+          "https://lh3.googleusercontent.com/d/1pOWzgUWHwoQlBvpK0uI91G8ja2nWqHEl",
+          "https://lh3.googleusercontent.com/d/1j6zM29_DI9V0uRCrXK5hfd0lpkVpok_Z",
+          "https://lh3.googleusercontent.com/d/1ppMp7T8586TTOml1wvP-yZgtnbRefNux",
+          "https://lh3.googleusercontent.com/d/1xEfXs05y50Ca0GKwy9kzZyUTLKnjkX0I",
+          "https://lh3.googleusercontent.com/d/1YrLe4E-jKmaU1Dk7y5_PKqI1xJSV_f5S",
+          "https://lh3.googleusercontent.com/d/16lVgmUKl2Z70LKrwMaektsF7W3vZ4pNJ",
+          "https://lh3.googleusercontent.com/d/1aa5EZPtU2TZ3jMjTN8QZL8IFFZLJaEPr",
+          "https://lh3.googleusercontent.com/d/13yuzLifvA4zSnO7PPuDLDavdnefFrAb9",
+          "https://lh3.googleusercontent.com/d/1ZZXeCfOODL8YAAmulzjoc7xaJiKIDvwV",
+          "https://lh3.googleusercontent.com/d/1KFYOnV6bHsrRF_dFsmC-KwjIE-7y9q8n",
+          "https://lh3.googleusercontent.com/d/175bh1Qsa0D3FaONLWeAS7pcTTYIvo-gs",
+          "https://lh3.googleusercontent.com/d/10sji0QNEM5lbylIsh9R-E-gBOsHS_A_B",
+          "https://lh3.googleusercontent.com/d/1XcApjBQiyL6u3jM5pS0kmNE7Eg4Bp2E5",
+          "https://lh3.googleusercontent.com/d/1-ufGq3DsB0euzskqqnEoQf5yH-N95Nbt",
+          "https://lh3.googleusercontent.com/d/1wvvV8XZgdLNvgUl1wr5ZuBnPxqR31DcF",
+          "https://lh3.googleusercontent.com/d/1W7Km04Mzy8Q4O_QmdiFzEdJx4_Z08fOZ",
+          "https://lh3.googleusercontent.com/d/15a6OR3qD-OxP4YDHcISWaZ6bnolUB6F9",
+          "https://lh3.googleusercontent.com/d/1je_nkSja24unHoLg_lZFs4yrUlEP-OJJ"
+        ]
       },
       "last_updated": "1612613947"
     },
-    "13.99": {
+    "78.5": {
       "title": "Extra Track: Past → Future",
       "volume": "13",
       "groups": {
-        "House of Libra": "/proxy/api/imgur/chapter/fkowQwb/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/12_R7Su9qeWJbr2UENf1TwWRAF1fu9X0Y",
+          "https://lh3.googleusercontent.com/d/13hTYV-L5TNjM7dKxARrbRJ3qP7qCpaBm",
+          "https://lh3.googleusercontent.com/d/1TKNGlLueTKE4oZod9imIqVE95RkJGccJ",
+          "https://lh3.googleusercontent.com/d/1LrMtKuSGU4KaItDJ05DAlTuVgaFfTJcV"
+        ]
       },
       "last_updated": "1598699947"
     },
-    "15.82": {
+    "82": {
       "title": "An Unstable Sanctuary",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/igxEXrG7fE/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/18gtYczgk1hLEJUK1ZZ1rzQ76iKEYyiKm",
+          "https://lh3.googleusercontent.com/d/12mw1hyCByJrvg6T-lDl4y3h8UHuqFnmc",
+          "https://lh3.googleusercontent.com/d/1nr3fJIRUgX5I-WXF9z8DHo25wdf9kBBQ",
+          "https://lh3.googleusercontent.com/d/12qtLWHMdlo1KkYSmhO5-dlQsUFovN6nT",
+          "https://lh3.googleusercontent.com/d/15q0D8rUyF5ss5KhD1psSgKD-uLBCCiPz",
+          "https://lh3.googleusercontent.com/d/1TsYPjjqNnBNxwqe0GtdjknOaxJQ8Vq0u",
+          "https://lh3.googleusercontent.com/d/1eewLf35-sZ0Xlx9EtuOSPuXu-czD4p-q",
+          "https://lh3.googleusercontent.com/d/1cuHt9IO0f_VYBPpeMLLR7zRpjgYrrJet",
+          "https://lh3.googleusercontent.com/d/1Q3YMF8-rBNHShpPIH_5ZV6O1XQPNAzEZ",
+          "https://lh3.googleusercontent.com/d/1Nt0k8_VyyRxRoEB7wpUaUBGIRXsgaUE1",
+          "https://lh3.googleusercontent.com/d/15ZXmHWdFzYajQE_fTy_WrOmhT7U9RDLy",
+          "https://lh3.googleusercontent.com/d/150pqFGLmPUBAKgEuf8J3DG9isJNQuI-y",
+          "https://lh3.googleusercontent.com/d/1yA1-fwN8hwKApboN1ji9p0nqRwtpBqq_",
+          "https://lh3.googleusercontent.com/d/1VlOy_8EzIA4Iks4IrMd8FhAas4bJMf_G",
+          "https://lh3.googleusercontent.com/d/1JqTW1oUpXT2LJSxJne1YESO6bHjSaTxa",
+          "https://lh3.googleusercontent.com/d/1omaX0WbWlsHqvraGSRzVQQblLQBQQMOp",
+          "https://lh3.googleusercontent.com/d/1-i70QFKe_uFEH3h_dii67mdI_KySo9XW",
+          "https://lh3.googleusercontent.com/d/1wzSa0W2stv3efSftVKHqKBEhKzew4U9t",
+          "https://lh3.googleusercontent.com/d/1RZJ9cZKlX7h_oqQTC63K2R2P50E0owVG",
+          "https://lh3.googleusercontent.com/d/1eDAi3OKdt3J8Da4vbbd9BBkJdppWIkBc",
+          "https://lh3.googleusercontent.com/d/1ZurcrrYwNVu-3tdtlZ4B4GQ_hrs-XvO3",
+          "https://lh3.googleusercontent.com/d/1e7-1bEQPl8_LJjyaZKa4O6cC_gdfVbn_",
+          "https://lh3.googleusercontent.com/d/1Kv-jeh9zNm6Yt-R6Q1VMNrZ4W7nccnyI",
+          "https://lh3.googleusercontent.com/d/1Eqy4NgxHy37zBUswyUDK2E-5ahtq2HI8",
+          "https://lh3.googleusercontent.com/d/1t8m4dDpfcLyZae06Y7hYTJCeUk3_Mqr6",
+          "https://lh3.googleusercontent.com/d/1Xo9QMDlJcr8YW7kYj2MdLZm_XuZKlK7D",
+          "https://lh3.googleusercontent.com/d/1C1xqY-kGHh5-XTxd99GHsgQWrOURfsHd",
+          "https://lh3.googleusercontent.com/d/186Td2lv-n5KE9BZXLXfZE5f62YzJJBFc",
+          "https://lh3.googleusercontent.com/d/1jsdpGnIEjDk4od9XJ9kXTBC1VMtJPRP6",
+          "https://lh3.googleusercontent.com/d/1GFTmBuCIoEIKRHqiiW1afh7LS822NDF3",
+          "https://lh3.googleusercontent.com/d/11XeD8joNZyC8z-xyv59Ouz0RV-n-hqjB",
+          "https://lh3.googleusercontent.com/d/1YwjzIAxMtJZwucAvO-EnNt-_LVOERxW5",
+          "https://lh3.googleusercontent.com/d/1jSOaM49n0u9thTDgPxDIEcwSbnWCT7K2",
+          "https://lh3.googleusercontent.com/d/1NnLTSwiRnmPD8v7pj0L40amPmdggdtMa",
+          "https://lh3.googleusercontent.com/d/1qINKJ-atqyB7C13xJkQWs_44sYYSrjNn",
+          "https://lh3.googleusercontent.com/d/18OKAoHiQKI_63snYKjgERHoNlclwwjsG",
+          "https://lh3.googleusercontent.com/d/1LTANZEssUVy7hI7Guxfq2a04u62osHYm",
+          "https://lh3.googleusercontent.com/d/1JmK86ZhR4Guw1KS1IPZfn4RsDlw_AtQu",
+          "https://lh3.googleusercontent.com/d/1UmsqYEj_gGFdCzWx02p4OYRv2JOanf7N",
+          "https://lh3.googleusercontent.com/d/1t-I_11NAIDu0di_v3r30zeBlkW1Qei_r"
+        ]
       },
       "last_updated": "1739131754"
     },
-    "15.83": {
+    "83": {
       "title": "Corrosion",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/CdPakOfT8f/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/13WkZC4i2GCkMwkU-hT5dS-3rKAbHpXeT",
+          "https://lh3.googleusercontent.com/d/1fDkhLsQKIbOGcp5Jw1rLlNnMy_H18qjG",
+          "https://lh3.googleusercontent.com/d/1kAyPDRQ03XwD84oZ_tUAt2p4bAdb2BLb",
+          "https://lh3.googleusercontent.com/d/1EORyaFRU2AABwS-5EAaisflZnNHw9a6t",
+          "https://lh3.googleusercontent.com/d/1-yJKuFGHezjOy9JkZotc3qWL_l3_-SLy",
+          "https://lh3.googleusercontent.com/d/1XY1haghoaavZlWTF6AptUNSPBjcFmAHN",
+          "https://lh3.googleusercontent.com/d/1x74beqmF1RhDwIgT2AEHrHxNVnmVLbnp",
+          "https://lh3.googleusercontent.com/d/15UKZV0tgkN2IKgMVJZt1Yahj50MBOJh4",
+          "https://lh3.googleusercontent.com/d/15iYTpt4EKqO67A63TIkmD9xbmg0kMhid",
+          "https://lh3.googleusercontent.com/d/15xkgBIeAo0QSP8wy71MwKaUfooLNZMRp",
+          "https://lh3.googleusercontent.com/d/1q4k77a_-WYHfXpubyLYubBz7rAegd5hI",
+          "https://lh3.googleusercontent.com/d/1iaumaKhvxTSh1VCWpBaR4j9L6adEiyAF",
+          "https://lh3.googleusercontent.com/d/1MtgDp2bCSZl4bNQIWwxlWbUz-wPabgHI",
+          "https://lh3.googleusercontent.com/d/1x83aNaWfKo4U3luLaJRsuE_41R-XQ58A",
+          "https://lh3.googleusercontent.com/d/1LmAPCXWRedRwjBZpeeD7QElRh7Re4w99",
+          "https://lh3.googleusercontent.com/d/1snOHzgiflQ1fMl0X2_4UGrKg7MC-d6oK",
+          "https://lh3.googleusercontent.com/d/1r7pXwk55WbR0euNlAB0551WpMfiFCNe-",
+          "https://lh3.googleusercontent.com/d/1rAo0KAXvRkQapx7HR3wKqbXr5U-y8SJv",
+          "https://lh3.googleusercontent.com/d/1P3aMEUFfhm7DCpUV3_B3ndJ0xNZHoxFo",
+          "https://lh3.googleusercontent.com/d/1fWPjoHXnDApp_DeEbPOk8-lAE1h78nt4",
+          "https://lh3.googleusercontent.com/d/1JLdJQtBCfUumO87ZfEAVrIiN7cO-flZD",
+          "https://lh3.googleusercontent.com/d/1wG63reLMzrL9KzGe2pEwqyj01nhrosN7",
+          "https://lh3.googleusercontent.com/d/1S1HqaWpTEdGiC8SQWcnIfnWx6MClfU2H",
+          "https://lh3.googleusercontent.com/d/1glnQFOlr1Z57OuJSrW9QvkJO7NA5klOx",
+          "https://lh3.googleusercontent.com/d/1Gq0SARI123s0Nyuk0iWUulpc11EypRrh",
+          "https://lh3.googleusercontent.com/d/1hB3RFDfGJkgTY21xfo5q9zpy0T5Vbiq3",
+          "https://lh3.googleusercontent.com/d/1zdVKN1hYNB5Ysej3VrlDisFRme5c5rSG",
+          "https://lh3.googleusercontent.com/d/19Y-w5H4z-99rcr8ehjy0WyE_b4NLBCAL",
+          "https://lh3.googleusercontent.com/d/12as0jEx8jDoATUpcv0RtBzvMlSlIBYpv",
+          "https://lh3.googleusercontent.com/d/135XIBbr_7qyv4_6fsBrIUVt7DHlIXTdS",
+          "https://lh3.googleusercontent.com/d/1N3LCbee4xQ_Y8S7uNpo0dlSDn-dddQ5H",
+          "https://lh3.googleusercontent.com/d/14q6nXFZhplty7NN0uI_S6QCrUkKR4GkN",
+          "https://lh3.googleusercontent.com/d/1L0beP0_qjDNtLilg2hsLwTW8aRHax4LT",
+          "https://lh3.googleusercontent.com/d/17NaVB1KydxnQiT-RGkh6zYuL_doWqjVJ",
+          "https://lh3.googleusercontent.com/d/1jY_fodL_e0FJV0RRKHvOc_7LLaLu8KFm",
+          "https://lh3.googleusercontent.com/d/1QmRI_tbXNYWippG4m0Rh5NVf8XcZI8tR",
+          "https://lh3.googleusercontent.com/d/1W4FogxfGDm88-A0HssFbV-J1gpZqTndj",
+          "https://lh3.googleusercontent.com/d/1YyAgnx_oC-HX_RW1tEljOpCoS3fAULNL",
+          "https://lh3.googleusercontent.com/d/1nFVnMl3i-U3iu8yvuuDmnaa4DDbNqKoJ",
+          "https://lh3.googleusercontent.com/d/1ZMj4FptLIX2APUaOzjNZHstc_DOcUAfc"
+        ]
       },
       "last_updated": "1739635154"
     },
-    "15.84": {
+    "84": {
       "title": "The Traitor",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/tyHXQMClzx/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1_sBfk_OuwKP_yQiKbF5o9MD9ppEtP8iw",
+          "https://lh3.googleusercontent.com/d/1tg_49XIOE3s5KqL3Fd8EWK5yYJaEYT8F",
+          "https://lh3.googleusercontent.com/d/1WLkMFAt5QebHHBqWc9tW1o8MiUbWY4Ix",
+          "https://lh3.googleusercontent.com/d/15Q8zYbtMSBbbeYl0zbe0dBIkYPX2Zfwd",
+          "https://lh3.googleusercontent.com/d/1qU5E0ma3-bDLqDREVP2Nrxe9nDbclwlo",
+          "https://lh3.googleusercontent.com/d/1rxq20D-nndUxN7MwL9GM_PmWOnlIruHi",
+          "https://lh3.googleusercontent.com/d/1lW6xjP8o5xjtftAkWj-MO29mzpyCIw0o",
+          "https://lh3.googleusercontent.com/d/173LYWXzHhOhxufajErHp8IIjwH0Q8BGw",
+          "https://lh3.googleusercontent.com/d/19ztSJqxLnazpUqArhE_xzbtg-wSXTN_q",
+          "https://lh3.googleusercontent.com/d/1ROIq4yBeYH0bT2fRmmUFYayum4n26gSs",
+          "https://lh3.googleusercontent.com/d/1LcJxXmyE2QoItS3MFPFLW-mD4w5zf7R9",
+          "https://lh3.googleusercontent.com/d/1P-VlxKLVRrrlHspzGZdQwU6PH5cYWWD5",
+          "https://lh3.googleusercontent.com/d/1WQ7AqgPa7K1FVZJ2dMsDHMS3ri8j7ZCU",
+          "https://lh3.googleusercontent.com/d/1hFo4pzRgIiIIkbGJuT1pC5XCHPVv-phz",
+          "https://lh3.googleusercontent.com/d/1gH9DkXrNfNLVfMEmXBexhIRLLVKdPATf",
+          "https://lh3.googleusercontent.com/d/1KvDzGNU98E3RSW8lBNhuSAJ81IQDlM26",
+          "https://lh3.googleusercontent.com/d/1GaGmH3VLl9io2mRLnMoFVajiy4OivLaZ",
+          "https://lh3.googleusercontent.com/d/1Hou3e0_oipabQp0KTeCnszJr79meZ-my",
+          "https://lh3.googleusercontent.com/d/14vBTNpBPMX7Yy2nLKUcXSzTaHfWxhVU0",
+          "https://lh3.googleusercontent.com/d/17HYJ6Lj7kEsdD7IKMBL0PzbDQ9_kJHKU",
+          "https://lh3.googleusercontent.com/d/1EHeqljTb44qwlmevFIPOpsnIP0Nw-Rps",
+          "https://lh3.googleusercontent.com/d/1K07E62ofRs-qtMwQcsbirYhLtZaGr3W2",
+          "https://lh3.googleusercontent.com/d/1TJvdaKfXvM-ehCPS7XUlvDdBBEp2fiRk",
+          "https://lh3.googleusercontent.com/d/16Pq3YXyfFrIsPnnAP8fMspa6cE0e0pZ_",
+          "https://lh3.googleusercontent.com/d/1ai1wnma8NBm0WmUcWUr5FKaViKmDbrkG",
+          "https://lh3.googleusercontent.com/d/1Lfmrr-Gn9zdiWMzj693V_T3D7rH5Y_CD",
+          "https://lh3.googleusercontent.com/d/15u6Ixf9-wIy7rDEaSIoQSzInhq8U_hG6",
+          "https://lh3.googleusercontent.com/d/1VsiaJgX5CSEIZX1nfpUl7Mg0dWV9wDdd",
+          "https://lh3.googleusercontent.com/d/1x50UE3eGuzH7z3HbmU9P7Pg5kwjLiitK",
+          "https://lh3.googleusercontent.com/d/1cGsqzi23BDa2a0qMH8EX-EDYM9PJu61C",
+          "https://lh3.googleusercontent.com/d/1uTRAHza86OE0RLg--Ldq5i64YbuIVMGt",
+          "https://lh3.googleusercontent.com/d/1UGmf4gbwyauloflhNcx-AroqmcBeXjH6",
+          "https://lh3.googleusercontent.com/d/1Eg2Vyxjj75tOY6Cw-wIjU_txnJbHWKvo",
+          "https://lh3.googleusercontent.com/d/1zWUXvluB89gGsc4LtH4f4IpuTawoIeUR",
+          "https://lh3.googleusercontent.com/d/1ta5LtkfuY6gmbP_jVLxJiSmKYp9YHOSs",
+          "https://lh3.googleusercontent.com/d/1TTCVBM5suXMppSHP5U4Wwshlwbc2I8qO",
+          "https://lh3.googleusercontent.com/d/1yPvZZVMShkiPw3F1_bmWEuTyT6izWZTo",
+          "https://lh3.googleusercontent.com/d/1DpfLPb2vqhwghmlbEY3DUSleBRNpWctw",
+          "https://lh3.googleusercontent.com/d/1dvr2RHo1Tx9AGB2FrvpW0HVpuR16LHs9",
+          "https://lh3.googleusercontent.com/d/1P9d92mP-Jwyi8XRhFVFEDklzkKdcoYp0",
+          "https://lh3.googleusercontent.com/d/1JF9ClSIfYcbyQcFqissYouZ58l2ZpbBj",
+          "https://lh3.googleusercontent.com/d/1DI_ZKkewzLS4BsMY6Teu-dfLTawT5RVg"
+        ]
       },
       "last_updated": "1740922131"
     },
-    "15.85": {
+    "85": {
       "title": "Sanctuary in Disarray",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/Wa52U4qFok/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/17hSSStOvGb5koAo84ISXTbzCELPE1KbP",
+          "https://lh3.googleusercontent.com/d/1Wdf_PpxuiH7Ujb9Q5CDBmrW0XlVWRBcV",
+          "https://lh3.googleusercontent.com/d/1U2XOXBnarg7_NgOFPkR_DnUpHHR3FeV8",
+          "https://lh3.googleusercontent.com/d/1OfyOt1wBBmwOFLbO0WIgRixS3f5xg3zN",
+          "https://lh3.googleusercontent.com/d/1qArZsjhL6qjCJpcN3pxqJtFSB71_tToN",
+          "https://lh3.googleusercontent.com/d/1hX59mbTeq5vp8xQ2mc7dyb1MUuXPwN-A",
+          "https://lh3.googleusercontent.com/d/1NheoCpDNx1Nznpyg1e83m-5lUWfWlwZg",
+          "https://lh3.googleusercontent.com/d/1eC1m4rJi32_jCviR0MEB741u2kyvz782",
+          "https://lh3.googleusercontent.com/d/1bRw3ldpLPwGBR57aG6KMwESYKEQ2lN4T",
+          "https://lh3.googleusercontent.com/d/1uUFupOLPySxG77YCC-o_-UoT5-tGC5fB",
+          "https://lh3.googleusercontent.com/d/1-SMghCl9Q0rTamtmnTuCJTYczV0XAcj2",
+          "https://lh3.googleusercontent.com/d/1W_sfCdWxusy2hTQ213HqDzGOrEpbJxpI",
+          "https://lh3.googleusercontent.com/d/1YPfeN-v3_zuYdortjw6sY_EHqw218_fx",
+          "https://lh3.googleusercontent.com/d/1x-f7nPxjmWFETPnf4aHBb_rwTyLJ12C2",
+          "https://lh3.googleusercontent.com/d/1nieAEyCaN0F21qOvxL9YN_fWXD2Vv5Rl",
+          "https://lh3.googleusercontent.com/d/1WEfMjtJrCfkep366JgpR8kGHy_Pu6U3m",
+          "https://lh3.googleusercontent.com/d/1zhhj1E8Ig1T1aZnvEh8TPlLYU2K_zXQn",
+          "https://lh3.googleusercontent.com/d/1SgwgYoUQJq_QVhUFupqFhRV4oPE8iBpp",
+          "https://lh3.googleusercontent.com/d/1CsUTFUsBALsw-61xo6yD9rnRjYvZTC8G",
+          "https://lh3.googleusercontent.com/d/1cW5eiITXj7WbP5X3tziZj5OhkkUL8_Oy",
+          "https://lh3.googleusercontent.com/d/1US5WGIZG6nT_la2aPX8FzU6Kv3ogzufG",
+          "https://lh3.googleusercontent.com/d/1yBoLruLsCOEEMsGFkRKjHnnw3Fou5H9Y",
+          "https://lh3.googleusercontent.com/d/1MBYVpVAiM9moJowbZ3H0nDfxTfjAWkoy",
+          "https://lh3.googleusercontent.com/d/1XzmA_naKaDiLKf3vUPp73sm6CeFk2RUO",
+          "https://lh3.googleusercontent.com/d/1aFMbGchcEL7JPAqTG472VaXTNKX6IOnp",
+          "https://lh3.googleusercontent.com/d/1oat6xc6_Yb93-XDiyGsAnsW-DpQtS95J",
+          "https://lh3.googleusercontent.com/d/1IePCTWp-vqHHoLzLTuhO1a8R063a6IvB",
+          "https://lh3.googleusercontent.com/d/1auv_LMe2WVq8ADs0vgermwUVJ8ky0EJW",
+          "https://lh3.googleusercontent.com/d/1Kr9eNrIvYVQdxReBhEvyI3hx1CNuglBu",
+          "https://lh3.googleusercontent.com/d/1TAuV57Toc2wBwQmTnDVd8lSIRB16BfqP",
+          "https://lh3.googleusercontent.com/d/1EERjYm2uA9EJWfpfE6OYuuSonrwiipWP",
+          "https://lh3.googleusercontent.com/d/1YAaYeh5jbc7qOH_AHASqb056bhijioVZ",
+          "https://lh3.googleusercontent.com/d/1JYP6h2F0MwucnxhmlfNG3YKKJKrpPek8",
+          "https://lh3.googleusercontent.com/d/1s5moVHOfkP1BhQ7t6AE5zyS6HvFZ89to",
+          "https://lh3.googleusercontent.com/d/1O78oogid32W6vMw6qAM45soU7jVxEQXP",
+          "https://lh3.googleusercontent.com/d/1MqcZLdo-LUDieKeYizBtrxwLQW4fMiZf",
+          "https://lh3.googleusercontent.com/d/14lNvG_Xn4L5Rm7MMVC79mASys4XHaSDa",
+          "https://lh3.googleusercontent.com/d/1j0kxW9DVgkjIxtLgh_TZpoe9R5gR1lVo",
+          "https://lh3.googleusercontent.com/d/1bHgseXJMY9jaUMChNnyVyBYghY_zjgMu",
+          "https://lh3.googleusercontent.com/d/1VK28o28FfrWcA9mpoVYSxa99VLHCfpBe"
+        ]
       },
       "last_updated": "1741431695"
     },
-    "15.99": {
+    "85.5": {
       "title": "Extra Track: The Successor",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/5CbsW6M3zJ/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1i-QUj4ZVXTztiNuzu7OaFcrcrPxcIQUP",
+          "https://lh3.googleusercontent.com/d/1TyB1SWVurm0aX5DyDPtfAIkbXkkH7-H9",
+          "https://lh3.googleusercontent.com/d/1DzN17wwvYf8rMd7OcJGYRVmiCDL3ehYV",
+          "https://lh3.googleusercontent.com/d/1GqHPZc2cKTFoLY8myKrp5Q_Au8hiXZdo",
+          "https://lh3.googleusercontent.com/d/1wqit6kjXk9VOkXj6n4DGoychFCCztZ8y"
+        ]
       },
       "last_updated": "1741299408"
     },
-    "16.86": {
+    "86": {
       "title": "Silencing Flames",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/Ycxr5ft5kb/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1X0_43sEL9iGkYCX65mgb7o1Pk8KmQgbR",
+          "https://lh3.googleusercontent.com/d/1cHpaFjIefjwcv2F1NV37k-VQ7NXBV8GD",
+          "https://lh3.googleusercontent.com/d/1cFoViRN6ddiehBOCmexke8jMYG8GhcH1",
+          "https://lh3.googleusercontent.com/d/1MgLToBWPGhnh9uQBcEyy0A8rl5AD4oBJ",
+          "https://lh3.googleusercontent.com/d/1yrwn9f8vVXcVytmrgzUHjkFkKrbVPV9g",
+          "https://lh3.googleusercontent.com/d/1mV8xrzz7bguRoa6HX-D7hHkxamWW_iGk",
+          "https://lh3.googleusercontent.com/d/1UNLcufX4SNTXuLakkhGIcaMpDVVHCmpk",
+          "https://lh3.googleusercontent.com/d/17z6YssVjPmVbfOnOvp953CV1x6QEgG2D",
+          "https://lh3.googleusercontent.com/d/1zUydvKTTE_OOrmBLkV_013t00FneNifs",
+          "https://lh3.googleusercontent.com/d/1yw2pkLRnPN6pANSPipVZAMsDvZOmuObs",
+          "https://lh3.googleusercontent.com/d/14Gz9z1D_WgdQ075uWCBnWpPgQOOrbwl_",
+          "https://lh3.googleusercontent.com/d/13O_aWkBW3sG4hqIVwVUD3h4FkSpCepWz",
+          "https://lh3.googleusercontent.com/d/1nhUdgGrpxxwlUWWoAVptU_2W5XEeDhEU",
+          "https://lh3.googleusercontent.com/d/1p6_LlT3gHHiO_UK4qG9mSQNtAkOOk-Mt",
+          "https://lh3.googleusercontent.com/d/19CiUWXugiR-H1UjOQCQYxlfqNV4oG6__",
+          "https://lh3.googleusercontent.com/d/1rbRNjvIyxlNx-odV1iUR3Vg2vMo_LIhj",
+          "https://lh3.googleusercontent.com/d/1By2ZHV1YWIxYELS3WDPPC4Xe9bhPI5NC",
+          "https://lh3.googleusercontent.com/d/1bx-CvcrXIxN__4vvy21lkcEAPj7K4909",
+          "https://lh3.googleusercontent.com/d/1CrC86tMRa5bkX0M5Fot5qYqiX25zmh_f",
+          "https://lh3.googleusercontent.com/d/1gw-FDJGcf6ijCrCa2u3zTwENU1r0gwRd",
+          "https://lh3.googleusercontent.com/d/1igHIWkgXU_-A1_CaAoiiYCkwACMDW6Oj",
+          "https://lh3.googleusercontent.com/d/1WT35VDsoH4_T2IZZu7FPw2DalO_64C7z",
+          "https://lh3.googleusercontent.com/d/1YVvziXRtiCZhDjfFNNUzvkA31h5DUeo6",
+          "https://lh3.googleusercontent.com/d/1J0m_Hlk2DTLRXOUWkXX1-6uzOvFR0JPy",
+          "https://lh3.googleusercontent.com/d/1FaBuwLEQ4XQFMhRMfP4250HuPUs8RQw6",
+          "https://lh3.googleusercontent.com/d/1D-qK3bHdUarIMTR4spbXBEfVZCJNXQj4",
+          "https://lh3.googleusercontent.com/d/1LUJsCNjjyKW4CEQlkKCGMTSL8eTkUvkG",
+          "https://lh3.googleusercontent.com/d/1UGecGt2LCzTKJo6pAN3WuprTE4Nrkieu",
+          "https://lh3.googleusercontent.com/d/1fMIrgBjbC8HCV7qc0kqg6BLuTrQBWZlX",
+          "https://lh3.googleusercontent.com/d/1MUwp8zfUhHDsSH1xMJFA6Bia80K7Py2m",
+          "https://lh3.googleusercontent.com/d/1CUWgYSolsvHJks1FtWECiKKJ2g0s_1wr",
+          "https://lh3.googleusercontent.com/d/1eG8tDn_IjOfIjjiWzK7iuzZo6ApPBdBp",
+          "https://lh3.googleusercontent.com/d/16AAzzEHqn-wD5DBVs0OLtrByaHjvjzZr",
+          "https://lh3.googleusercontent.com/d/1mm76D4d8jrW0upVaiDwJWr0z798tFZve",
+          "https://lh3.googleusercontent.com/d/1L0b2MIkaspOMMJzsmoF55uu97jKAklM1",
+          "https://lh3.googleusercontent.com/d/1LSm33SZaNupBXw9I71roUs6z_0euiezH",
+          "https://lh3.googleusercontent.com/d/1W4Toe5t2SqqVC9muwKjfhk2Q6Pb2-vie",
+          "https://lh3.googleusercontent.com/d/1IZjUqUW6dR9XkLcDx0ntDkjsK81poS1N",
+          "https://lh3.googleusercontent.com/d/1P6CZ-n0ShjYXJx8ZMVj7J7is6fO1IRf4",
+          "https://lh3.googleusercontent.com/d/1YAwtEw2njXJ5nGTFfS7s72oX739Fhxsq",
+          "https://lh3.googleusercontent.com/d/1_F7-CG4N_XpcpukECA4PpTsLTyqnZnyY",
+          "https://lh3.googleusercontent.com/d/1mmI0a2w1WrBvq8dc1FxVx0YQSfpyFtJA"
+        ]
       },
       "last_updated": "1743944861"
     },
-    "16.87": {
+    "87": {
       "title": "The Libra Tainted by Darkness",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/mPoTaVkaZh/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1fFxMueQ-O5R2lZIbaXzHx6Znfl-UC6S2",
+          "https://lh3.googleusercontent.com/d/1TsnO6bbIn43L1PBo7k-U_FII2qtSZKyL",
+          "https://lh3.googleusercontent.com/d/1F9VTjwLuGxrL4Bx5Yo-v5c4U68zgYyq0",
+          "https://lh3.googleusercontent.com/d/1Nxl_iUllfwBL2PuY4DWUesQuESblpCsg",
+          "https://lh3.googleusercontent.com/d/1EhNHnh_NbWa1N3mIxWs2EUZyJ9PEPF27",
+          "https://lh3.googleusercontent.com/d/1nkXZd8VcWlHs6Lai-roPb3wOko596UEe",
+          "https://lh3.googleusercontent.com/d/1M_80QzmAmxAc7OT9fMqhtGddviHxnrfG",
+          "https://lh3.googleusercontent.com/d/11tzI301Uq69KGklc4XDoNlgDCLMJpOUz",
+          "https://lh3.googleusercontent.com/d/1hqU1oRgU7YzFYWoaeweKnOnk1kff4Sx-",
+          "https://lh3.googleusercontent.com/d/1MuETXApmZE_nU4UVkF3hfIGEogOOPfIk",
+          "https://lh3.googleusercontent.com/d/1knOm9tiZX-8vRk584fXOLUJqiE0FTj_X",
+          "https://lh3.googleusercontent.com/d/114WUnWcSgbCRdVg8ZUjL_OR6Z7OJzxx1",
+          "https://lh3.googleusercontent.com/d/1XWat5cbId9jn-7y5o0-frhW4V-KyJUit",
+          "https://lh3.googleusercontent.com/d/1eD_cIo8TXmPBGkDpHtvYkrSNlZs6GqIq",
+          "https://lh3.googleusercontent.com/d/1kl-1SLkI2NcjL4sUl6olp0DZmUt-3cuE",
+          "https://lh3.googleusercontent.com/d/1m9lS-x2C6cwns9Ckmj6nKBOjqwmN44yC",
+          "https://lh3.googleusercontent.com/d/149_y4aiQagO0J936cRr7FpsJV_kanJnR",
+          "https://lh3.googleusercontent.com/d/1nHY58R_6dAw7kUW2lYoqnBhi2ST5hqeQ",
+          "https://lh3.googleusercontent.com/d/1apiqHLkrbvibzP_cDBFgDH3ZG7Q5UWCI",
+          "https://lh3.googleusercontent.com/d/118yghflJVKt5E664R5GtUAo01slGFclf",
+          "https://lh3.googleusercontent.com/d/1ZeNIKJUY45dlzr9HKpTKzb8nZDwdeoNV",
+          "https://lh3.googleusercontent.com/d/1C4VkR2jsj5uLAWX_bNAjRw4CM1UO6moy",
+          "https://lh3.googleusercontent.com/d/1jysTh_hnadBDkENDgvjD3uE7fgP74slg",
+          "https://lh3.googleusercontent.com/d/10GyKQNqLoK4qR7UjomeNpO7bvLiShEJh",
+          "https://lh3.googleusercontent.com/d/1oRBvLziR7-UpTfJSfA64wf9jEh6i6yCw",
+          "https://lh3.googleusercontent.com/d/1ILYxZAbF-2TIIilt9bF3aBF6LWSLtFwO",
+          "https://lh3.googleusercontent.com/d/1miyDsczWQH0sposFHJlkf9wrhSzEq0-G",
+          "https://lh3.googleusercontent.com/d/10DYLxJvHknU76PgCNkMSa85erjT4-V5M",
+          "https://lh3.googleusercontent.com/d/1dTMMiHu4bBQZvz68Ae8H-zZYSNCVKNTr",
+          "https://lh3.googleusercontent.com/d/1iW30fKz5KNtVYztW-L04aVAgB33EwLSV",
+          "https://lh3.googleusercontent.com/d/1mcNy9u-ek7blrgj772Ns6BVE7T3rP3RU",
+          "https://lh3.googleusercontent.com/d/103GRCYijqFeY4Ta96CBIp_i4y38t--F1",
+          "https://lh3.googleusercontent.com/d/1wk6NPS0i9X25NIN0l1r_DajR_WUmwzKp",
+          "https://lh3.googleusercontent.com/d/1Pd_ZmlD9qPbnYT2RjlHxoN1eqJD7TXUJ",
+          "https://lh3.googleusercontent.com/d/1BcXnj_wi3GD2HjyOAAfi8SnZvBT0w6MC",
+          "https://lh3.googleusercontent.com/d/1WZ0ZePQOZ1lqA5eVa17_2uGAMiEWMLwp",
+          "https://lh3.googleusercontent.com/d/1yIaOX-F7j8E9Pda-O11E8aRO42PAK_E-",
+          "https://lh3.googleusercontent.com/d/1GFdXBaDT_5-hw6-fHkc1lbitpItGoh_7",
+          "https://lh3.googleusercontent.com/d/12xiXQMEskMUYB7OkLOXbjl3ZDnWGP19y",
+          "https://lh3.googleusercontent.com/d/1DaqtKDJ17_cY95FnF_OzMtA78Mfwdbgj"
+        ]
       },
       "last_updated": "1754829100"
     },
-    "16.88": {
+    "88": {
       "title": "Metamorphosis",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/HQnttTxhgc/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1CoveZFyi8_PEf84Sb0i3GIWl3R6Nl20R",
+          "https://lh3.googleusercontent.com/d/1j5nG3bNnyB-WN5ebrXSkCy0nim_9JNUq",
+          "https://lh3.googleusercontent.com/d/1n_yBb5PwUXUN7AbmJ2Wf7QuQdUrgu-tI",
+          "https://lh3.googleusercontent.com/d/1WPfN1giwiySjx3v8LefMrVl2uTFILKi-",
+          "https://lh3.googleusercontent.com/d/1i-8XurE_zeKrxBdG9mi-hXEg0k0Ls2lg",
+          "https://lh3.googleusercontent.com/d/1GzLkNrXl0UhF7_IrKwZWRXcKcBgVt8P_",
+          "https://lh3.googleusercontent.com/d/1D5d0uoNtCzfF5ypQR11aeYvgjoUH-YzL",
+          "https://lh3.googleusercontent.com/d/1OQY7YWqDogA1rexpmtfBtnSGXYwGlAKL",
+          "https://lh3.googleusercontent.com/d/1FIqyq46w6DtXZ0t5dmAl2d_w5J6Ou-HR",
+          "https://lh3.googleusercontent.com/d/1SCL1JJC5u4gtfpxXdGEuL6X0Df_PYqsa",
+          "https://lh3.googleusercontent.com/d/1_4zewysbEBpEwyizQw-9r8SJ1oBu7-OE",
+          "https://lh3.googleusercontent.com/d/1Z-Wai6Fz8LvoC7BmEo1qh8e9pis1vyZA",
+          "https://lh3.googleusercontent.com/d/1LVTYuSIyNoSFgqCo3EOkQuYfsNB1zkS2",
+          "https://lh3.googleusercontent.com/d/1jru3hElWJdHIpCntqCN63cm3x-hDlc0L",
+          "https://lh3.googleusercontent.com/d/1rl8zgPn0Vux0pTmtIQaUbTZpLPEYK59V",
+          "https://lh3.googleusercontent.com/d/10JGCMI9MR51skhMeT9GL0jNc13RHEGiN",
+          "https://lh3.googleusercontent.com/d/1tyqvAz0TL_nrSsHM7e9daekhmUnV1xPz",
+          "https://lh3.googleusercontent.com/d/11YOdT_WIdShpSjQC2QAiiZaddwGRwWSE",
+          "https://lh3.googleusercontent.com/d/1B-kKdDng7KsCdqg3eVL99mEkCZJZ3Mfi",
+          "https://lh3.googleusercontent.com/d/1hEL6eJvdCOmdWm_oWKfjCmKrmohbha71",
+          "https://lh3.googleusercontent.com/d/10w6p9axQtkKD-oe3Elk_KsrTOBEUPI1D",
+          "https://lh3.googleusercontent.com/d/1XgWT4cG-ayAUPGpyZPyNFFbMdKnpDPWo",
+          "https://lh3.googleusercontent.com/d/1rQcwNqqT4fjlBkIgQHSp5KCmfsdKwPKc",
+          "https://lh3.googleusercontent.com/d/10By3MwaUH0eBvRWsAFq5hOw_R8ZlWAGM",
+          "https://lh3.googleusercontent.com/d/13yF8lgdfMq2NQmRVbHeCXBaIFrLtm7gf",
+          "https://lh3.googleusercontent.com/d/1dyHiYcNEgVjl0NF_9Cal0Sblw1e-QzLo",
+          "https://lh3.googleusercontent.com/d/1biCI5IfMS1yaAl8r_KEQAcumGx7gjM4h",
+          "https://lh3.googleusercontent.com/d/1uYlPHCKYbqaoV5lKCnqv3ZRbsUgeD3-U",
+          "https://lh3.googleusercontent.com/d/1yLWFHK4CGLWDsYabuog5eC8ZADpF0IBF",
+          "https://lh3.googleusercontent.com/d/11hDHjAo8wXrqo25NleyG9KFt_vgDMQIH",
+          "https://lh3.googleusercontent.com/d/1IUPHL4ulZ6kD7aj_7AhNrp7rmwPK7TQD",
+          "https://lh3.googleusercontent.com/d/1tHtB1hSIZXVOQM7VeJhUch8Uf-gdti2T",
+          "https://lh3.googleusercontent.com/d/1rPpiMZwtgvArWL8qzCv-nTpl39zeuiJS",
+          "https://lh3.googleusercontent.com/d/1FmiyU7Xbfhbdnzt3Ltk9Y5VrH3miCIIA",
+          "https://lh3.googleusercontent.com/d/1TP6i222v-DDz6RyvXv79wKaia9D5K4wU",
+          "https://lh3.googleusercontent.com/d/11_R2SI4PPjZC9_C8e0fGGj2HTB_c4kui",
+          "https://lh3.googleusercontent.com/d/14PZ9aWhuMqyd2YUUhtYVK5IF2HfdD5ny",
+          "https://lh3.googleusercontent.com/d/1teIFX9h4mUGglMsiiGJpupLgQ_7mPJug",
+          "https://lh3.googleusercontent.com/d/1Xx37U6De4pGfDlk7wyTwhO5Vz2-4AxJD",
+          "https://lh3.googleusercontent.com/d/1aIO2CATYUGlvDEmmddEFcQUxDZAD_KKc",
+          "https://lh3.googleusercontent.com/d/1j6xCs3Isn2Kj3rWHT5ihzZgo8FJEzDns",
+          "https://lh3.googleusercontent.com/d/1QulaH4TKD00GoEDyHC4Q-Y7PboXCrJKI"
+        ]
       },
       "last_updated": "1759565760"
     },
-    "16.89": {
+    "89": {
       "title": "The Hour of Resolve",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/SpDF1Kot0L/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1kESQLw0utKIaL4LsSczS7l2-Yd7JiiAW",
+          "https://lh3.googleusercontent.com/d/1b40UPNjIx-Jvguo08htMyuy15uzEc7Zd",
+          "https://lh3.googleusercontent.com/d/1SzNtW785U14l3aBK6vnnMW3PajdzuM5v",
+          "https://lh3.googleusercontent.com/d/1jf7_A1rqbdLwm-XEkxO-Bw-k7xPnyRZB",
+          "https://lh3.googleusercontent.com/d/1vhrhzAv5PWBl2gPmoceCPTMXfmJaBDh8",
+          "https://lh3.googleusercontent.com/d/1fAobYa0xZB0oJdwnoHfG1BkLhxv5TeUk",
+          "https://lh3.googleusercontent.com/d/1bYG45oOIwl9IUWMJ1xjuhbR1FNG9xAuE",
+          "https://lh3.googleusercontent.com/d/1S4mxzsff808RJnj3WbMfpdt0ZyqccnXI",
+          "https://lh3.googleusercontent.com/d/1QX6z9fKT_PoAJpd1NegcXUQbgqFb-YLU",
+          "https://lh3.googleusercontent.com/d/1xnTUXPgsfBckZIynOQbHHnwJ2ZbgrSV1",
+          "https://lh3.googleusercontent.com/d/1wc-q8RbwoVz8oy3YlORy3oqqr65-ZL_7",
+          "https://lh3.googleusercontent.com/d/1omzBIHGHZFPEcwdT75NHFcPQEFedvmsY",
+          "https://lh3.googleusercontent.com/d/1ZHzIdwjIHBAJv0nOqUWEMghCm6EqTjb5",
+          "https://lh3.googleusercontent.com/d/1r8V2lfO9-c1shZjLCmDvAPX7KdWeSPz0",
+          "https://lh3.googleusercontent.com/d/1_I26xgxDE1Sg0csOKxD3Dmj8kaKSJ80s",
+          "https://lh3.googleusercontent.com/d/1WYn1RSJ4YBnVKUfHVNJ9FntH_akn9qhF",
+          "https://lh3.googleusercontent.com/d/1ae1pjXaoq5XxEjbX-nFfbBJ0gmDHfPCn",
+          "https://lh3.googleusercontent.com/d/1VtlIR3ZNO1Swr7Cya-ChllxRgn-Zir5_",
+          "https://lh3.googleusercontent.com/d/1INE9oaIWOIa1tSnahwGEQKbm5mKYIef6",
+          "https://lh3.googleusercontent.com/d/1eu7Z_ameU_bvJqiRBy-j8pfB0f-EtU2O",
+          "https://lh3.googleusercontent.com/d/1YVEaNNch5raCqfJunizBwwfbrx4n3_wN",
+          "https://lh3.googleusercontent.com/d/1iGsj73aaSVQU7WkcvX3wig01mytLhnXi",
+          "https://lh3.googleusercontent.com/d/1LrTcsA2Ojg317tuFFL__9xj_7acqJv7O",
+          "https://lh3.googleusercontent.com/d/1G8grbOToROc5ezOFdKNsh4R6K0No4G7F",
+          "https://lh3.googleusercontent.com/d/1tgbQh5cNfQp9luQKzVR9x_eR7Ztj8GO4",
+          "https://lh3.googleusercontent.com/d/1wBY_RV_1fIdNBw74VDzF1whbhVvtDrw6",
+          "https://lh3.googleusercontent.com/d/1uYwREOYHZt2BfpGfMfnKYwZbMnz0epKK",
+          "https://lh3.googleusercontent.com/d/1FI83YmgNNxPeaO7nhVcFGn_b_LfXmQOv",
+          "https://lh3.googleusercontent.com/d/1UdTklAoIPmyjBJ4mrFWlOZd6vTIwm3PJ",
+          "https://lh3.googleusercontent.com/d/1NB5J9xbYN56kNWxD5wJxauy9CAvYY-oW",
+          "https://lh3.googleusercontent.com/d/1Y7-vQZXGPyYX9Jl-RVT3Qc341EjMDGAQ",
+          "https://lh3.googleusercontent.com/d/1aBqXr8H3lT3Uh_g7NX9fLuGGc9ygrJSo",
+          "https://lh3.googleusercontent.com/d/1QyBohPBMUCGNY4uHD4u5V0XJhVrENd4E",
+          "https://lh3.googleusercontent.com/d/1PLD9Noo9YxfLAHBBygaOCT1kbw64mTs9",
+          "https://lh3.googleusercontent.com/d/1-ErFKEkcj1tNLcPBD__bzoAFuqmRvNpz",
+          "https://lh3.googleusercontent.com/d/1a_y1ZXKQdHOIR9Ggxi1G1qtwKe6pm9Z_",
+          "https://lh3.googleusercontent.com/d/1f85YsVh8GsBO7jnvgPfKuHAgOVb6fzfo",
+          "https://lh3.googleusercontent.com/d/147oUkEKMkyisqHqCY94ceLTW4rhd_rOn",
+          "https://lh3.googleusercontent.com/d/1YONjjfvZt7C_pJnENYdEugyJKTClOsYV",
+          "https://lh3.googleusercontent.com/d/1xxAo6egSiskRyEDkEOuyRcED9PeeDcz7",
+          "https://lh3.googleusercontent.com/d/1IsOAHT_5AsyWvOzc-LxSNs5rpFxRPT8D"
+        ]
       },
       "last_updated": "1759565760"
     },
-    "16.99": {
+    "89.5": {
       "title": "Extra Track: The Gate to Tomorrow",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/UkIOOM1C9X/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1C_3gaNZpvPb9629jnHhq56TOom4i3hHX",
+          "https://lh3.googleusercontent.com/d/19kZxUT16Q254-tEibKXwdllXtulkc_z6",
+          "https://lh3.googleusercontent.com/d/1VV_LOCWbea9BOJZmGVR9yoc9bsAnhit1",
+          "https://lh3.googleusercontent.com/d/1oEuG7Pyvjnq7TMFQmu0o7QuWUd5z5OEX",
+          "https://lh3.googleusercontent.com/d/1S1M2SMgl1XZy1yDjUnN_up43jitkUbtC",
+          "https://lh3.googleusercontent.com/d/1_UjA-HSO6wpUbaf5_mqemF2XgqT8OXWL",
+          "https://lh3.googleusercontent.com/d/1pqvl5_d6lwXhegpBK-7QP4V_pCivsCSt",
+          "https://lh3.googleusercontent.com/d/1FipD6gqcCCC_QEI6bP182NaUj94fgpOk",
+          "https://lh3.googleusercontent.com/d/120IkT4k-JsNAANDvpwLpQx38EF5ULCEJ",
+          "https://lh3.googleusercontent.com/d/1NpLLLxNpM1ZAnCkvztormUg67PTs3oUW",
+          "https://lh3.googleusercontent.com/d/1iDYHo7gPfbwDlAljHjjWoPELhiCOOXGg",
+          "https://lh3.googleusercontent.com/d/1Lx1zPtffy5qqt0XjgdL_xWmTxgMdDluJ"
+        ]
       },
       "last_updated": "1766534760"
-    },
-    "17.7": {
-      "title": "Extra chapter 7: The Land of Wind (Part 1)",
-      "volume": "90",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/eXnJgOX06D/"
-      },
-      "last_updated": "1752311308"
-    },
-    "17.8": {
-      "title": "Extra chapter 8: The Land of Wind (Part 2)",
-      "volume": "90",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/swmQOtZRjv/"
-      },
-      "last_updated": "1752346230"
-    },
-    "17.9": {
-      "title": "Extra chapter 9: The Land of Wind (Part 3)",
-      "volume": "90",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/6JlBjPPNRE/"
-      },
-      "last_updated": "1752346230"
-    },
-    "2022.01": {
-      "title": "Extra chapter: Crimson Rebirth (Part 1)",
-      "volume": "99",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/VB9R1iOVmL/"
-      },
-      "last_updated": "1759662648"
-    },
-    "2022.02": {
-      "title": "Extra chapter: Crimson Rebirth (Part 2)",
-      "volume": "99",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/BYLCXxAOBq/"
-      },
-      "last_updated": "1759674436"
-    },
-    "2022.03": {
-      "title": "Extra chapter: Crimson Rebirth (Part 3)",
-      "volume": "99",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/IEiGJxwvCC/"
-      },
-      "last_updated": "1761501380"
-    },
-    "2024.05": {
-      "title": "Special one-shot: Shining Scarlet Trash",
-      "volume": "99",
-      "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/rvMJMZLwiG/"
-      },
-      "last_updated": "1717322820"
-    }    
+    }
   }
 }
