@@ -1,16 +1,33 @@
 {
   "title": "Shura vs Tenma vs Shouko: Battle Royale",
-  "description": "This special manga is a crossover between 'Saint Seiya: The Lost Canvas', 'Saint Seiya: Saintia Shou' and 'Saint Seiya: Episode G – Assassin', created collaboratively by the authors of the three spin-offs. It was published by Akita Shoten in 2014. To get a copy, you had to buy one volume from each of the series involved in the crossover and then participate in a mail contest. Only 300 copies in total were produced, making this one-shot a rarity.",
-  "author": "Megumu OKADA, Shiori TESHIROGI, Chimaki KUORI, Masami KURUMADA",
-  "cover": "https://64.media.tumblr.com/8db3375a12dc85a930df8e14e03a41fc/4ca645cbcbe3ca6e-df/s1280x1920/a4ac1d1e3e03e99325004b372c5c4de4d0f91f34.jpg",
+  "description": "Limited edition crossover manga between 'Saint Seiya: The Lost Canvas', 'Saint Seiya: Saintia Shou', and 'Saint Seiya: Episode G – Assassin', created collaboratively by the authors of the three spin-offs, published by Akita Shoten in 2014 as part of a mail contest.",
+  "author": "Chimaki KUORI, Megumu OKADA, Shiori TESHIROGI, Masami KURUMADA",
+  "cover": "https://lh3.googleusercontent.com/d/1N7YbyaPl96ziCgwMXEewBB5-8irOCjNL",
   "chapters": {
     "1": {
       "title": "Shura vs Tenma vs Shouko: Battle Royale",
       "volume": "1",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/xWVKNriX5s/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1lB12jkS5SNZwLvMj1UZtmOzArHJrr-dT",
+          "https://lh3.googleusercontent.com/d/1oPy0r33Aba1ZCwmsfTh7d2lSwar_hFmy",
+          "https://lh3.googleusercontent.com/d/1ICJYOJasBhlklT82OK2IYc-rlce74ejy",
+          "https://lh3.googleusercontent.com/d/1A-bsfyiV7F3jH-Anr4uy6Fd1igAPEe4l",
+          "https://lh3.googleusercontent.com/d/1VALy54NW7HEIUcBXHq5nbY9d5KBfowZf",
+          "https://lh3.googleusercontent.com/d/1SopInnfUx_xHwvKR7m6LDq9gT84VuFWB",
+          "https://lh3.googleusercontent.com/d/1QeLBq9KiqasrtdcGrrzjxMY9XTEK1P8V",
+          "https://lh3.googleusercontent.com/d/1MgOhXPufpACDOfacOu6fAXrFSdF9Mre2",
+          "https://lh3.googleusercontent.com/d/1TwA-gSB85ihzX3gg_K43CQAV_WnxmvE4",
+          "https://lh3.googleusercontent.com/d/1u5nR_8YqmyTPuKZ5CEhizzy38u2DWndL",
+          "https://lh3.googleusercontent.com/d/1gGFSq8kF3eDINQ7glUx9k8jhbP6XsEGv",
+          "https://lh3.googleusercontent.com/d/1QPHnYZ1mU51gE86nlY5XF7isoKdeqahn",
+          "https://lh3.googleusercontent.com/d/1cN1222BUYjZPBorFMm1y6IWN9NpKpuPd",
+          "https://lh3.googleusercontent.com/d/11NlXZvxGWBjb2FWBThz22UC4rZK5tm2Z",
+          "https://lh3.googleusercontent.com/d/1LAofoaXDXX6GcGx67u3JwuUoaXLgzPr_",
+          "https://lh3.googleusercontent.com/d/15SWYdkG_qZrQP_eIXx8ftv2GYOl8Runb"
+        ]
       },
       "last_updated": "1680651998"
-    }    
+    }
   }
 }
