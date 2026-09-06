@@ -1,16 +1,55 @@
 {
   "title": "Saint Seiya: Legend of Sanctuary",
-  "description": "Art booklet for the film 'Saint Seiya: Legend of Sanctuary', released in 2014.",
+  "description": "Booklets for the film 'Saint Seiya: Legend of Sanctuary', released in 2014.",
   "author": "",
-  "cover": "https://64.media.tumblr.com/560ba7de33044a5672d72c6874b483e4/4ca645cbcbe3ca6e-9c/s1280x1920/f512f8a0764a46361e8ac5499033705df7d958c3.jpg",
+  "cover": "https://lh3.googleusercontent.com/d/1cO_MpTrpizTe6LJbVTbxpBIXyrQpCxAx",
   "chapters": {
     "1": {
       "title": "New Cloth Chronicle",
       "volume": "1",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/7umGasWWBk/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1QZyJD1jcBs6N3mEvkl5Me05Jcn6riPId",
+          "https://lh3.googleusercontent.com/d/1ISvEFFBpbys53srM7zMD8rlaBLapLKxD",
+          "https://lh3.googleusercontent.com/d/1zdp1XJSx4Rxb8s64jXu4S0DiEwQmIO2j",
+          "https://lh3.googleusercontent.com/d/1zdp1XJSx4Rxb8s64jXu4S0DiEwQmIO2j",
+          "https://lh3.googleusercontent.com/d/19TCpH9x8JQtAoUyirCnZm-RlFhGFVef5",
+          "https://lh3.googleusercontent.com/d/1tDuoQKKo5lR7P-tz0IGQzHteHr0WMAF7",
+          "https://lh3.googleusercontent.com/d/1glhBbX2uPn9-4HyH5eA3oltyAOyj5NvD",
+          "https://lh3.googleusercontent.com/d/145tF4txkIwK9G55vyoJnZ6UCoT6LjC6s",
+          "https://lh3.googleusercontent.com/d/18tMo_h5bofxaBDQNoKmSurEEr9_rcRdc",
+          "https://lh3.googleusercontent.com/d/1213MWScwAtPGsAzJgSsJZ1F-pyQ2elSd",
+          "https://lh3.googleusercontent.com/d/1V0AGgHr2Qmyj9FGiepCgGh_3lLTIgllH",
+          "https://lh3.googleusercontent.com/d/1zrZ_6yd0grDv_q5NefJ0Wda-D3FtcJCO",
+          "https://lh3.googleusercontent.com/d/1m7A20CCLlz-kpGv3RsRSdDj7RoDIJmE2",
+          "https://lh3.googleusercontent.com/d/16j0mdB0If7-l00ixoGMKqA5XoZHoZWtr",
+          "https://lh3.googleusercontent.com/d/1Io6HMYalNFqOMqdRJq9Wvq8t2ZA9Cbu3",
+          "https://lh3.googleusercontent.com/d/1bnrAvXzr3dGh2u4UIVVkcUDSWt90fFuf",
+          "https://lh3.googleusercontent.com/d/1FMz7rTO1gQ4nGgjZ44nu035OS83n7MfC",
+          "https://lh3.googleusercontent.com/d/1R6dlnOB_uE75v8pLO_U6Osu-JRih7i1J",
+          "https://lh3.googleusercontent.com/d/1aNvzlprGSEq9NIgeormAYuLXD_aR7Eo9",
+          "https://lh3.googleusercontent.com/d/1aNvzlprGSEq9NIgeormAYuLXD_aR7Eo9",
+          "https://lh3.googleusercontent.com/d/1kTB3SHBl0yEoKyRCxuvbje4Tk5Mlwowu",
+          "https://lh3.googleusercontent.com/d/1fo7LvOEOGTjsMJTTXIwDv5NX1vquy77D",
+          "https://lh3.googleusercontent.com/d/1kNg1DGO9P6X-da6UnIpuHNXZcAMZth_3",
+          "https://lh3.googleusercontent.com/d/1LqqtW2lExu7Oe5PaCAG66zWn4MPecUkt",
+          "https://lh3.googleusercontent.com/d/12ombSZaz6jF04yGq0GBmmQg6II13LJaK",
+          "https://lh3.googleusercontent.com/d/19AKO0FdXIpm6BTq44kaTc_xl3sxmlvL3",
+          "https://lh3.googleusercontent.com/d/1aOH6OVkftNhXd_5ikqUeVsemPNQcNxdS",
+          "https://lh3.googleusercontent.com/d/1LyhvdO0cd3NqY97TfbOcCiG_HJ4X-4nc",
+          "https://lh3.googleusercontent.com/d/1RIw74H4oixA67yF-H0cLqN-pKdDxGeIc",
+          "https://lh3.googleusercontent.com/d/1EKi97Stt_cg5-39BuGPj6wQEhNeQa__j",
+          "https://lh3.googleusercontent.com/d/14ymqjGVaAAPfiC_86mK3q8wlROyfMr4H",
+          "https://lh3.googleusercontent.com/d/1aHPlWzTYuhKfNyKIlTvi7Aonj1hfdjJj",
+          "https://lh3.googleusercontent.com/d/1ZQwqyC5_S3VL3FBKXOAAP7OgII3p59Sa",
+          "https://lh3.googleusercontent.com/d/1Gr36N8rkdsbB2pcIrRbJoqpsbg3IVgqe",
+          "https://lh3.googleusercontent.com/d/1N9x9DaCjLO3yDKYTNXyuY5dtBIk-gDfV",
+          "https://lh3.googleusercontent.com/d/1znjulGBtIj8ERPtx-ACwDTqWSQm9ZDkn",
+          "https://lh3.googleusercontent.com/d/1W4UPsyiew7DUlXGdroGsI_4jHiiNehgE",
+          "https://lh3.googleusercontent.com/d/1Ayc7Vs39OxvvL7MedruUPAvOcLO-P4up"
+        ]
       },
       "last_updated": "1718373414"
-    }    
+    }
   }
 }
