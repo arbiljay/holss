@@ -2,14 +2,215 @@
   "title": "Saint Seiya: Episode G",
   "description": "Set seven years before the events of the original 'Saint Seiya' manga, the story of 'Episode G' revolves around Leo Aiolia, who is mistrusted by his fellow Saints because of the seemingly traitorous past actions of his brother Sagittarius Aiolos. In turn, Aiolia holds a grudge against the Saints as a whole, and against the elite order of the Gold Saints in particular. While Aiolia is sent on mission after mission to prove his loyalty, a modern-day Titanomachy begins as the Titans, ancient gods with a desire for revenge on the Olympian gods, attack the earth.",
   "author": "Megumu OKADA, Masami KURUMADA",
-  "artist": "Megumu OKADA",
-  "cover": "https://64.media.tumblr.com/5accce1cfae9fae53d193b9c11a6926a/4ca645cbcbe3ca6e-80/s1280x1920/bdc4fc660cc24bdbfd28a1ffb948706e5f763ca2.jpg",
+  "cover": "https://lh3.googleusercontent.com/d/1x0S7cFyU1NyrOTr4Abv2R5R_eKu4LYPT",
   "chapters": {
+    "0": {
+      "title": "Prologue: The One Who Searches",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1Qc-n3ddOFY0BMhvUf-wriDD5t2ojCz9G",
+          "https://lh3.googleusercontent.com/d/1RMxuzcrHmuoNRFTkcXvDYo7-Ti45Yh6A",
+          "https://lh3.googleusercontent.com/d/1MA-SIIZRr1QUfL4svfJ1dP96aAHipKD1",
+          "https://lh3.googleusercontent.com/d/1uyPfstZDNgp9fR2zYbpnWZqpTbaJ-CJL",
+          "https://lh3.googleusercontent.com/d/1hw_94v2cWSRbTQt-p5jTe9v_uL0OqaGg",
+          "https://lh3.googleusercontent.com/d/1BL6qzuoE1JezDnNq6SK65yRTJ8wKhiMH"
+        ]
+      },
+      "last_updated": "1591219831"
+    },
+    "0.1": {
+      "title": "The One Who Announces the Start",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1SdPdI06DFjZt0uSEb8xGdj7tIolzn19Z",
+          "https://lh3.googleusercontent.com/d/1AIizwfL7SrcZmT38otMyzrHP-WLOu5mq",
+          "https://lh3.googleusercontent.com/d/1_NdJDqT1phw8JFj5WoF5695IsLsDkIxN",
+          "https://lh3.googleusercontent.com/d/1QzipDc72YwzFegWKv7H_w00ZJdhW0Uz8",
+          "https://lh3.googleusercontent.com/d/1MVA5Ew_mPOE9Jsv1PnWW9_ESIGn-9Jd-",
+          "https://lh3.googleusercontent.com/d/1ncFMPh_4gCpTQ6VbKF-SRqcC98Sspx9v",
+          "https://lh3.googleusercontent.com/d/1UjC8zIgHv3moTtpjT80RJIxNvOUupW_v",
+          "https://lh3.googleusercontent.com/d/1lzqayGPVOwvYAWxe28y7OjTdV7Fay6W_",
+          "https://lh3.googleusercontent.com/d/1NNXqWpWw9m0XJOcoQ1StRF74SYY1Ifke",
+          "https://lh3.googleusercontent.com/d/1yUy3ZuiTAw13dpSgNLf8W2oN83YKA2HZ",
+          "https://lh3.googleusercontent.com/d/1aNoWnan697XMZxlk0EXtNspEAWmKu5Px",
+          "https://lh3.googleusercontent.com/d/1DJhW4QvOGiIrmcE3T8FkXPE9nKqVyYMl",
+          "https://lh3.googleusercontent.com/d/1CYUpC-F9pOrbI8I_YbT43vi8_N8SOpol"
+        ]
+      },
+      "last_updated": "1579449149"
+    },
+    "0.2": {
+      "title": "The One Chosen by the Lion",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1hprJ-Mbzgydjk_XbG7PFwbeRxsaiFdzT",
+          "https://lh3.googleusercontent.com/d/1YsN5dlLboVC29j5Aamq9S5-3HOfhECht",
+          "https://lh3.googleusercontent.com/d/1egH3SsNZigXuNqCPRqVtIaiTM5CBfIPy",
+          "https://lh3.googleusercontent.com/d/1_Ujoh7vXp7voyJupLHmT7_gFDL6QMdET",
+          "https://lh3.googleusercontent.com/d/18xV_PygzrX0PAZV4Qq1vY87UDeatsPS5",
+          "https://lh3.googleusercontent.com/d/1VRyPQKF0FVk02AjWzZijiC6jvapTUpB8",
+          "https://lh3.googleusercontent.com/d/1Wrz57mpIEBfY4VmaXHDxMJJ5SpDP-14G",
+          "https://lh3.googleusercontent.com/d/1AV2z2ObW2GIdXqnCK4cjYAetAJAn18eM",
+          "https://lh3.googleusercontent.com/d/10rm0sXuO7PXbhcf3LripC7kRPic42FNq",
+          "https://lh3.googleusercontent.com/d/1yLQycH4EedMAW82ZST2xHVXmp_hbmbed",
+          "https://lh3.googleusercontent.com/d/1JZTUBMy2_shKkgz1f5P5mFlCR-2DlWoz",
+          "https://lh3.googleusercontent.com/d/1W79wNGQk-t1lb_7WQLH5xOXB93BjNAmw",
+          "https://lh3.googleusercontent.com/d/1j-_NNjntgn2llPHFl-4aFC4dx4DznY3l",
+          "https://lh3.googleusercontent.com/d/1A6Sv0pYHPma5uHLCBPT1DFUriWm0AsZW",
+          "https://lh3.googleusercontent.com/d/1WJ6CECIkbETQr84zZCE5anUwXbw_v_hQ",
+          "https://lh3.googleusercontent.com/d/1QDXirEsV6WiiOpE4wuOjoN99s5UV5EQT",
+          "https://lh3.googleusercontent.com/d/1I0-0uCr9W1Gt34mTDafNeq8Kzm7Megqm"
+        ]
+      },
+      "last_updated": "1579449151"
+    },
+    "0.3": {
+      "title": "Those Who Drift",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1SbUtRx5dqTCdwb_O2VGJ4GYMOOVdpoPn",
+          "https://lh3.googleusercontent.com/d/1uzo5zZP3irdmUQ53JNnxCyR5ppuT-5RS",
+          "https://lh3.googleusercontent.com/d/17INxwNx5fmSMoVm7ujnZ1FI_DYt5OYpe",
+          "https://lh3.googleusercontent.com/d/1obGTSpYWntUhyLF5GO9Ya5dGk8GD-6ue",
+          "https://lh3.googleusercontent.com/d/1K2MOMP1jf3PVKXfee9HiRXUUdd7MiYad",
+          "https://lh3.googleusercontent.com/d/1zHro4yFANvrkC6WDtgkASg8e_ICuQ7C0",
+          "https://lh3.googleusercontent.com/d/11gv2iu34B5j5K_PCjEZEYGsBLsTAiKcR",
+          "https://lh3.googleusercontent.com/d/1o5FvNv71ADQFxW2kv9kR2-Hg-Xiwtqrk",
+          "https://lh3.googleusercontent.com/d/16ryCOl3gmoX6inHHTq3N_dO8fjOJqClP",
+          "https://lh3.googleusercontent.com/d/1tBuOoEYDmHy6-7H0Fled1U8rSRJIlXfJ",
+          "https://lh3.googleusercontent.com/d/1k9RGUffphkKWtC-0XbM3JF-5ZY2BSW3a",
+          "https://lh3.googleusercontent.com/d/1y9QzPtEBcj9YVFgHzvmfSJzoqfpQiAV2",
+          "https://lh3.googleusercontent.com/d/1UMvJ-kqwybPu1JrUM_pJ5c63ZsV4qZoP",
+          "https://lh3.googleusercontent.com/d/1_gXMX_VIvAQcw7wKXHPbP_NWkQY500sZ"
+        ]
+      },
+      "last_updated": "1579449152"
+    },
+    "0.4": {
+      "title": "Final Chapter: The One Who Returns from the Waters of Chaos",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1fvB8zWN3Y449T2vR078_JG7v6AgkxyNP",
+          "https://lh3.googleusercontent.com/d/1VU8LJ8-fVSfhAotO43r6Keajw-xyecAP",
+          "https://lh3.googleusercontent.com/d/1nNndGytfswmQqnV6X6_SqWkrMQ_Ro0ew",
+          "https://lh3.googleusercontent.com/d/1nTvhw7dqstiKPSie5yrqs6ROAQoxpnb9",
+          "https://lh3.googleusercontent.com/d/1EqTA8HvjeVbOSh4yn0nj8ZR24CGVCgmK",
+          "https://lh3.googleusercontent.com/d/1PkMkeqlmAX_ts8Ve-eQ4lfVpnoW_oZUO",
+          "https://lh3.googleusercontent.com/d/1G0s0c0EB9sMvjBR6UcsoLO134g8pbZTI",
+          "https://lh3.googleusercontent.com/d/18LHrcZGyMytCvkWJyBuqXuz3t4ONu3V4",
+          "https://lh3.googleusercontent.com/d/1lU-zbHbvOJhn6RO7yXy1PdOhxN15r-zm",
+          "https://lh3.googleusercontent.com/d/1x8qbsyD_jFqVyUrweKqTirZgZBdvxiVb",
+          "https://lh3.googleusercontent.com/d/11FLtTJerF_aN4D7v6SgCgWQ7zz5y3zRQ",
+          "https://lh3.googleusercontent.com/d/1L5XtV29mxEkodyqhzhu4jWMITE87HkWq",
+          "https://lh3.googleusercontent.com/d/1AetM3qmjLGdYWh88PcY-4LDlETD2ex18",
+          "https://lh3.googleusercontent.com/d/1oVwIcQw8mpRac4uGJWMZZR1LOoiRBAG6",
+          "https://lh3.googleusercontent.com/d/1ikBTZx6UbpKYZwO9TlqbVv_gQNJhDtZ_",
+          "https://lh3.googleusercontent.com/d/1Bl72ox_Pj73PDSKFCl7idrawUnM5Lrfp",
+          "https://lh3.googleusercontent.com/d/1cCdrUk77N3gR2Py4oADOE9sAT0l8ZWt3"
+        ]
+      },
+      "last_updated": "1579449153"
+    },
+    "0.5": {
+      "title": "Epilogue: The One Who Orders the Search",
+      "volume": "0",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1CqnQ78DCPTpxQIUdGxdschBwErBWnYSt",
+          "https://lh3.googleusercontent.com/d/1RrdzjISRx4nbfjPHj0s6n7rp_7EjtwO1",
+          "https://lh3.googleusercontent.com/d/1Ek6y9fb_Qiztr0DrL4_ef1PPCnPg7uU4",
+          "https://lh3.googleusercontent.com/d/1Slz4ZXQGUMILgw3oX-EClYKINiDP5BpS",
+          "https://lh3.googleusercontent.com/d/1t49MvshW2Ljmvx-90Jx8n1AJvedhQeAt",
+          "https://lh3.googleusercontent.com/d/17RGh6vDm0ct7qi_K9DI4VjrYO1ABtm0a",
+          "https://lh3.googleusercontent.com/d/1jMCgEnwxLG8fVtXOt-5Y1PrFBQMZcodF"
+        ]
+      },
+      "last_updated": "1579449153"
+    },
+    "54": {
+      "title": "Those Who Cross Swords",
+      "volume": "13",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1ZQAr2La6oKB52hji0f4TjzPBL_hoMWgF",
+          "https://lh3.googleusercontent.com/d/1_l7vMtzcEgWjYcI767n_madk5KFvHV1c",
+          "https://lh3.googleusercontent.com/d/1bJB6rPdfoHtGIMXIS2AxWE2yipvhts5g",
+          "https://lh3.googleusercontent.com/d/1tpkG6qPVa4qhFJS4hCC9UycGMPw0ezhh",
+          "https://lh3.googleusercontent.com/d/1Hzwtb8gDRtgCdxY138zv0oaZX27c_c3w",
+          "https://lh3.googleusercontent.com/d/1izxyKy7ZNOd3f4GaEntH55ki4O3vtsb8",
+          "https://lh3.googleusercontent.com/d/1wEhxaNeZ_2khGCMCPKJdZ3dnwXxrbcit",
+          "https://lh3.googleusercontent.com/d/1MOfc-1OPTcnmRjxGafCQW_m_aiEK15zv",
+          "https://lh3.googleusercontent.com/d/1cN2xOigVcXDT71V0V019V5Yzq7BKG3RZ",
+          "https://lh3.googleusercontent.com/d/1KToGft36DksSPZd3eXai_0xHmhMnXYYC",
+          "https://lh3.googleusercontent.com/d/1a6-GWsdERIn-G17NppattjyfrrdnSlE6",
+          "https://lh3.googleusercontent.com/d/15b0Mt0QewHEZG0WFzQfJopjoJqZzH6-U",
+          "https://lh3.googleusercontent.com/d/1sONveBtUymUYPcX_NTk7bAprqF0uSlhZ",
+          "https://lh3.googleusercontent.com/d/1AnHxRL4-nfi4U1ZYxRKQPFIkb1DUUmqD",
+          "https://lh3.googleusercontent.com/d/1_SzfpXoqdqIcq-3xAJ7FtHl1gtvDtGLK",
+          "https://lh3.googleusercontent.com/d/1akgVAv8EmkdGEJ0jl9m8TF3vHL6h68Jn",
+          "https://lh3.googleusercontent.com/d/1rWOcGrTl1hwhqY0f4yN436KPd2qbDR3x",
+          "https://lh3.googleusercontent.com/d/1DLzjt_tk2LlVVHSnrd5Kuvqdw0mwFqBi",
+          "https://lh3.googleusercontent.com/d/1VX9zMvXxZDtDSI_XWPt70lhpDfbUZFDj",
+          "https://lh3.googleusercontent.com/d/1U1k16114bOOJ9uoSILYZohMMyAYdgKtx",
+          "https://lh3.googleusercontent.com/d/1ybVUUnTMTlJFRBcgpJh1QjlzH3YgcINs",
+          "https://lh3.googleusercontent.com/d/1CBcAWW7L-eNoWhqMCno-q9iWhqfK8u4w",
+          "https://lh3.googleusercontent.com/d/1pgD-OeV7Rkff_S_K4EFc2FWDiOfv6h_R",
+          "https://lh3.googleusercontent.com/d/1CDWQ-WtoKlWbGDbI2CvZ8-s5iwkezEYs",
+          "https://lh3.googleusercontent.com/d/10fubTBIbPr8DEG1SUqO8Y-7PUQFZGuHT",
+          "https://lh3.googleusercontent.com/d/1Yycsk3uFBSnqsb6yuebc2pbcGq_OX02q",
+          "https://lh3.googleusercontent.com/d/19BLN-MRSVdit8EEWxI7H_5WkANrvbU8U"
+        ]
+      },
+      "last_updated": "1694872353"
+    },
+    "55": {
+      "title": "The One Who Draws His Soul",
+      "volume": "13",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1hNNFOGnvZwla3trTcd3nTtjuCUAaozCe",
+          "https://lh3.googleusercontent.com/d/14B2_bKsNKfakvxAN2jkMy6DpFYs8Rclv",
+          "https://lh3.googleusercontent.com/d/1U8YCuAwnKEbSUMX_LBRHpEtUqoMZRvZW",
+          "https://lh3.googleusercontent.com/d/1yC9SohIAmkhcUQ7yGRj6_9qQ0QZnfZNB",
+          "https://lh3.googleusercontent.com/d/1wAgYjPDuC8SHplrkoA5L_GeMiLI1pogz",
+          "https://lh3.googleusercontent.com/d/1vo3MwJa2H6HFwRCMdCknlFvVxdNkyGyM",
+          "https://lh3.googleusercontent.com/d/1G4djIrwefgkQA2HxmUNRLWiiUjhubEEd",
+          "https://lh3.googleusercontent.com/d/1To7orN_rAvcx8ROdDSjloBnlxyrBxFoA",
+          "https://lh3.googleusercontent.com/d/1yvwtapqyGCanPyhzYyhdR8uvgPAXwtaZ",
+          "https://lh3.googleusercontent.com/d/1MmNzZEl94pL8k8kqEHTc7567RSRTYZNq",
+          "https://lh3.googleusercontent.com/d/1fiis3X4YuaWY8KsmorxE6Dl2Gi4TlRdv",
+          "https://lh3.googleusercontent.com/d/1AIJmZTTFsvKCdlgXPf3Y3MxE5vVoFWZS",
+          "https://lh3.googleusercontent.com/d/15ELBEcZNJ2osxEGdYenGD59CsxIm3PH6",
+          "https://lh3.googleusercontent.com/d/18VmF5l3TE0FPeduC4RoNGoUu10_cQ8UZ",
+          "https://lh3.googleusercontent.com/d/1oWdtfr6uyrrdgqohY5SQZmhWsYK69oZA",
+          "https://lh3.googleusercontent.com/d/1wpNse_VsxXiDzjzqsL6Ju9X7DslV7q4Z",
+          "https://lh3.googleusercontent.com/d/1r3vnfJI6GyuWqoebIVtDj1OfqaAUUn2y",
+          "https://lh3.googleusercontent.com/d/1tIDL1MEVjc_47scaUl74k07cbaw8peHj",
+          "https://lh3.googleusercontent.com/d/1ESQhhBq2LxDYp6IEVw5MyORJJmW6_VZv",
+          "https://lh3.googleusercontent.com/d/1sgemsVTuuXcmTSbuOVssR4p-PAPUBiwj",
+          "https://lh3.googleusercontent.com/d/1yb5rvQw59gRfu9FJmdd4T4OwvaUp8ht5",
+          "https://lh3.googleusercontent.com/d/1TFdw10P0THHlda1nyDMLGO74oNP_GyRd",
+          "https://lh3.googleusercontent.com/d/10UxplydbOhNkkJRTzzcsLPPGMrzjN0Nr",
+          "https://lh3.googleusercontent.com/d/1nrbogZBqQOzLSwFvvh1rF5Nnh3KvbfG4",
+          "https://lh3.googleusercontent.com/d/1t2u_pWL6lerNdt-HDlShQQ-DX3D8keEY"
+        ]
+      },
+      "last_updated": "1694872353"
+    },
     "55.5": {
       "title": "Those Who Sever Ties",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/6RT7cYshFc/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/17JCdewEsUh8ZNtoIMqmBoRdG9gmzbFy3",
+          "https://lh3.googleusercontent.com/d/1WHckzIa5X8ZHOA5hfx_RXnf5wq77TsT9",
+          "https://lh3.googleusercontent.com/d/1S8CyQ-gEt0L-9gNyqzRRr-IlMcbkELwS"
+        ]
       },
       "last_updated": "1694872353"
     },
@@ -17,7 +218,36 @@
       "title": "The One Who Understands All",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/lQJvlgVRux/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1UKAQ8mrO4Ybz719d-9_DN5ClZrgdph0h",
+          "https://lh3.googleusercontent.com/d/1068NfcAnHkdICfeMmcmukvh8dOjsFG7Q",
+          "https://lh3.googleusercontent.com/d/1h1_JSBxbEHb6nC0sljI68WQuM79ju5yT",
+          "https://lh3.googleusercontent.com/d/1IOZWrQUCXD2CIAvOkn9cbAdNnUYMyQiY",
+          "https://lh3.googleusercontent.com/d/1tMGnUIdnZs0uh0RW3n_ZROQpuAfg9hzV",
+          "https://lh3.googleusercontent.com/d/1TiRrN18bkUyjIjTm7rrpsU9yvihHyjwU",
+          "https://lh3.googleusercontent.com/d/1y4i7YJNZZtqh1-1SXgT2VAlscXZGmY7R",
+          "https://lh3.googleusercontent.com/d/1iItOj3tfP02BPkrmkQP-Et_7AF_nAjJh",
+          "https://lh3.googleusercontent.com/d/1Iy4qsyyYM7LlKDLDUpW5qeAc_URXeqND",
+          "https://lh3.googleusercontent.com/d/1cKtxnoomzLnWz-8lhX0w_50Ly69w8soJ",
+          "https://lh3.googleusercontent.com/d/11DpBpY5V7KF2xuzlCOr88kFKDWMHtUlo",
+          "https://lh3.googleusercontent.com/d/1PuGZN3pjpJYCYin_2jC8kxl3c5K7lRcS",
+          "https://lh3.googleusercontent.com/d/131Nr0gcKAqAsbMu6VOp8mvsoLE8LeREe",
+          "https://lh3.googleusercontent.com/d/1wItHttFSgolBRhZp0AM587f9alwlrMhR",
+          "https://lh3.googleusercontent.com/d/1PdEicsa-ZOKByXZOGjJClTDnbo2c3vjD",
+          "https://lh3.googleusercontent.com/d/1HUqsCNZu5NVip6uY0rC_3LoVphXKfLS-",
+          "https://lh3.googleusercontent.com/d/1_OD_GA6oYTA6oFQuPVZUv46wdK3hD1jm",
+          "https://lh3.googleusercontent.com/d/1x43bJKHONN78CE8P3OAevIaoiHB8TqdR",
+          "https://lh3.googleusercontent.com/d/123pFgco5aGl2xeJhlMwFa3_ttOES-S5D",
+          "https://lh3.googleusercontent.com/d/1G341SCPyfwcP5lzTalRA_31W7hHseC0u",
+          "https://lh3.googleusercontent.com/d/1jve_0gT7c8rX-yuQ0f6jm7AXGMAphPT9",
+          "https://lh3.googleusercontent.com/d/1FWuGHvGU_9ZqjK0_Kyd3a8N92LefGzMv",
+          "https://lh3.googleusercontent.com/d/1PgfNjefIHLkqY7HLVzdVO_l0cN0cmmA7",
+          "https://lh3.googleusercontent.com/d/1dAR57tzFQlgkhVovA8iUZOlc3Z-_CIDb",
+          "https://lh3.googleusercontent.com/d/1-h6zmJH43306271orX7bN3iV8PyJnDNL",
+          "https://lh3.googleusercontent.com/d/157Xt3-PY23fm6L7vuuf9_l3U6oyJQBvu",
+          "https://lh3.googleusercontent.com/d/1dLiKMeHoOfyWGxoo4HDIq1oGhyHin5_j",
+          "https://lh3.googleusercontent.com/d/1-I_oth5LxUVyRMf-hF7w5d9jyctzjzut"
+        ]
       },
       "last_updated": "1694872353"
     },
@@ -25,7 +255,36 @@
       "title": "The One Who Is Dead as a Warrior",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/0NlD13I2s3/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1bTdRo3hi9PqbzafDm6XNJS3NiuI4WE2z",
+          "https://lh3.googleusercontent.com/d/1g2rBipAqdSeTN9WVrxCmxMT8ERWpZrSc",
+          "https://lh3.googleusercontent.com/d/1-2BImogen8gEuLsnLx9uEinKvV18BAv1",
+          "https://lh3.googleusercontent.com/d/1QDx8hXHJtuoJlrbFxy_4OMnskjp8R8XQ",
+          "https://lh3.googleusercontent.com/d/1rjHbu2Kn9v6MIDKkjfXMo9wOCF6t3FIj",
+          "https://lh3.googleusercontent.com/d/14nw2n7GishpyWLaz3ARwW2vS5MTgFnF7",
+          "https://lh3.googleusercontent.com/d/1E9Y12jSmnWRTUyaCb0Cz0uYnUhLELoer",
+          "https://lh3.googleusercontent.com/d/1c8DbFTjDmtXxZz_8pWvbj7O4Y6ibpr1B",
+          "https://lh3.googleusercontent.com/d/19ultNXI-HDZqeAc3PBbl-1nA2ZmARHjo",
+          "https://lh3.googleusercontent.com/d/1bbw0m4wlORkYpBWHYe01QrmMWH0Nbuew",
+          "https://lh3.googleusercontent.com/d/1hjCI6jPSKHtaUdNN7TKpjMQPycXiPatU",
+          "https://lh3.googleusercontent.com/d/1CrfjsKXefnWK-NTBlHVV0U_oDZuXMW58",
+          "https://lh3.googleusercontent.com/d/10aXz3JogFvnxhd_VSpGjuhHVdE2j8Yon",
+          "https://lh3.googleusercontent.com/d/14udKkVHY44jshJWVhoCKMjoHr4AsGn-6",
+          "https://lh3.googleusercontent.com/d/11TGy6e9ivRshhEBIJhelD-Xr2K8eclBe",
+          "https://lh3.googleusercontent.com/d/1wd2-AxjHw6_8wX16v_N4jTUsbbgBqRp-",
+          "https://lh3.googleusercontent.com/d/1z1lfy2VC3724Rsnosy_uYEcw28zqsPeQ",
+          "https://lh3.googleusercontent.com/d/1NYHeP8WpolyR3CwHx9ALReg93z3LrwXX",
+          "https://lh3.googleusercontent.com/d/1oes9lp9bEZDbABSlknzOcX-RWKTWjm_h",
+          "https://lh3.googleusercontent.com/d/1IbPwEJPlj-qMKW7yLq_p9Akq3oGNwzsW",
+          "https://lh3.googleusercontent.com/d/1kkKUp-8_gRINN5owOnzShxp4wu4165qS",
+          "https://lh3.googleusercontent.com/d/1THg-1HGsbWTDsY9T0MZR2uP8aJrdPbSR",
+          "https://lh3.googleusercontent.com/d/13xrORvL2wz4mSjrZuyJyh3LwBiShc2aU",
+          "https://lh3.googleusercontent.com/d/1C9wl-1Qv1ut8Vmg0yJYslXenAfd9RI3N",
+          "https://lh3.googleusercontent.com/d/16oP5fJzdPMqgqXRvrgyGYO1t9WBbfoZX",
+          "https://lh3.googleusercontent.com/d/1_ux09pdAX_7cpVEZQFaY35c3TdQoZ1HJ",
+          "https://lh3.googleusercontent.com/d/1_e82cDfmSTcJxYPObvxyv42PcR-vr463",
+          "https://lh3.googleusercontent.com/d/1nxP9D19uFLWxAuT9I3DyyBhNm_tCSDRZ"
+        ]
       },
       "last_updated": "1694872353"
     },
@@ -33,7 +292,35 @@
       "title": "The One Who Gives Precious Gifts",
       "volume": "14",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/KuzaLRvjni/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1Ejj9k_InT6sR85oUyWLPHhF689sJIMOa",
+          "https://lh3.googleusercontent.com/d/1KUK_hLb8SpyaI94MLkKvuFu6yZi9YmMv",
+          "https://lh3.googleusercontent.com/d/1XEz_XAHJEZcL8ryw04wKkIfJlieR_ObK",
+          "https://lh3.googleusercontent.com/d/12uNov_QuBp0fGBDsRrulP0zqi-IVdoFH",
+          "https://lh3.googleusercontent.com/d/12cvNmDl7pPoFf9X2gyVAx682rAscUPt3",
+          "https://lh3.googleusercontent.com/d/1LsEMGtUilt6jR33cAJWcBvHWnar2pF21",
+          "https://lh3.googleusercontent.com/d/1IW_viEtpQRLPS56h-5sjtPFZErvyUXJa",
+          "https://lh3.googleusercontent.com/d/1Ua_3I25Wx94r11uSKljjmUU0Y8qql_mD",
+          "https://lh3.googleusercontent.com/d/1sZxIreCEXioLi0IHcNsrsULfTvrDEZkA",
+          "https://lh3.googleusercontent.com/d/1t7l7539yLy6cUO9hF-KSDslDU1c_ZLkC",
+          "https://lh3.googleusercontent.com/d/1k3iovDCuYyILSuMEAOzZA64OyHXZ6gWk",
+          "https://lh3.googleusercontent.com/d/1NHAbisz_kmcG9HNFJGAqQiLW6NTJwbFI",
+          "https://lh3.googleusercontent.com/d/1bx3j_Jnl2heKejmVRF9bnQf632jawbBr",
+          "https://lh3.googleusercontent.com/d/1eX-qTFAgaBuV9X_G5dhIk_6GGvPJy7fP",
+          "https://lh3.googleusercontent.com/d/1GPLOVENcayHbTOLP7rwIzlseDdyym8cx",
+          "https://lh3.googleusercontent.com/d/1iFG_S2_6c7r7IfO7VViDc67j_FeJnbCh",
+          "https://lh3.googleusercontent.com/d/12L2Ld8jfpKUgExWEHKm5ucBPaQtL9ryk",
+          "https://lh3.googleusercontent.com/d/1YOrSmIis26Hgk0gkLBjhimdqHFPpa_sF",
+          "https://lh3.googleusercontent.com/d/1NLqm6-QxLMQjUD-ZHcMBUtYqevJV0LS2",
+          "https://lh3.googleusercontent.com/d/1GTDNjQsAUdLeBjUE8LrfBEiNfU-zg_Yb",
+          "https://lh3.googleusercontent.com/d/1UxUlS9dcniAmStKszM_KV1I3M16S4jS7",
+          "https://lh3.googleusercontent.com/d/1SGEFyvc_YxZM8Cee9zP453rLCeWOjBgv",
+          "https://lh3.googleusercontent.com/d/1_gGAQ2AMXB-1m1GtmwE8Ao8qXvNr4b7p",
+          "https://lh3.googleusercontent.com/d/1Zv3NFLahQs1Wt-8qCA82LDtaXoRhGuP9",
+          "https://lh3.googleusercontent.com/d/1t8bby5eW5huiUkywIXqxnnvM3S_3kXKR",
+          "https://lh3.googleusercontent.com/d/1yc3z559ltfc1TB4CJhgWOxAAaaU7n74m",
+          "https://lh3.googleusercontent.com/d/1y3q_c0SSHkCA0Eqb3WaiRfaHkQ2iRN-8"
+        ]
       },
       "last_updated": "1694962212"
     },
@@ -41,7 +328,12 @@
       "title": "The One Who Transcends His Limits",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/aq99UZas5F/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1uExHVI66mAsDOiTQ6MQX_9L4nPWQbM25",
+          "https://lh3.googleusercontent.com/d/1c0zZSTlZyx7JPWJHdbxR-w4DRMIpBtVt",
+          "https://lh3.googleusercontent.com/d/1F9dzQpNk8tpQ5zWlu_zn5aFT6TTuVZne",
+          "https://lh3.googleusercontent.com/d/1wb-qZMqKtMdRySY2Lb7w3Y0w6z5M4jVw"
+        ]
       },
       "last_updated": "1694985751"
     },
@@ -49,7 +341,35 @@
       "title": "The One Who Stands On His Own",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/835HnJmSKK/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/15d0VYFv_0MWzy04HCI7mXZ2fER3bCrnx",
+          "https://lh3.googleusercontent.com/d/1vcdc2x8_WOlGQFSH0psha9JZvjR4JK2T",
+          "https://lh3.googleusercontent.com/d/1qv1xBDklRHhltsOxk8nk9ip1BpPcu9Pf",
+          "https://lh3.googleusercontent.com/d/1DWC9UBdurUQYuZuQVAGIjyjy2ptYuaif",
+          "https://lh3.googleusercontent.com/d/1vdX5VKp_uhnqxa9B716wfuN1OORNgcg1",
+          "https://lh3.googleusercontent.com/d/17hzFU4M6MhMCF94r0fwotxVeOsMptNh4",
+          "https://lh3.googleusercontent.com/d/1010sV6WRIfL0qcnoJQ_OxbsRsWLXibsT",
+          "https://lh3.googleusercontent.com/d/1VcT7sTkZ4KxC5IOdQ83oGY2rnlYGIIKD",
+          "https://lh3.googleusercontent.com/d/1_mqpJlCkjpKymo-aBLMnIdmETkWvIk1Z",
+          "https://lh3.googleusercontent.com/d/1wWYmOBoGJASoqn-CDRLI0A7hIEZAdzO7",
+          "https://lh3.googleusercontent.com/d/1hxGOtaQ9Qj5fIST6IpZlw_5CYZYxgOUW",
+          "https://lh3.googleusercontent.com/d/1N7iwDmjRin9-_4A_remd4OSszqZvqUsp",
+          "https://lh3.googleusercontent.com/d/1HwuCWt8yX_y4dzM_5NYGkdMibmHF9bxa",
+          "https://lh3.googleusercontent.com/d/1HpORgPDjuS_W-wY9cifw54EVNZ6oWvIB",
+          "https://lh3.googleusercontent.com/d/15af0rNMjuVh4r_FtsLQujl6Ej9EMO1Hm",
+          "https://lh3.googleusercontent.com/d/1LYjq3TCPgd1B3QQ-flVj4aAjVjP8YP5M",
+          "https://lh3.googleusercontent.com/d/1a5GeCFwNhKxu4ZHdb0041DVtFJWXW5NY",
+          "https://lh3.googleusercontent.com/d/1ZQuQKzLeKjsBnO2jbrB1bWAaGVy4aSN2",
+          "https://lh3.googleusercontent.com/d/1c-iSehQz5iYzedryYr8OX69TCN9zsSPx",
+          "https://lh3.googleusercontent.com/d/1SqqBiavqLEPpKetko7Dp6bJ5fImfgtdE",
+          "https://lh3.googleusercontent.com/d/1dmwWS5pZ6wbJWGAuJKrnZPSKF01gcoeA",
+          "https://lh3.googleusercontent.com/d/1eoUIuN3Xs2E1sXJGM1xcKHt-bYW06OqF",
+          "https://lh3.googleusercontent.com/d/1_-p6-lyOOSFoRRGNs_VI8wrSfryfDO1-",
+          "https://lh3.googleusercontent.com/d/1Ex65WJib3sjWO29l2NwVTS-EhFt-W0g9",
+          "https://lh3.googleusercontent.com/d/1IYNEhwo-Z53YIoTOjHL2UuBToiP-FXmO",
+          "https://lh3.googleusercontent.com/d/14Su1Xgp2TlCKtrq45sNFpBxHc3stuQdr",
+          "https://lh3.googleusercontent.com/d/1mrBlEoXicFFIOf93iQ9Y9A7N4m7O6PY3"
+        ]
       },
       "last_updated": "1695125658"
     },
@@ -57,7 +377,36 @@
       "title": "The One Who Conveys His Feelings",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/BihmqMpVaY/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1ITuOjrk2-M163aWr5Wy8DF3bpP-A3Tzo",
+          "https://lh3.googleusercontent.com/d/1lOX695ylJERVfyHbHMQXDTq4oY5uBzkV",
+          "https://lh3.googleusercontent.com/d/1eRvKHm0G7XSuZ20P40Aw8VaDFBbAi34x",
+          "https://lh3.googleusercontent.com/d/1QhroLJFcI4kgcIMYPoVejniS4eIH-FsB",
+          "https://lh3.googleusercontent.com/d/1zP4RCdSkadxscQAMjVqS2ZWsuadB4u__",
+          "https://lh3.googleusercontent.com/d/1R5lKSMKArsZZgi6aQjl3Fk7prNf5pyvJ",
+          "https://lh3.googleusercontent.com/d/1eVPs-zjZKv-ZmbX1TqonUinVBIN_HGcZ",
+          "https://lh3.googleusercontent.com/d/1iSq--xkr4O9ZRCFbYLgNZdrxqOAPqYPZ",
+          "https://lh3.googleusercontent.com/d/1i_KdfCJADHEuDdFfqwd_XTIsB-v91g8M",
+          "https://lh3.googleusercontent.com/d/1nhFzA1L3nvduuls8K5Utm5PtOyMn6Og9",
+          "https://lh3.googleusercontent.com/d/14cjlBN2n121nvhe-adbwSw-7xlRECC0_",
+          "https://lh3.googleusercontent.com/d/1XeNK7cdAkz3f9R3T5ucSth25Qti55uL6",
+          "https://lh3.googleusercontent.com/d/1wJT2K28o6wmmMgvYR3o_uvklPN6tm1oY",
+          "https://lh3.googleusercontent.com/d/1xMZreGWxQEyXJQHfjuVFcH21oXkaImOG",
+          "https://lh3.googleusercontent.com/d/1kJrbvAGzI2uL4S4uidkDoK_VN-EfOwEe",
+          "https://lh3.googleusercontent.com/d/12zQOPkTqpKwbuHqYz4-7JzFcwLJFnvbz",
+          "https://lh3.googleusercontent.com/d/1or2Eqy_m6uJD8FGUsgBQtLrRYsz8lF9v",
+          "https://lh3.googleusercontent.com/d/1ZAs0geUkydmuDwVreVKUG_f-pfrK1Old",
+          "https://lh3.googleusercontent.com/d/1qqaSfuDHZdtrTwJ6vYU5vXsU5o--0CPT",
+          "https://lh3.googleusercontent.com/d/16hudGp2LN063k6Swp3ljrs4y_I4HSdNP",
+          "https://lh3.googleusercontent.com/d/1yVatteAMsuaitxoc2X3bSTQAOpXca6Zb",
+          "https://lh3.googleusercontent.com/d/1VY8KJSU-qRx2GYdpcVnb-25YIdqAt2Nv",
+          "https://lh3.googleusercontent.com/d/1VTTWiOgXzlR2KfoS8vGr61hJhWb6WBkT",
+          "https://lh3.googleusercontent.com/d/1zTfV2KUSIXD3cHc1nO46YD_quYC4K7BS",
+          "https://lh3.googleusercontent.com/d/1DM1SL_btdr5X3OYZagtigp_yJNTgF41M",
+          "https://lh3.googleusercontent.com/d/1IUCEGUlCiiOosbfbzlO1QJWhI-O_1tFL",
+          "https://lh3.googleusercontent.com/d/1vWqLPZhGCvQ-f3b7QegFv2rUAtRMF4QP",
+          "https://lh3.googleusercontent.com/d/1voAgBSyVM8tHYNP5-3FN55xgkGF8v_FH"
+        ]
       },
       "last_updated": "1697931107"
     },
@@ -65,7 +414,36 @@
       "title": "The One Summoned by the Evil Waters",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/mqJb7Rm92f/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1NYuCOiSKWlfI7-HMyy1M_Wvvrbii3Zkp",
+          "https://lh3.googleusercontent.com/d/1tvaa7lsjr-GH5XW7ZkzDeNG1-ToVEPgQ",
+          "https://lh3.googleusercontent.com/d/1iIFzBFr_YqyxY_gOR0xqkGbM6nOqYhIV",
+          "https://lh3.googleusercontent.com/d/1qrG8LgkobIQW7GNkr4BO5QlGKH26UN-e",
+          "https://lh3.googleusercontent.com/d/1yHD7y1YtNOkFx0MmEGRxJWnrxV4KB26c",
+          "https://lh3.googleusercontent.com/d/1WcD6opMpe7D1DM84XlPrL8uPcrcxn0j-",
+          "https://lh3.googleusercontent.com/d/1VWalswl5f_HGasD32R1PxwG6yOaaqwv1",
+          "https://lh3.googleusercontent.com/d/1hFb1TeUkQTwHJO69VV6uyoN8Kp2lHOzj",
+          "https://lh3.googleusercontent.com/d/1GDJNH5BfgNaGBB6PZLw-Zj7oGDbb0Ndj",
+          "https://lh3.googleusercontent.com/d/1ljEaEtm8PCFjMqzIVXLff0CursGABtho",
+          "https://lh3.googleusercontent.com/d/1DMyMWOkyXUoXUDYw9fWVKs7Z7NopVw6N",
+          "https://lh3.googleusercontent.com/d/1NEN5uBWcPl9IeUWQo01fg1hNpJ7y1xTh",
+          "https://lh3.googleusercontent.com/d/1xML_nKO4Sgnmn1vyYh-l2oXZ1GRuQ745",
+          "https://lh3.googleusercontent.com/d/1C4Bvtm5hr8_QfFLHdNCbezBugaeTWzL3",
+          "https://lh3.googleusercontent.com/d/1lksUpKDSyG47D33z6j0e_p-ACKgYhynm",
+          "https://lh3.googleusercontent.com/d/18lffvGKNwVEdIndudqIogvdNQXWFAWLN",
+          "https://lh3.googleusercontent.com/d/1IlMPMUsTFfKOEiIaw5W3tF3Zq5UtxQsw",
+          "https://lh3.googleusercontent.com/d/1ck-hxV2Be8FU0OgCad96p1kYpcR9JLPX",
+          "https://lh3.googleusercontent.com/d/1eSpajfXjHfntKyXfQ4QI4K8K-rZN8ix6",
+          "https://lh3.googleusercontent.com/d/1hzZv75GQV-KfpkTf50EiY3yG_mCxn_Ab",
+          "https://lh3.googleusercontent.com/d/1HBcvImu4p6u8Y4Gtmy92YvrqETnCiPxd",
+          "https://lh3.googleusercontent.com/d/1f3HAnkujm8TzyBTZKn-ql_VznTJlwO_j",
+          "https://lh3.googleusercontent.com/d/1WgZMd_Bd80ArvhSrGnB2PQ28isnzdodd",
+          "https://lh3.googleusercontent.com/d/1i3XXg63bizrbrJaiqW2UGiTWl0HXCaFx",
+          "https://lh3.googleusercontent.com/d/1Y2d2HGp0PAu78_phT4PCSB8-NPy19MBT",
+          "https://lh3.googleusercontent.com/d/18QG0ppAH-aI1TIfKy32G_u6BNFdE4r3n",
+          "https://lh3.googleusercontent.com/d/1QReOPOEL0deZ6ByRg4GpoQQbg5eC8m76",
+          "https://lh3.googleusercontent.com/d/1Z3PCW9SkH1lywlZqQuC1810uxa0P8PEm"
+        ]
       },
       "last_updated": "1700418540"
     },
@@ -73,7 +451,35 @@
       "title": "The One Ablaze in Darkness",
       "volume": "15",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/u09a3JEogG/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1lTFdrNI0m0H9xCGY86eOUj7LiJA51WVj",
+          "https://lh3.googleusercontent.com/d/1P06p2mBGK_rMyeM4lnxLyHtU3nvpYdd3",
+          "https://lh3.googleusercontent.com/d/1ZVO7JUdUZ_3SDl8gqfLvIHkowhQ2HwTp",
+          "https://lh3.googleusercontent.com/d/15MMzViEke3uDV4qZUq7JKdAPr0hjEXuN",
+          "https://lh3.googleusercontent.com/d/1KVBLOHUTB3fXYSNRY8Rx3NKWw729WyRT",
+          "https://lh3.googleusercontent.com/d/13X88yqJoZt2Hi4xZ2XIWNFEHr_t_PMu_",
+          "https://lh3.googleusercontent.com/d/1QYTe7KrB8uIbASYfK3GLcveyT37J3OVz",
+          "https://lh3.googleusercontent.com/d/16WUWZYToFXNemFaeUoWTcz0jrfqFxlpH",
+          "https://lh3.googleusercontent.com/d/118sJVuNOpRfZ2bBXNyamEIj53SYi7YFZ",
+          "https://lh3.googleusercontent.com/d/1cdM9pwyWouScVW6FDiiGA8qhqHVt_QEM",
+          "https://lh3.googleusercontent.com/d/1_xu0IZuzyWe79rQD_pLCTJUPc6zRTrBh",
+          "https://lh3.googleusercontent.com/d/18k8h6Aj1bN26BdoLhuKm0x1Xy34rCOcC",
+          "https://lh3.googleusercontent.com/d/1BO5h5YR49J9oMgn7vBxg8wyxLwYDtJVE",
+          "https://lh3.googleusercontent.com/d/1CauCJL9ea1xlMR0Nz-CbqJcqoY6_vejt",
+          "https://lh3.googleusercontent.com/d/1r9DVhTrYwugfZSJrIEm1LYNM0qBVG0sp",
+          "https://lh3.googleusercontent.com/d/1X3OndhnkZJ9DkpGZqgFR4R1XpPIEkloB",
+          "https://lh3.googleusercontent.com/d/1vywOhzMkPWdfQuLbEvmwKEjSX5GjBT6O",
+          "https://lh3.googleusercontent.com/d/1QrEWRdTKCnhz7yF92VA29jwPlrjLbzsm",
+          "https://lh3.googleusercontent.com/d/1B_2Vd-sM9sqaqf-zc5W9_2dVE976zvOd",
+          "https://lh3.googleusercontent.com/d/1MrXu8BdvBbzbxDB2kl19737UxXZEB8os",
+          "https://lh3.googleusercontent.com/d/1uXSo5OvUvDManaOEdoGKDDfKd0HsDi5p",
+          "https://lh3.googleusercontent.com/d/1PgAyHiLA56LIRZg6W-v1K8H5NbqvJ1Fy",
+          "https://lh3.googleusercontent.com/d/12j6jx7NM3ECyjZbR8C_oTndBGFvSSi76",
+          "https://lh3.googleusercontent.com/d/1Qni5k0Dp9nHUaxEYDdCM1nx2-Pqy7R7s",
+          "https://lh3.googleusercontent.com/d/1J2uPKwQbbmUK_G71LfkIQKMdeRr6WA9b",
+          "https://lh3.googleusercontent.com/d/1z4JTsQHZwKcayxa5pr3DJh32vnCPyJIi",
+          "https://lh3.googleusercontent.com/d/1PZzr-0TQCh2TFqEZCyrOUpnfwcpBydPC"
+        ]
       },
       "last_updated": "1701037660"
     },
@@ -81,7 +487,11 @@
       "title": "The One Who Stands in Black Smoke",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/ONgU5C62oj/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1VP71z-hzFNKWSqX9l5SqRgEIh9r1a4T1",
+          "https://lh3.googleusercontent.com/d/1xF0pkYWe80GEYEIUPQAGd-WOhb8uBHfH",
+          "https://lh3.googleusercontent.com/d/1bQHDhdIgZkjTkcJofBnzJysibbmwEVqi"
+        ]
       },
       "last_updated": "1701526085"
     },
@@ -89,7 +499,19 @@
       "title": "The One Who Bears Infinity",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/H81m0C1lQ0/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1EKL_SLLUhwc3MadGDahSQnmgQfl_a72Y",
+          "https://lh3.googleusercontent.com/d/1B-jYP0eX0X9qzuGa-ALCmOzcVcDtlAQ0",
+          "https://lh3.googleusercontent.com/d/1CrcSrvx-T7CuK3lDT9HK9XrzgSzwVlBL",
+          "https://lh3.googleusercontent.com/d/1WI5PbpZC-Sh1asmwrtntzv_ihETkXuM4",
+          "https://lh3.googleusercontent.com/d/1ef32EOrES4T_lc0Vxhec0YPALOPujNU_",
+          "https://lh3.googleusercontent.com/d/1jT_Tc_MqMAoTQmfH7m7bzf6LedfVfONa",
+          "https://lh3.googleusercontent.com/d/1jWxqLJM5D-ujoYrZlz-JnoYNAITjgyC9",
+          "https://lh3.googleusercontent.com/d/1nBYnT5vhU3LTprP6Y_M8OnQ3hrG2452S",
+          "https://lh3.googleusercontent.com/d/1aSsv8j9XwShodMmvVhsMLbGn5Lt8CCJ7",
+          "https://lh3.googleusercontent.com/d/1zmKok58uLZbPLyPRXn7GKLpGn1s8Opwl",
+          "https://lh3.googleusercontent.com/d/1JjiiGOpg0NfLQ0BD92NwUWycRPh4n45m"
+        ]
       },
       "last_updated": "1701526085"
     },
@@ -97,7 +519,34 @@
       "title": "The One Who Bears Destruction",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/MZXvfaDJ9H/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/19PDkdlTAvpLY7s8--U93-SFI990pC2BM",
+          "https://lh3.googleusercontent.com/d/1uc4TgE6dTy06RtW9LFVsIDc64jpN0ge7",
+          "https://lh3.googleusercontent.com/d/14I0d4fDgq36wyO9TIs2wqG8ZeVDvtbUT",
+          "https://lh3.googleusercontent.com/d/1WI2aPcBgkWnf0qVxo19s4sblYjlmeOhj",
+          "https://lh3.googleusercontent.com/d/1FWbvuX5j2qbKggkLUyFkV9FZnlmQpmzx",
+          "https://lh3.googleusercontent.com/d/1UGqHzBJx8b-D_4q-B21xotyKIu16y8wm",
+          "https://lh3.googleusercontent.com/d/1bW5Mb_QMope5LKyFoDBKDxFPoCZjLM-M",
+          "https://lh3.googleusercontent.com/d/1qklE08M81IGgP1Q8Gi1xMr60kBj49JCG",
+          "https://lh3.googleusercontent.com/d/1RNL3Uf9-WnIRnGm_hn2_p9eOFDxBS8k2",
+          "https://lh3.googleusercontent.com/d/1PQUIMScVVqgXWc3iG6ph_fEvpVdeIVz2",
+          "https://lh3.googleusercontent.com/d/1d6W9IJ0WpMDrayTA3LaVRDtTM1bA-X8e",
+          "https://lh3.googleusercontent.com/d/1k359s7HaBeerxmWGRJVVeiIxOdVHV9TH",
+          "https://lh3.googleusercontent.com/d/15GaJvJmAL51F6jDRNsqScrE-ikNikLNf",
+          "https://lh3.googleusercontent.com/d/1kazQnfO237IezgON2hmc9MqaJDLq0hnv",
+          "https://lh3.googleusercontent.com/d/1ieKdwFPHs6LBOuO63wZvrdTohMzKz0c_",
+          "https://lh3.googleusercontent.com/d/1aJduCduMdPq20a147NJcKE8b-89T3ioS",
+          "https://lh3.googleusercontent.com/d/1H_TBbB_nuZG-L_alN9lojXRmA0jA-YGS",
+          "https://lh3.googleusercontent.com/d/1ze5xlBzj_wB37iDzfAuso5kD-UPR7YT9",
+          "https://lh3.googleusercontent.com/d/1BiPTj_pI-UnlTeW_rZFXz3Rq3mwGQi-D",
+          "https://lh3.googleusercontent.com/d/1t3EO5XkdmI2iK3saLsLVCMfRgzgqFNDL",
+          "https://lh3.googleusercontent.com/d/1Eil8QkwA_VYE1AwDHURw2LNdVDSJZMep",
+          "https://lh3.googleusercontent.com/d/1XOKP4cSzXYuwXTt0CAVYWrXIqhq8ki3n",
+          "https://lh3.googleusercontent.com/d/1l6oFn0XWXo0HyxplEvYfUBIWFuu73qW5",
+          "https://lh3.googleusercontent.com/d/1cj-F4CJLQpak3uZtaQZFGXe6rSBbuA5K",
+          "https://lh3.googleusercontent.com/d/1_iaRGUSKiONnb-PlmCXDGLHA_x99WO1A",
+          "https://lh3.googleusercontent.com/d/1zs0u_kgZXlszuVc2Ftsz6MpWnoJcQzDu"
+        ]
       },
       "last_updated": "1702767300"
     },
@@ -105,7 +554,34 @@
       "title": "The One Who Was Gifted Divine Ringing Thunder",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/XgRw3OMaip/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1QYoO0v8LPGSYqOOJ6HdPruF5niB8s5Oo",
+          "https://lh3.googleusercontent.com/d/1SQov4q-sQMzoNNrm0QZzvx4rJb1nxSPE",
+          "https://lh3.googleusercontent.com/d/1l1-ubdJ82sh3HSYbfONSNh9_6n7YP7LE",
+          "https://lh3.googleusercontent.com/d/1gvY5YReV9DZyG0cYTC-1qfvgf8-Hc9VU",
+          "https://lh3.googleusercontent.com/d/1z9TgASdN5uU2BWuuAE3ujD-E4Hr6LuCd",
+          "https://lh3.googleusercontent.com/d/1Vb0Rp9dGc7auHNr5uqqFpuzYZ9ARBYDC",
+          "https://lh3.googleusercontent.com/d/1Ce1opxSpBi5WIi70VQHjT8VpoIidO_mi",
+          "https://lh3.googleusercontent.com/d/1oai22yWX336VGCxyfxytREYIM3KAGhiC",
+          "https://lh3.googleusercontent.com/d/1daVkqMI5cJo7ZvCjy6mzSTajRJFFyb_I",
+          "https://lh3.googleusercontent.com/d/1wsYsmoyCA4jQHxsFgJ87KGh8gZu7x3ed",
+          "https://lh3.googleusercontent.com/d/1eXmHIhHYKCiF36BzZ_qu2Z5tJBtEieyM",
+          "https://lh3.googleusercontent.com/d/11OqkjigZP3WfyEZCYOZLHQ3ZVqtIAKNI",
+          "https://lh3.googleusercontent.com/d/1lMAJ1cL2IvNYvp6Z0LTnI4dQGl3e1nh3",
+          "https://lh3.googleusercontent.com/d/1ytABHJpkEslF-DEsYIatylA0z5JyjYkg",
+          "https://lh3.googleusercontent.com/d/1OmXhm-QNHD8M-Hh5Dg70IeccK7hr1E3Z",
+          "https://lh3.googleusercontent.com/d/1BX_dBxRXrqxHXtR5BYg_oo4bgim5yUBQ",
+          "https://lh3.googleusercontent.com/d/1xE3wqzx_dM11lG7wmu_UETYC2SZ0ihoX",
+          "https://lh3.googleusercontent.com/d/1PO2nVelIBX9LPllcjqXljO8JVfIvdjpT",
+          "https://lh3.googleusercontent.com/d/1BUNK5wXyrKdVEGqs8I79dzl5gl-8e4bY",
+          "https://lh3.googleusercontent.com/d/1H_qLXq1VKKOHefCEQolIHoZ33GvJyHxM",
+          "https://lh3.googleusercontent.com/d/1ESRWrM-LoovJNmrtRkgkC05smhk9pcH1",
+          "https://lh3.googleusercontent.com/d/1dZ7f5YWI5_hoFp8hVx2FzeUP6oYcf_oo",
+          "https://lh3.googleusercontent.com/d/1fa-s7uqJg-vfZaO905cdqJ146-UsYEmj",
+          "https://lh3.googleusercontent.com/d/1AB-c5NBaigkHgK9MVLKS5782yiKhmHEq",
+          "https://lh3.googleusercontent.com/d/1QPc2LgkTJ3CvxndrkcKjr7KDGmipsvWM",
+          "https://lh3.googleusercontent.com/d/1bEhk_tKYD7lg4ozOlgoh13WYlJn49V6A"
+        ]
       },
       "last_updated": "1702833300"
     },
@@ -113,7 +589,38 @@
       "title": "That Which Remains in the End",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/ofIFD4xsux/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1TSTvu5NfrRhDLhdD9GStZTfoPj9to91I",
+          "https://lh3.googleusercontent.com/d/1xKzaZkvobN6g6TA50ttxWio2ggV5s_kf",
+          "https://lh3.googleusercontent.com/d/1S7_FkAlH0iMOSw_Ydy4PqONST6mC4TmU",
+          "https://lh3.googleusercontent.com/d/1LO4xtVvTQH3I6Es6jlGAAqrb4yyHDMvx",
+          "https://lh3.googleusercontent.com/d/1Xb5XA1mVHF48vJ1GyX4uFiBGj41QAocD",
+          "https://lh3.googleusercontent.com/d/1BUdTBrVeeJfNIGLDImC3kO3sSjoUh4B2",
+          "https://lh3.googleusercontent.com/d/1TSYz1vpOF3npToeWK5IYBakJd_K4Z2Dd",
+          "https://lh3.googleusercontent.com/d/1Zs3mA-rk9EvYHo-ndguKWSZNtVVt847S",
+          "https://lh3.googleusercontent.com/d/12eMIW7CS_JGkcg6R4A808a9lgm0d-9G_",
+          "https://lh3.googleusercontent.com/d/1p_lZr8MlgnSHyCUawNmjSe7wczbXVH6_",
+          "https://lh3.googleusercontent.com/d/1XPJZRwZD8W1UgdnTVsr_gFQsC3Z9P9Xr",
+          "https://lh3.googleusercontent.com/d/1toqTi4K4rco5EJWy7PWxHNDqZGx5AuuA",
+          "https://lh3.googleusercontent.com/d/1evW8jVSBntsVPIsK9aEEJpo2BJZGQ797",
+          "https://lh3.googleusercontent.com/d/1PwKss9VOxgn5ds5-wl6gms_xbqj5qhwo",
+          "https://lh3.googleusercontent.com/d/1qSYDZSAc_ohNDyEOQlZx8-Z2VpyFCuxS",
+          "https://lh3.googleusercontent.com/d/1b08XVrxmPw_bVt41ePybLQEknCe0NEOX",
+          "https://lh3.googleusercontent.com/d/1satqvbmmge8GgRuxx63pgYEVJtwp6w6x",
+          "https://lh3.googleusercontent.com/d/1TCALcjZt6siiXaPx51bASbFACHi5XGxO",
+          "https://lh3.googleusercontent.com/d/1hP2t_UnPzuf_k6lLlRQuYlUcFzLpoaH1",
+          "https://lh3.googleusercontent.com/d/1pguMUDoThEGNax0Mgcrzq13pajhc_hBl",
+          "https://lh3.googleusercontent.com/d/17irLUK7CKxhA96Bbas6xkytczWjKeA6-",
+          "https://lh3.googleusercontent.com/d/1HqqkOWzVuiFQkYhSM73xRC28wITb0roM",
+          "https://lh3.googleusercontent.com/d/14-mEi5DyIa15xll9pQ0wgD_RXSqwsEVX",
+          "https://lh3.googleusercontent.com/d/1qMfOaynEnya8yXvgaYqzQrxwTtmipIwO",
+          "https://lh3.googleusercontent.com/d/17KBy3DFXlF3VTzAOtL0XHddKrVpahEOs",
+          "https://lh3.googleusercontent.com/d/1SXPx5gqdv1zzDOSHKUr1PDeBaLU8jymf",
+          "https://lh3.googleusercontent.com/d/1ZAWcoyOVuG0C6TA7x50mtWxcmZlSvIqm",
+          "https://lh3.googleusercontent.com/d/1E5PZZUwn3GtWx7bnKWsi3Ga6jAW9oNp-",
+          "https://lh3.googleusercontent.com/d/1hYAIEP6kRn-rQQTwhtpmbQEqhAdFV0Qf",
+          "https://lh3.googleusercontent.com/d/19BeEGmowe8oGjkfKR7nslZdYY5YuYlnH"
+        ]
       },
       "last_updated": "1707679800"
     },
@@ -121,7 +628,34 @@
       "title": "Those With Irreconcilable Hearts",
       "volume": "16",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/BVCaVnnE5l/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1K3iZbsqK-hUthQ0bhBvURtFU21JH-Q1D",
+          "https://lh3.googleusercontent.com/d/1LcD7_7YlGYwyn694f5WogytTkCqJRETU",
+          "https://lh3.googleusercontent.com/d/13KcyYNSpe-KD8e1H_0yEIe4FPmmul_lg",
+          "https://lh3.googleusercontent.com/d/1Cx4m6wOzSQkRzBnhzBWorW3A1DG2wmYr",
+          "https://lh3.googleusercontent.com/d/1DvKw0HDclh5MKlJvGUaBb2aRAbXezGC9",
+          "https://lh3.googleusercontent.com/d/1RCSBGU-XfWfuXbUXBHsJCi_yk6cTVIfz",
+          "https://lh3.googleusercontent.com/d/1Uw0-A_xbcAtAw9UpeLaEpO4TpTqu4yKX",
+          "https://lh3.googleusercontent.com/d/1YwzHsJUopALFUHjRHV5nAeD_USPUSTH1",
+          "https://lh3.googleusercontent.com/d/1ga1GMWKGkZfjYsDH9X0Npd6NGu7k6HJC",
+          "https://lh3.googleusercontent.com/d/1MLS-3JG4wRCMCJJBnPsNpg28RIDtHYIy",
+          "https://lh3.googleusercontent.com/d/1HKqsH0izKm5pBcAaDvT1ani19CiSEtPW",
+          "https://lh3.googleusercontent.com/d/1GSFIteLVokTwKECnzlycI6QzVI5t6vKJ",
+          "https://lh3.googleusercontent.com/d/1FT5KdUxqDAEHUHSqPTgIMGzc9es54hIh",
+          "https://lh3.googleusercontent.com/d/1zHM99rbu5UxbUKRX7q9bWzAB3l4Ex2Nz",
+          "https://lh3.googleusercontent.com/d/19JPBRmoNZEq0bupeKYnAOt6ePYU-4sJq",
+          "https://lh3.googleusercontent.com/d/1-bEsAX02yBDpnMIAt6ojtK4BowkLCpWl",
+          "https://lh3.googleusercontent.com/d/10dwTqecKduSyNiFGuRsz6c6hUjJVdpIY",
+          "https://lh3.googleusercontent.com/d/11NGYL82UaW6-AqhgMKYHIQti4WPdS6yC",
+          "https://lh3.googleusercontent.com/d/1yBoM8j-BCxgMHCm_k5feiEbtaWf9IF0_",
+          "https://lh3.googleusercontent.com/d/1JSUCs01hT1g51LnnvJxMC4al6OuWptt2",
+          "https://lh3.googleusercontent.com/d/1LXOSbES0-Itzobj_OC8kFfOoYwRPRtky",
+          "https://lh3.googleusercontent.com/d/1AbBuXP_a1uXPOiq9IlVNpYhhGOCKgsHz",
+          "https://lh3.googleusercontent.com/d/1obOJi_3Z6Uq9DJx3sYDvMN-0oC6I0UQE",
+          "https://lh3.googleusercontent.com/d/1O0svQgO4ma5doZhE0j8dXaM_jkFtb_XM",
+          "https://lh3.googleusercontent.com/d/1AAhkddjWKgfLaXFEQSSP-9fYtFJRD1X6",
+          "https://lh3.googleusercontent.com/d/1B6pYbl4rnHL39s2GXQJ1FDi5NlAlj7Wp"
+        ]
       },
       "last_updated": "1711324800"
     },
@@ -129,7 +663,11 @@
       "title": "Those Who Meet Face to Face",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/HxDl7MDMV2/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1TZoTGsvDJoc11VUTibfgw992agUTTaUt",
+          "https://lh3.googleusercontent.com/d/1GC9j5xZgkeUM35_ExGXq9VlB2nyLerwj",
+          "https://lh3.googleusercontent.com/d/1CERPXFGKGKKVK0cobH0rzEDDLWlRWapx"
+        ]
       },
       "last_updated": "1736614076"
     },
@@ -137,7 +675,23 @@
       "title": "The One Who Obeys the Black Water",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/tZauUdhQcc/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1eVjIN13xOuPH-11urigS7DnBSZ-wWT9o",
+          "https://lh3.googleusercontent.com/d/1B0mjvzsWkrUeWAtXmhuo64D6WJwkUmW5",
+          "https://lh3.googleusercontent.com/d/1q6HTLeGOfePinD5pNRoikeTwvBHpvADl",
+          "https://lh3.googleusercontent.com/d/1BRK_hR_FFkXTkXRT6beKklKaVGXcUDdP",
+          "https://lh3.googleusercontent.com/d/1-Ic6EtOsUc8HRK72ZmuuHsuV-uVQRLyG",
+          "https://lh3.googleusercontent.com/d/14lNJOVk50dPLQyfYN69mO1jyx1b2DxLk",
+          "https://lh3.googleusercontent.com/d/17Vlyd-vAgQqLBzfVIy6pYvvWVLDVxD5S",
+          "https://lh3.googleusercontent.com/d/1ArMXJmjXaYEM3JWqD9j8RrhW7KMeoEBC",
+          "https://lh3.googleusercontent.com/d/1Ru93IZ9wgYIajcfyqh_doY1j35txITq2",
+          "https://lh3.googleusercontent.com/d/1LsNmLou_eaMMwXZE3r_ajdQiry3gQ_bz",
+          "https://lh3.googleusercontent.com/d/1rH9AnDrKrYa2h6Uo_mKG_2wxdswqzG5m",
+          "https://lh3.googleusercontent.com/d/1gGuGGXe7Db_Ev8vAmVOwDtyIMLHD4JWd",
+          "https://lh3.googleusercontent.com/d/1T5tjZsFqk0IA1FaE9khcxT8Ohhzx0RTQ",
+          "https://lh3.googleusercontent.com/d/1w2INGxiZ98AXxo6C5VNeagg7SLPTUeeF",
+          "https://lh3.googleusercontent.com/d/1SjknHN0onWYo0b_TWfVcbQjfFkODWjHc"
+        ]
       },
       "last_updated": "1711877100"
     },
@@ -145,7 +699,36 @@
       "title": "The One of Black Flames",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/JItpkUsXp9/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1grLXWxsubh_ERdIJnYoHoy1geHybYMQ8",
+          "https://lh3.googleusercontent.com/d/16az9xmbM-SU--9iTxoOq5KjzE6rZWfoR",
+          "https://lh3.googleusercontent.com/d/1SHmjM2JitNs0Y1Ek7eeF5dPPrwit0brr",
+          "https://lh3.googleusercontent.com/d/1CruwLnS-ZlNE6gApZbBBY7Y2O6DtWrG9",
+          "https://lh3.googleusercontent.com/d/1enBPKF3J6eMIolCUoNTsAzfaMo5XRvny",
+          "https://lh3.googleusercontent.com/d/1Keu_ULLY5yuiAs_IvGw8jGjBFUczPViD",
+          "https://lh3.googleusercontent.com/d/153BhJUyI9-Twp8BOwHBP0qWdxqRaQcTT",
+          "https://lh3.googleusercontent.com/d/1RQqpDJfoU8gtDq8F-Dfqp0xXP1LMHnkd",
+          "https://lh3.googleusercontent.com/d/1mRSKXRzsJHtYtI7IjBuQG3DFgkPms_on",
+          "https://lh3.googleusercontent.com/d/17DRN08xUGfh_56zPKnXbWhaxN1QTFFfH",
+          "https://lh3.googleusercontent.com/d/1HozlaAq5WovJ4I9BS06CMNPWSikph2Mv",
+          "https://lh3.googleusercontent.com/d/1S64cFeb56t6lYqhnHwLLmTS1tA6OFQ48",
+          "https://lh3.googleusercontent.com/d/1aVl4t4PLFRWhrIQ76HjUX_QG7wqFADzF",
+          "https://lh3.googleusercontent.com/d/1pyhxhROKfsxCZKx7ieP2HwypjevymLD-",
+          "https://lh3.googleusercontent.com/d/181ssz-gSk0wC3mzT9XpaeA1bojYghLGL",
+          "https://lh3.googleusercontent.com/d/1J8uv5mZjkSKIZbre2Y09hE-YzGNhU3x1",
+          "https://lh3.googleusercontent.com/d/1iBSb3m9KhhtzrEUpN5XndsKIBRhzP3z-",
+          "https://lh3.googleusercontent.com/d/1QVxplHUrAJ_8udObrs14vO1km_ypMGCw",
+          "https://lh3.googleusercontent.com/d/1b8g3v3HmLlsUQr9uTtBA5tWIERT_akSo",
+          "https://lh3.googleusercontent.com/d/14XjrN-bFFpqS708UTB9lWFErXhq-aUvh",
+          "https://lh3.googleusercontent.com/d/1yR0_8xp3_BkM4eOC3kTBdY4YBndMw2ew",
+          "https://lh3.googleusercontent.com/d/1AOxaAP5Ez59OEq7lR1pttPO04pqo-TP-",
+          "https://lh3.googleusercontent.com/d/1ZlKMkL0J-mC5_zRVztsFYYxROihKTi_j",
+          "https://lh3.googleusercontent.com/d/1U0fLfCYbQMRtvywYiZbPNBPvJhaQG9nq",
+          "https://lh3.googleusercontent.com/d/1isKy1dXICbdnfWix91la3P-TqO1MFjFw",
+          "https://lh3.googleusercontent.com/d/1ekHI6d1BKq_cwaW4mOwv7IExdkr_cUna",
+          "https://lh3.googleusercontent.com/d/1TqErivoNbGplsxtpNp7Z6nQxpWlgzJs5",
+          "https://lh3.googleusercontent.com/d/1i9N0OdB1SpWoDX_mWjoAzJgi5MmS9RNf"
+        ]
       },
       "last_updated": "1714345500"
     },
@@ -153,7 +736,22 @@
       "title": "The One Who Never Lets Go",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/AtleETIP2Y/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1d58Cljah39ocGmL-UI6aY_8j98LljTXe",
+          "https://lh3.googleusercontent.com/d/1gxqPdJ8wnE77tCa5c4CV7laRXcy52DW_",
+          "https://lh3.googleusercontent.com/d/1tHdKhtmBPs67yHUyQM7vW8Q8Fe5vitMJ",
+          "https://lh3.googleusercontent.com/d/1WPdzeS32nUb5RG0aSI6NefVGD5agzq_L",
+          "https://lh3.googleusercontent.com/d/1s2qT1MpGGEJFDrrkVBaQbBRMSQdzUKs4",
+          "https://lh3.googleusercontent.com/d/1i24-dH_sQ5-3bQhYOS8nl7rSAxgDf7Em",
+          "https://lh3.googleusercontent.com/d/1N9W7NbSfWF5PDnHV6CBh305vBFGIQMFI",
+          "https://lh3.googleusercontent.com/d/18mpMUv-G4SO8A3PYK6SoPuMpqCvILdL2",
+          "https://lh3.googleusercontent.com/d/1h5uIpd9qYvnAK42GKTSQK-2Ohmj7EM0q",
+          "https://lh3.googleusercontent.com/d/1a7O-r4Zi-Y6nvItRDistQSLQgtLOaedJ",
+          "https://lh3.googleusercontent.com/d/13FzDJSkiY6UMAT0dPHs1frovdQkI9_fF",
+          "https://lh3.googleusercontent.com/d/1uW1nlLM1lJWd-aQzpnaInMaho_26brC9",
+          "https://lh3.googleusercontent.com/d/1Q_atahyq8AYt9YVRBUFA3eWo-B_cTEEX",
+          "https://lh3.googleusercontent.com/d/1_mU6CcftmmT4qdSBYMHB5mNbMdY0R__-"
+        ]
       },
       "last_updated": "1715733900"
     },
@@ -161,7 +759,34 @@
       "title": "The One Who Brings Light",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/5zKzXjerHT/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1XpWRdUkuxWdwyjGkjsbVfOdV6NnF4n20",
+          "https://lh3.googleusercontent.com/d/1_H9czH9kzoSu7_kEjOcjEGP303RuHyeI",
+          "https://lh3.googleusercontent.com/d/1ItcXfWDe6BbAnHA7FGLLyxRWjN2TiJt5",
+          "https://lh3.googleusercontent.com/d/1TzSZa8V6N5JnoJqWzI2d7LZI0GWQvLgW",
+          "https://lh3.googleusercontent.com/d/1FqIwrK-aGxJyFfo5hWKAbtenWcwgFn9v",
+          "https://lh3.googleusercontent.com/d/1wRqEBof-Lk9Nl4A1Tgl0K-Kxy1_fa3CK",
+          "https://lh3.googleusercontent.com/d/1zVvJvLYU7aotymD_8B5sZVfKPe6oth2j",
+          "https://lh3.googleusercontent.com/d/1kSUk0LsypYibcqvQM3AUtMJg16ei6RZ_",
+          "https://lh3.googleusercontent.com/d/1w84ZyHmWn9x_JFoiz49EYRbTR_5_Mz5R",
+          "https://lh3.googleusercontent.com/d/1HmgKv4NTEgno3aNlrzFhykU7NSlTDRTC",
+          "https://lh3.googleusercontent.com/d/1uzu7G-4epMcyzoBPRsWWBwn9Ekhi4gwg",
+          "https://lh3.googleusercontent.com/d/1aN-DfhJYxSoA5e319Io6G7lbhrHKt3Us",
+          "https://lh3.googleusercontent.com/d/1Ok3oUKpO41UGU9SdTge4gTpIxYI7zLDd",
+          "https://lh3.googleusercontent.com/d/1KRqsrsN0nSObQNiom2ZECGmx3kakY7PC",
+          "https://lh3.googleusercontent.com/d/10AHG7j8N4r-oQXfLgaUhsvKTJhqLzhQu",
+          "https://lh3.googleusercontent.com/d/17S3ZuAlMWUUuu9coBizNcaxopL4Hgc7d",
+          "https://lh3.googleusercontent.com/d/1Wx-QV6IXyPxq8l4pJuzstAtQ4_Cg_MD4",
+          "https://lh3.googleusercontent.com/d/1lOewTDiiA4ugfAPblxa47RUvUmPErZ5I",
+          "https://lh3.googleusercontent.com/d/1ev0ygBsF2Aza9r6lPamkZORh33rpuniB",
+          "https://lh3.googleusercontent.com/d/1WRPfrh7KB83hXKoZjjT8NcLazvGz9K5Y",
+          "https://lh3.googleusercontent.com/d/1MfCMOUcFo8jfmqPsfwUbf_VW7Kye-wJ-",
+          "https://lh3.googleusercontent.com/d/1tkML5Hdad7n1It1reASmR8sQoDuQseeT",
+          "https://lh3.googleusercontent.com/d/1qK_uY4wgdwhUVRSruRnMdQAMkHmw6-cV",
+          "https://lh3.googleusercontent.com/d/1PeLkdpNE3blVjJh_ZJV6iuXqqLh1-zTc",
+          "https://lh3.googleusercontent.com/d/1D6FL_EuVQB_V5yNO8QO0ZcV_wZ9ODsbo",
+          "https://lh3.googleusercontent.com/d/16Dc4J6ZqkhpJacVTaFYX29Xbx346mqmV"
+        ]
       },
       "last_updated": "1716650400"
     },
@@ -169,7 +794,35 @@
       "title": "The One Who Returns to Darkness",
       "volume": "17",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/q8hkU0MvKf/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1vXIN46hyXlTNSdHRpluuylrVDPR8f_-L",
+          "https://lh3.googleusercontent.com/d/17HVAjEpvFfDaHjVoHiJkAk758ThKIJpG",
+          "https://lh3.googleusercontent.com/d/1Rsro9Pp-i7XCrcQJ7NzA1znf4mb-73Nt",
+          "https://lh3.googleusercontent.com/d/1fysOY6QulBy1kRt8TddiNu80quNZc0w1",
+          "https://lh3.googleusercontent.com/d/1XEd7BBpLfb8F-TvYVtoVUHNtdLCWNGnc",
+          "https://lh3.googleusercontent.com/d/1SjqiZweUGTMQAEt0LdP4cbCfNbv_h1fz",
+          "https://lh3.googleusercontent.com/d/1bfjksY128jgqI1B9meaAeiJoV_KPw_mi",
+          "https://lh3.googleusercontent.com/d/1X4NfKHuNoofzz_Bo3BhX1NUC4AtOVFy_",
+          "https://lh3.googleusercontent.com/d/14jQg9yU4gYq9B4UxI4i9oQLyIUusMLS8",
+          "https://lh3.googleusercontent.com/d/1IFImNR2EQqI6XBuI7s2ENpBQ-DSGBbVh",
+          "https://lh3.googleusercontent.com/d/1ku5odpGfR5_AYFQzRBwqQP40fpZ-zfNj",
+          "https://lh3.googleusercontent.com/d/1KDnJlOxGxNYVGe_3w_DCs98finvJGN1J",
+          "https://lh3.googleusercontent.com/d/12lAPXoI8fST3prv3TBho18YjS6H1EG5Q",
+          "https://lh3.googleusercontent.com/d/1XnDZFXbJNz3UR2QACrWCAfTZzwABphZi",
+          "https://lh3.googleusercontent.com/d/1wu-IVTJFZQl1tFhuj_T_mPQzn3-HwguJ",
+          "https://lh3.googleusercontent.com/d/1wns2CDRQBB6pxjtLgkBTxa0YUkzXaNDF",
+          "https://lh3.googleusercontent.com/d/15hHzrHQGcEZmhDEpm9PF7MLEJOlwqQ2N",
+          "https://lh3.googleusercontent.com/d/1MmRq4ekoeFubvqO2X0yJocs2YhbF9JQ5",
+          "https://lh3.googleusercontent.com/d/17HLYk9x-S6MWFsd_2YNTlkHGSTGE4Jlh",
+          "https://lh3.googleusercontent.com/d/1JO1YueiTfnVvX5GRfxLasjjwCL7cpa5m",
+          "https://lh3.googleusercontent.com/d/14xPBdGR84BEYiuEhPDKmCxPeALQblBBw",
+          "https://lh3.googleusercontent.com/d/1KH-SgfcF-L6XlYf5JU4NT3ZOiKq94ZZr",
+          "https://lh3.googleusercontent.com/d/1KOWX5qW3oLBJ-RsZS56Il6skZaKaEemk",
+          "https://lh3.googleusercontent.com/d/1XZ1SuDHWdC-c1CTdnKsEuY3qufJpzWtl",
+          "https://lh3.googleusercontent.com/d/1DkIKk2UYm517CdeT6ehuXaHYmiUUtuFH",
+          "https://lh3.googleusercontent.com/d/18F6vYloYSKsgogZbBPu4WjqVP06PwAKZ",
+          "https://lh3.googleusercontent.com/d/107tpfJlI2JgnKXP0u1dbz0c5HZFVJWOu"
+        ]
       },
       "last_updated": "1717239300"
     },
@@ -177,7 +830,11 @@
       "title": "The One Who Has Fallen from Heaven",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/AzauuCqMxE/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1xTSf9-ImUHqcf6X_-qduK-iLLIEv2Ouf",
+          "https://lh3.googleusercontent.com/d/1RePBGicFnwQqG-rShUAa4By9DQ9g1lzm",
+          "https://lh3.googleusercontent.com/d/15OTCbsyWLmQmoqYJz_xXbS2fwaWWtoAe"
+        ]
       },
       "last_updated": "1736614076"
     },
@@ -185,7 +842,22 @@
       "title": "The One Who Reaps Life",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/UFEA2oDjMw/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1WV2aodwb7uQ29TejJQQDWfEMQ33fCaod",
+          "https://lh3.googleusercontent.com/d/1q5uc01qOzPLGWyUQWpN8oPfvdWBbEiqI",
+          "https://lh3.googleusercontent.com/d/16KaE2oDMZkiM2pcJsac1kFczRIcaC6aC",
+          "https://lh3.googleusercontent.com/d/1PyeCjNJC_MbPX7rbDs9jrtIlP3rsAEQK",
+          "https://lh3.googleusercontent.com/d/15s3LK6rGcTnNKbK_6_XsEVsnXiIgf0ex",
+          "https://lh3.googleusercontent.com/d/1V0kEwWTcDdA_FiysuY4IuBXqfwTRitEa",
+          "https://lh3.googleusercontent.com/d/1nbyeMk7C6aBfuDFSmjxI0586ivbEWFBI",
+          "https://lh3.googleusercontent.com/d/1LtU1lWNWU8dhHkdjQl8Mwf55SHKVq3Ws",
+          "https://lh3.googleusercontent.com/d/1o1r8ndPavt6vtS2WVTxgsfyOF-YroOSp",
+          "https://lh3.googleusercontent.com/d/1Qzepl0fHq_9-9RX5W8kiRSdrBXJ2wUIC",
+          "https://lh3.googleusercontent.com/d/136Qw81PYskq8M1d669Wo0QSSenR7cPQ2",
+          "https://lh3.googleusercontent.com/d/1n3aTlotl8XhWdx45xdx3J3aYPC2pVwRe",
+          "https://lh3.googleusercontent.com/d/1wPje4Itf0alYMXtMK7Tn7iyES5L-WorJ",
+          "https://lh3.googleusercontent.com/d/17JbTpOX_ydfFC3RwWlLGWprw9hL1RzbT"
+        ]
       },
       "last_updated": "1722085400"
     },
@@ -193,7 +865,22 @@
       "title": "Those Who Bond Together",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/gjjs4fOaTo/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1vNiZd9eMwy6agF1RR8XUJ0tDhmzv715H",
+          "https://lh3.googleusercontent.com/d/171azsOCFApvSFuLzaPBFbYsGjTwAJ7C2",
+          "https://lh3.googleusercontent.com/d/1Fg-D0NxuTml_umAz-F8Dgb6_xd5Cbj8p",
+          "https://lh3.googleusercontent.com/d/19M38kF9JfdlXaaNJgQbmLmc416UHG8tg",
+          "https://lh3.googleusercontent.com/d/1CRnZX7rNsA0QXAwhus31foW5lISiFCwG",
+          "https://lh3.googleusercontent.com/d/1-QvcTYv9LSgrlsXdzDS5rkfzZ1GFquBA",
+          "https://lh3.googleusercontent.com/d/1LcxNCLuT14yRsAQ0Rc0Dep_hSzh4qdco",
+          "https://lh3.googleusercontent.com/d/1-y73ylyLcIEe2huSjmdi7Qr7-DFS5rae",
+          "https://lh3.googleusercontent.com/d/13Iw3H6pAQsC4VjXWwW6ZW39AJh00P7UE",
+          "https://lh3.googleusercontent.com/d/1DWUez3CW4V-3PLQ4bKPSNaGRUP0uVfnf",
+          "https://lh3.googleusercontent.com/d/156pMSSLGlDNXq3mgUIN4doOR1ZWJX7fz",
+          "https://lh3.googleusercontent.com/d/1NtRvzQq9oqhEzE-cn5SVK7Ruq-IYFm8L",
+          "https://lh3.googleusercontent.com/d/1MZKW-FOVGGuwvLZirR-V0aJYQV9vzD1S",
+          "https://lh3.googleusercontent.com/d/1u6HtPVRE4StHmg1N4UYunKcxn4Tq9T3p"
+        ]
       },
       "last_updated": "1723589485"
     },
@@ -201,7 +888,24 @@
       "title": "The One Who Stands in the Mist",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/8gY4sDauEb/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/112PDr1xo11NJf81pBf4pKnqQmcnCBHC4",
+          "https://lh3.googleusercontent.com/d/1YuOvAx4AO7aI8SnusRvRQjb6et1pDOs2",
+          "https://lh3.googleusercontent.com/d/1ASI8G8IIZO8GqGlgI1t1F_GuqRbIbnxV",
+          "https://lh3.googleusercontent.com/d/1U707uNr21yUsDl1ybUwH_i41NuoVaFoN",
+          "https://lh3.googleusercontent.com/d/1oZMeQjkV-dJ9iDaQgxwP-iMPWmWSaaMn",
+          "https://lh3.googleusercontent.com/d/1KPIujnFvNnvHPoUug1QXVJ3j6sf1q_DH",
+          "https://lh3.googleusercontent.com/d/1sMF4xYwnDY55cT3RCpdeBN4ZY6r5nBcx",
+          "https://lh3.googleusercontent.com/d/1P6DBkB2Gw-fctWcXz2qJGxYivI_gAzb0",
+          "https://lh3.googleusercontent.com/d/1ugeKf-8zdUmI2G1i3qoqoZRSC1Kl4ayX",
+          "https://lh3.googleusercontent.com/d/1N0V7Sr9-jrh98xcYSZzFUV61m7wBdUuw",
+          "https://lh3.googleusercontent.com/d/1yQJvrO0Xxhxr7pBjM8u2pLF0Ekvpatgc",
+          "https://lh3.googleusercontent.com/d/1DnpkvaSihAZ2t-W_DplPK0bx3cLcrDv-",
+          "https://lh3.googleusercontent.com/d/17Co78aoGy6P3LnoGrT6P7QKgE6B_zFX3",
+          "https://lh3.googleusercontent.com/d/19o451HB9qPtbXx-IaB6XnSgE3qDCRYsP",
+          "https://lh3.googleusercontent.com/d/1TXX1kPSE_e0bv2SdAocl__otdpkbm0P2",
+          "https://lh3.googleusercontent.com/d/1C3J3kVJcpPBiw5s1gJSEokB8Oq_JFHIj"
+        ]
       },
       "last_updated": "1723992600"
     },
@@ -209,7 +913,36 @@
       "title": "The One Who Has the Power of His Friends with Him",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/1DtUAUzKf3/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1BHu7et1P6FjbjTtc8oAiqVUAqjD-pypo",
+          "https://lh3.googleusercontent.com/d/1Ua_V7OZ_63gQpHflqjVc7iJtrWDPxsfV",
+          "https://lh3.googleusercontent.com/d/1pcoXncIBG-D3yKfCW-P1CoRam0PCZCiH",
+          "https://lh3.googleusercontent.com/d/1eBRJxF8WJKFd9ZRMGiuoRICgns7Nm66R",
+          "https://lh3.googleusercontent.com/d/1IDXtLp0hfvQ6Fe1QHbMxZ-dwIPrAG8IS",
+          "https://lh3.googleusercontent.com/d/1E0yAS9UvNPHAfz0PxQYlpgXTZBsEj10M",
+          "https://lh3.googleusercontent.com/d/1eFCAMdJb_997Hh0Q0a-noaukXkhurdTs",
+          "https://lh3.googleusercontent.com/d/18ffi4z0BaizJouNikaNPHG8su1kRWE-3",
+          "https://lh3.googleusercontent.com/d/1h5enj9M1FqPvQlHC4gufbtltcrs_j3i1",
+          "https://lh3.googleusercontent.com/d/1MnwWefcfmCBdKBmMN6M3xuW4lqWpvpwZ",
+          "https://lh3.googleusercontent.com/d/1GHluVGheuBZVfroMrYKN75cUd3ArWNWl",
+          "https://lh3.googleusercontent.com/d/1UMrv63QHZPJNcMakagJutmVYMJvSgtU7",
+          "https://lh3.googleusercontent.com/d/1uVkSObdyjxonWuFZZXFo6T4f58IIt7gD",
+          "https://lh3.googleusercontent.com/d/12uVP559QRcXF-pjy4RCx06SkxKOk7eP5",
+          "https://lh3.googleusercontent.com/d/19DFn3ht20_lbChMUbSmART9guEKYbfN3",
+          "https://lh3.googleusercontent.com/d/15aVE6KIV-kQhfAkKPQxGqYejJ9NIfc74",
+          "https://lh3.googleusercontent.com/d/1W7EPuvhRiQ9Lbv6ORM1Jj2Sw5O-BI93M",
+          "https://lh3.googleusercontent.com/d/1bc86-YT0VpE6nhf50S4_FmAmFW1OqflJ",
+          "https://lh3.googleusercontent.com/d/1uNO--hiJYQGJERdpp2tuoncIXcFgG7Wg",
+          "https://lh3.googleusercontent.com/d/1CvJfcxaeBuXuKfPwX1YaCdeC5goopbt4",
+          "https://lh3.googleusercontent.com/d/12vM4h6I9h9xBRZnpdk62gVYaPoEwXXj5",
+          "https://lh3.googleusercontent.com/d/1VTFqjtUL3h3FChrCIpkbOsr3oT_1OByr",
+          "https://lh3.googleusercontent.com/d/1NBgf2AP49Kev1fqzaKv7XRU0cHFoeNjr",
+          "https://lh3.googleusercontent.com/d/13r_ESrdCpch-SfAz9VJwDfS0dBCEX613",
+          "https://lh3.googleusercontent.com/d/1XroK3ff644OE0ZfC-crmpD73scZVb7fd",
+          "https://lh3.googleusercontent.com/d/1Iml97k360EZH2DM1NRQeOwJqTT0xnyUD",
+          "https://lh3.googleusercontent.com/d/18qC63Ft2Eq9xHZfx3aJJIP4zKv9A773E",
+          "https://lh3.googleusercontent.com/d/1QhiyjIzEh9-yul4Xz3re9bP5go2719Mh"
+        ]
       },
       "last_updated": "1728592590"
     },
@@ -217,7 +950,32 @@
       "title": "Those Who Stand Guard over the Great God",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/D2Pxm3kPtT/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1Czoxab0TkCNMjEVa9KwqyWYuoIJ2I4OP",
+          "https://lh3.googleusercontent.com/d/1Vn2akl8pQvNway26hkv62y16E4THypDd",
+          "https://lh3.googleusercontent.com/d/1-BT6WXHdTa0RyIEdkHIugQYtT_ZMcodz",
+          "https://lh3.googleusercontent.com/d/13-Ad_SM6Rq-qXYiyNhndUeDcn60T1An3",
+          "https://lh3.googleusercontent.com/d/1eJW7QLpd5H-gtB69CPu1cbdcw1LAEz1p",
+          "https://lh3.googleusercontent.com/d/1G_71F1Apgzz99HAg1_s6SNcX-lZVsik1",
+          "https://lh3.googleusercontent.com/d/1BfUSTT-9Wwp8d45ehJMVLR32L04dOgVy",
+          "https://lh3.googleusercontent.com/d/1WBzFaxs3vvbJpdRbMiT_RD4cfs2qZCRy",
+          "https://lh3.googleusercontent.com/d/1j5lHCB4SUvCJZoTiFb4TrvCLNl6vUPJY",
+          "https://lh3.googleusercontent.com/d/1KfIYOuoV9Z7GgTroFNirquZxRLajFPz7",
+          "https://lh3.googleusercontent.com/d/13wJvpdU9lpQ1iri9P7TeGSvtKx_YE4jG",
+          "https://lh3.googleusercontent.com/d/1U_LIvlYjLz1K8ajMCFnY3iaOKvrtHblg",
+          "https://lh3.googleusercontent.com/d/16ah1ZtwUF1eWXI5Hgx8geY2EksE3HMpK",
+          "https://lh3.googleusercontent.com/d/1viBFtdcDoh9aiu2MC8D7Z2-rsVac7hso",
+          "https://lh3.googleusercontent.com/d/1k4_ej51sZh4hn-kQXMl7uyWrNry37ePx",
+          "https://lh3.googleusercontent.com/d/1Cc2f5tL7yFn0l2MqTL1Boz6tuURxucFm",
+          "https://lh3.googleusercontent.com/d/1E8b7gKtEM9xgxOJC3p5SfOpx8_rt6sWg",
+          "https://lh3.googleusercontent.com/d/1rLC8ulnNLoScxJfqoTlpZhjYL50GH82w",
+          "https://lh3.googleusercontent.com/d/1W62x_fOVGLOZ5V_UhmSu7QdfoVYbAIK9",
+          "https://lh3.googleusercontent.com/d/1E30lqcu2fEmtlX3jCldffv_N7eNVF4jb",
+          "https://lh3.googleusercontent.com/d/1ikTW4JZrR_NRs_h3MLUn923yH0wHvwD2",
+          "https://lh3.googleusercontent.com/d/1yfEM8mkk051qi3ITIri-Lywgvh-P9x15",
+          "https://lh3.googleusercontent.com/d/1mRD3BPFlGDaCyAFxZGj3evONifBAkTxP",
+          "https://lh3.googleusercontent.com/d/1L0tfqI2Eaqc_RJtcgB5wD3enB9-IdT4n"
+        ]
       },
       "last_updated": "1728664164"
     },
@@ -225,7 +983,25 @@
       "title": "The One Who Seeks the Light but Has No Choice but to Take It by Force",
       "volume": "18",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/BuBN8edIJr/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1D0oI9jUEyn2FSazwK3LnWAs6Mm_dErKb",
+          "https://lh3.googleusercontent.com/d/1o7yQgeuh4zD5AklB3rhnbUqREM7fdGhZ",
+          "https://lh3.googleusercontent.com/d/1i5YnDu6J_suIVTYNxuFpcfhk-ogsXEWP",
+          "https://lh3.googleusercontent.com/d/1ilZWJl1r7y48HW45Thkxryv6u_8eDSBa",
+          "https://lh3.googleusercontent.com/d/15Z6ONIIj18g_UktJmxdAbnZYl9nha31M",
+          "https://lh3.googleusercontent.com/d/1qrCLibAFW6oADjRd6ODOxjyMoRlZB9i7",
+          "https://lh3.googleusercontent.com/d/1H2prIC3TaVpOzXuEDjhc_GadMWSr74ST",
+          "https://lh3.googleusercontent.com/d/1wLGvaKoN1bjG9QAdgRA721zcUsb4gDak",
+          "https://lh3.googleusercontent.com/d/1MkySwqXn1gRP6AYTF-lAOVJ4fvCkmIV2",
+          "https://lh3.googleusercontent.com/d/1EE9cN096Di-6OMo8QE-VbUte4pdE4L5g",
+          "https://lh3.googleusercontent.com/d/16dpJwCKdi6Shp38d9w8-Cmn-t2PQidAP",
+          "https://lh3.googleusercontent.com/d/1QMHjBqxDX1dtt000dPNmhV9WAY8GHcHv",
+          "https://lh3.googleusercontent.com/d/13nCSnD5D-Q-Jx70kYODP9AvbN-5b9oGc",
+          "https://lh3.googleusercontent.com/d/1y_SIrcGB_tYIw2uy8viIkwFbAcT8f4c9",
+          "https://lh3.googleusercontent.com/d/1nV1w1dRkvanoyCZ9Dy_Gz969shmcWU-2",
+          "https://lh3.googleusercontent.com/d/1MKXlcTN4K28bxECZD8Q7woF_qJlJHlbR",
+          "https://lh3.googleusercontent.com/d/1SNeB5hQEcwxKsqM73-FEu2IUicj7-ZxG"
+        ]
       },
       "last_updated": "1728727646"
     },
@@ -233,7 +1009,11 @@
       "title": "The One Who Does Not Accept the Impossible",
       "volume": "19",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/9Uzf4Dzf7H/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1RBbey2a5xfLNGDSzqCKj5yUM5XRg9Dk_",
+          "https://lh3.googleusercontent.com/d/1EWoXMvw1S9Rd9QkZnZ5UcfDoqzPkZEkc",
+          "https://lh3.googleusercontent.com/d/1ucYjizb5qlm2Idj5CGebf0Aev0V78IPx"
+        ]
       },
       "last_updated": "1736633340"
     },
@@ -241,7 +1021,33 @@
       "title": "Those Who Become Unbreakable Shield and Cutting Sword",
       "volume": "19",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/gjuScQZPSk/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1mP7EnPBGS-ptfY2TIxV2T26RSkeZp90G",
+          "https://lh3.googleusercontent.com/d/12QVi89zOcfbhNLcjNn4J2ytrmgZROmW0",
+          "https://lh3.googleusercontent.com/d/1HG_E19ATXa38zq4uLynriny00tAqifxQ",
+          "https://lh3.googleusercontent.com/d/1f4yP22svwtlBvmzxYlRoOh_Fl-d-5Q8f",
+          "https://lh3.googleusercontent.com/d/1gmHbRYR8xlbZqPuRPsrrNEETqPY-nRQy",
+          "https://lh3.googleusercontent.com/d/1VJPshr_G-6SKOJL_Hjx7n0pfDF-ECyfo",
+          "https://lh3.googleusercontent.com/d/1mtgM7GYoUeVOfVBYxogGd6LDIoMogYUo",
+          "https://lh3.googleusercontent.com/d/1FZb-JQI8bt7gLtI4_itJENmvgGaN1w66",
+          "https://lh3.googleusercontent.com/d/14rJ_1dQdHuYGf1-wIdToYxTzw4Z8BVOV",
+          "https://lh3.googleusercontent.com/d/1vRZ1GPAyFljXgMGZANRWs32B47Y4cYmy",
+          "https://lh3.googleusercontent.com/d/1oROhNxLHDlvIHV-HVOoAsE5dihVBuwl4",
+          "https://lh3.googleusercontent.com/d/1mDmUlD_S56xa78Hev1W650XNH7Ys9vnd",
+          "https://lh3.googleusercontent.com/d/1Ep7kD9j84OVZxlJhl8VMk5HYSpnhWfAH",
+          "https://lh3.googleusercontent.com/d/1UU1QPdmVtKyXWGhYwFF-sToSqEBrAH7k",
+          "https://lh3.googleusercontent.com/d/1XzmPZFnm9ucdh1xlb04oCJBsxspZJzz5",
+          "https://lh3.googleusercontent.com/d/1K4u2pqWadyK5z4GVi5ZZ-5G3DbLsSLR1",
+          "https://lh3.googleusercontent.com/d/1d8bYf2GzMgvQ22FIY8b5hR1QuHy-cF3v",
+          "https://lh3.googleusercontent.com/d/1XJF1b6lKnj3U_pQ0z237cKDwIob7ntzN",
+          "https://lh3.googleusercontent.com/d/1VJP1shSftgGw_khC7adNX8zvWIuWkMqc",
+          "https://lh3.googleusercontent.com/d/1TEpWm8jSPOBqss38CHcwvZO1M9_USp3D",
+          "https://lh3.googleusercontent.com/d/17i2z_RztXQYsin1CsKO3DZNmsKPYKQK1",
+          "https://lh3.googleusercontent.com/d/1VSbEkoXWVXh9cL5P6UTQXTZ-Zyzc2Jjv",
+          "https://lh3.googleusercontent.com/d/1COQkj7DRuJ083-FPXLvaxWNCaOZNgWqP",
+          "https://lh3.googleusercontent.com/d/11hER8GnDcOA0zl1PpD7yu81qmsjpeidj",
+          "https://lh3.googleusercontent.com/d/1YEIjuHs7tzQZDDhy0OqciFgQYBhwMVm0"
+        ]
       },
       "last_updated": "1730661930"
     },
@@ -249,7 +1055,34 @@
       "title": "The One Who Never Wavers",
       "volume": "19",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/TP6OrevLeI/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1PTp4LlP5AnYRktVhiMQT16-QAOn8PSb_",
+          "https://lh3.googleusercontent.com/d/1c4f8htVWZuHwLnMFJ_ZpH77YCfjFHE7K",
+          "https://lh3.googleusercontent.com/d/135j7btiTnjlSLI7G35CUaUriBgN8RSMX",
+          "https://lh3.googleusercontent.com/d/19pWOrJL3Cfi5yUxWlo7emFsuL653Q6T1",
+          "https://lh3.googleusercontent.com/d/1_a4Q6GCpYg0Jwu4KF9erZwZN5k9qHHMP",
+          "https://lh3.googleusercontent.com/d/1SpeCbHMhqGtvIdGiVXekzyCCk4zF_O1p",
+          "https://lh3.googleusercontent.com/d/1Z1vbXsayFjOr4wehhfaws-zi1SthSm4F",
+          "https://lh3.googleusercontent.com/d/19anzg_bNZzMKOqAqfSBaAP3_MfIMS5VI",
+          "https://lh3.googleusercontent.com/d/1CgGsiU9EiAJLtn9DDiU3l2e_Ffx3szXx",
+          "https://lh3.googleusercontent.com/d/1g25ODnR9dLzKuUIFGsGuwJjyIhyGRt42",
+          "https://lh3.googleusercontent.com/d/1P-7Hg-HnfgwqxjsLL4YQvFhYmcJzTNnp",
+          "https://lh3.googleusercontent.com/d/1YopzUO1_T6yZKvzdJgEp6ai-9wlowXJQ",
+          "https://lh3.googleusercontent.com/d/1SQ-Yqy1tKMMdlP6rUu4DO_agdvr2RWeQ",
+          "https://lh3.googleusercontent.com/d/1Bfp1krSOyHY87HuYatlEpmgqvxxwQ4t0",
+          "https://lh3.googleusercontent.com/d/1nXxzeevPm-i7Y8efcXUoCqZ7yzctXDKD",
+          "https://lh3.googleusercontent.com/d/1EpCmS4IR7BcoTDqpJ81iOuOvlGuGxwK0",
+          "https://lh3.googleusercontent.com/d/1BW_N0-Xvzc27tGxnVakqXiLiv9uBn4td",
+          "https://lh3.googleusercontent.com/d/1zjtLHZf04QpWV-xDXVlZbzDHglA7n4hl",
+          "https://lh3.googleusercontent.com/d/1GKXH5AznLcrxxK0Ndzr8MIceJwRk2PYz",
+          "https://lh3.googleusercontent.com/d/1dYdOWlzfLyPXDEeEApojrTaBNyCl-rcd",
+          "https://lh3.googleusercontent.com/d/1SKjzzq8VnRtAKu5pXY2sjmrkBKRMO1Nz",
+          "https://lh3.googleusercontent.com/d/1iYbUtd_YyVWaUwQeQwJ_zBstjNY7Ywsg",
+          "https://lh3.googleusercontent.com/d/1GyqjIPhdHUKpuoMSeuEZZTDHMfnqCUMK",
+          "https://lh3.googleusercontent.com/d/1Yc6X2Ap9ZXSr1psKXsxd4HbPegap7KHE",
+          "https://lh3.googleusercontent.com/d/1nXI4zSRx1BZh8mtgY18GxRNmpx9yoy-A",
+          "https://lh3.googleusercontent.com/d/1TAYoZp51sbVlOCWfxcldsrOJCFqYVPg9"
+        ]
       },
       "last_updated": "1731794356"
     },
@@ -257,7 +1090,31 @@
       "title": "Those Who Stand Before a Legend",
       "volume": "19",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/Slf4DcPDh8/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1iWVUhtMF2R2DhoCtlTrC8kB7GK-S7gXY",
+          "https://lh3.googleusercontent.com/d/1rLyx1cmehQOiLKCgU3gP-VJ5u36XJfvg",
+          "https://lh3.googleusercontent.com/d/165DYGvwA3lNXrzDTfwq9Ub2yJn96qcaI",
+          "https://lh3.googleusercontent.com/d/1ny42ECHoVoMzffR-sFwZIXjJhNpNJq8W",
+          "https://lh3.googleusercontent.com/d/17FvgXvXc8Z0WT5oZ_W06B1WISETNDvb_",
+          "https://lh3.googleusercontent.com/d/1AyUX2dVTXHHhjlaBcPms7wvyVHBVwQH4",
+          "https://lh3.googleusercontent.com/d/1_QkPJwN5zzsl-ERW3ttZA70Znk8CU026",
+          "https://lh3.googleusercontent.com/d/1dRxtmMY2PvY7j0gGMDKjzLP3UxGbX5hw",
+          "https://lh3.googleusercontent.com/d/1UPPAOxeCqKq2YVUf4Ek9cSvYwVf0lctw",
+          "https://lh3.googleusercontent.com/d/1j0z-xe_7RMRrL0dt9-W2JYEX6RVnbSiQ",
+          "https://lh3.googleusercontent.com/d/15OQMlwAc6G1CDDI3k00vgX585fklLt7R",
+          "https://lh3.googleusercontent.com/d/1JDDlTYncRfkl2rvSIX8ZWlA6Ox3_H4gb",
+          "https://lh3.googleusercontent.com/d/1OXcBN7AwC6T2n2yk1BcaT1RuAkRPo_ZQ",
+          "https://lh3.googleusercontent.com/d/1A6iqCHNAnyVpPX8eOYPizABM4nH0aDhz",
+          "https://lh3.googleusercontent.com/d/1-djCQztVzptx3PVoWZk29Rot-CeBW-Ja",
+          "https://lh3.googleusercontent.com/d/1612K03-i5lyMxRw3OrOk54sX8Bc83OVS",
+          "https://lh3.googleusercontent.com/d/1FidhafMndThftztk_3AEb1WQ9uU0FuEh",
+          "https://lh3.googleusercontent.com/d/1mGyhBezzYb_7LrSZ-ic18RILFpz7KWZs",
+          "https://lh3.googleusercontent.com/d/1mTdJZRJxDR5sHEaUEUkU7Uvljk3RNkdX",
+          "https://lh3.googleusercontent.com/d/1SvDb931taF23bXEviA5Ae17UQns4SU23",
+          "https://lh3.googleusercontent.com/d/1UuO7QBl30vXovkhgYYs0I6FDZw8ZQXf0",
+          "https://lh3.googleusercontent.com/d/1MqM5WpL9-P_BoWLKfOkWUZUTnQS2G4PJ",
+          "https://lh3.googleusercontent.com/d/1PeLtBHLtw_LLSyMrLx7_4sen42KT-fo9"
+        ]
       },
       "last_updated": "1734301200"
     },
@@ -265,7 +1122,31 @@
       "title": "The One Who Wields a True Blade",
       "volume": "19",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/hKXe0Ytkzr/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1oC-hjOHg2RmHSGER-xp3ZrKwGeVQV36j",
+          "https://lh3.googleusercontent.com/d/1_x7Vi5YeUO2o_QC0yEot-lr30qOA0QOD",
+          "https://lh3.googleusercontent.com/d/1UJcLSAxI-AptGclmC-g33XngzaaW5XUn",
+          "https://lh3.googleusercontent.com/d/1bm8qMMpAnMuluyFG0QGUJyS06Hl__JJm",
+          "https://lh3.googleusercontent.com/d/1Rb1sBfgKZGAOSSPd6lFePLc4tURof2Vo",
+          "https://lh3.googleusercontent.com/d/1JdBZszWhqMTgk3TtyixKUrKmCu7zTrBK",
+          "https://lh3.googleusercontent.com/d/1Jj3IuH3PQ8NK9OhAKhtVpJ9CqCtJIKQ6",
+          "https://lh3.googleusercontent.com/d/1bHgg-DX28FsoyTO7tZBtMXfJ0BhF0Gle",
+          "https://lh3.googleusercontent.com/d/1LJ7lyCH_HfLiuX0WzPhKoTfU1CpvyQnQ",
+          "https://lh3.googleusercontent.com/d/1-ij8GSQclIm-mptykI7ZSUmpGsEESVof",
+          "https://lh3.googleusercontent.com/d/1dfP-WKUjj5WbucKaW2ap-P6nWwndceL3",
+          "https://lh3.googleusercontent.com/d/1Xj49wTp1QwnboxrtqKKJK5MIMtDOZVxZ",
+          "https://lh3.googleusercontent.com/d/1oo_dw64hE-gs7iJDd8DwYf-GGfcK9f20",
+          "https://lh3.googleusercontent.com/d/17st-xMPYMmRkhS1uF2llynGPTjMYOhsW",
+          "https://lh3.googleusercontent.com/d/1NiXK9klFZx9PWCS3AUCArqjwNNZ2SI52",
+          "https://lh3.googleusercontent.com/d/14JTbE9AEDZ4FJdjCdJ9Iyt5PKw2sQLi2",
+          "https://lh3.googleusercontent.com/d/1D73Rk1B9SkxOFOs9dSaG_JC5Fydped7Z",
+          "https://lh3.googleusercontent.com/d/1zB8P_hrZGiRwqlpi1E26cHvXHszWrf7I",
+          "https://lh3.googleusercontent.com/d/1EfH_e4WwSnw5RJImFs4lzo5WAfrgQCsf",
+          "https://lh3.googleusercontent.com/d/1Q_95Fq8upo-FNNb7Pk_aEp_sKmmeF_0_",
+          "https://lh3.googleusercontent.com/d/1yzXfqvU1-dUeBdDb1LL2n9iLApe31Fs5",
+          "https://lh3.googleusercontent.com/d/13yGPPFX2Aqx5AMnrRToNcmrCeGoJaS7P",
+          "https://lh3.googleusercontent.com/d/1Y-RcOHFFjCoPtvcFEId6zV2Y-kf4l1oZ"
+        ]
       },
       "last_updated": "1734656200"
     },
@@ -273,7 +1154,11 @@
       "title": "The One Who Brandishes His Fists",
       "volume": "20",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/dqKxy0lUV7/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1cx0FG4bnp2eOfNTGtAaQBoL-iIwZUQ5c",
+          "https://lh3.googleusercontent.com/d/1aZbVlPTT2MBEZkYvYNmXFOw71A5Xw46n",
+          "https://lh3.googleusercontent.com/d/1sB6QYO_aERmH1Jn_qCAAC6Rtodo-RsTF"
+        ]
       },
       "last_updated": "1736633340"
     },
@@ -281,7 +1166,31 @@
       "title": "The One Who Has Hidden Potential",
       "volume": "20",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/Fnd0UkfOug/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1KpF6IwB3xGMknvKDmNdSrcWud4KmYFP6",
+          "https://lh3.googleusercontent.com/d/1TmUKZrNMdkYtXeStpVj8WcJpe1mSp8HS",
+          "https://lh3.googleusercontent.com/d/1_mx8oqkQifBgYk3RAawhbcoAYWzPjZXL",
+          "https://lh3.googleusercontent.com/d/1VNj6TDgHafWAGdcgvRKhyKBm8zr7x6tP",
+          "https://lh3.googleusercontent.com/d/1gt-6W0NAy8Jij0OFuRGuPQFoL-Sta-VW",
+          "https://lh3.googleusercontent.com/d/12OPTYLivqqFjQqztmgLZneDcqMDL3zV3",
+          "https://lh3.googleusercontent.com/d/1mcInoz7a7PQ0hD-wQTR2pnujM9JXJaQR",
+          "https://lh3.googleusercontent.com/d/1XrkOa_jsVFyscsfAiP-NX4J0dpC_xUdM",
+          "https://lh3.googleusercontent.com/d/1utnf08aaa4a5gC3M5R8bgXPfDfMgfMml",
+          "https://lh3.googleusercontent.com/d/1-bLV9RSy99Ibeq5PNvtGhtQN1lqMb42I",
+          "https://lh3.googleusercontent.com/d/1owHZw-tw0L34mDNACQ-N85dG4xQCaazj",
+          "https://lh3.googleusercontent.com/d/1FL7Dls3AuKxAafnN3z34BS-LTJlLeymZ",
+          "https://lh3.googleusercontent.com/d/1IMR2RVaiy4KhxR54sol8vjRrUs-JY1RP",
+          "https://lh3.googleusercontent.com/d/1utg4bbGvEXZLppEFnoiLMHutZQm9FNIi",
+          "https://lh3.googleusercontent.com/d/1Ar4eOcBzLTrZFxv7Q7gpqNQsj4x5SlmW",
+          "https://lh3.googleusercontent.com/d/17LQ4--cxBMaAIUUKspVTYmUgAtflNVht",
+          "https://lh3.googleusercontent.com/d/1Awj82miM28wuzqkyZbB0114vLLYCkDLy",
+          "https://lh3.googleusercontent.com/d/1Qq2oprR5KOnk82E__Rn8CldWU38lq2X9",
+          "https://lh3.googleusercontent.com/d/1MXftTTzDn4afBP-NkQyE0UmmcunpNio1",
+          "https://lh3.googleusercontent.com/d/1CAn61LYC9Hi6gQ-ePt1t6vcn36mpI_uy",
+          "https://lh3.googleusercontent.com/d/1AxL1HaJwqFiWA1Pj1Ghq2xf-VCtiY9ju",
+          "https://lh3.googleusercontent.com/d/1Diq23w2cgdestU_r4mbH42fb9EpmJR35",
+          "https://lh3.googleusercontent.com/d/1KWTQ5xgCaS8UBciFF3bhENFxV7aqSv30"
+        ]
       },
       "last_updated": "1736164017"
     },
@@ -289,7 +1198,31 @@
       "title": "The One Who Guards the Gates",
       "volume": "20",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/ZTcD5POVrc/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1TdSypZnIz56yItoTdgLXQEgjbm6mJVwi",
+          "https://lh3.googleusercontent.com/d/1OG9ATX1nlM0yjwQ1GrjRd2g2lftkAhUJ",
+          "https://lh3.googleusercontent.com/d/14n0iHEeEtygnAwkGYpjvNct1KY2y5nlC",
+          "https://lh3.googleusercontent.com/d/1ADzJox5Dm2AezCi3QG9SV33-EbEgoOyw",
+          "https://lh3.googleusercontent.com/d/1Qj-3lsuZeIBKklh_yuQfZBTv4p2uLUZV",
+          "https://lh3.googleusercontent.com/d/1t63f_BZyB0MTQrEU7golJH_BAoBcofIv",
+          "https://lh3.googleusercontent.com/d/1M2HGhaEGV3WzUcZ5xcSB_zJSzPknbskQ",
+          "https://lh3.googleusercontent.com/d/1VSQeb9Nmvyh7pl0CBjcT6cWDsYlwCqCJ",
+          "https://lh3.googleusercontent.com/d/1IlkEiTLPt1vLTpJM4xYIwNNqTS16qyDC",
+          "https://lh3.googleusercontent.com/d/10aeWnb7_mOOeiZyIYxn6jGA-Aft2WIyS",
+          "https://lh3.googleusercontent.com/d/1wMkBKWnPh6HB_-zns7ANnNipXuvOoUl9",
+          "https://lh3.googleusercontent.com/d/1SEGLeP4zvrTXZ1_vgfZeB9YBJtW2wNUp",
+          "https://lh3.googleusercontent.com/d/16biFWrnAjmDJgibzYEOFC6Mnks6XCsxu",
+          "https://lh3.googleusercontent.com/d/1CldmMRMYg4xmHWUymh4ENXTAOL1wsQf8",
+          "https://lh3.googleusercontent.com/d/1SajXBIxWbLkb6qXTYkTUJERr3G5w0eqq",
+          "https://lh3.googleusercontent.com/d/1mSTb8VduTc-lOZOr6svAW0J0Kx4CgoIB",
+          "https://lh3.googleusercontent.com/d/1MY-Od8KFYalDLz64uzU15q_N-9Dthqb2",
+          "https://lh3.googleusercontent.com/d/1EI4GdiTtWIBEwHDo4xEdnwzxwercgpsp",
+          "https://lh3.googleusercontent.com/d/1hPVT82PuVdiZMUWKEbCl9fPHqk_1PNbo",
+          "https://lh3.googleusercontent.com/d/1HIiVWlURtiayi48b9RcVjK6hyaNznQgO",
+          "https://lh3.googleusercontent.com/d/16pn7LSv9-v_hjOWJDIXleKRCMKCPfUxg",
+          "https://lh3.googleusercontent.com/d/1AM2SRdgoqAImXITRxNg3nVPXtPT9-7RO",
+          "https://lh3.googleusercontent.com/d/1HKNmwLU3OnT0feWarXAypkcaDDgn3qkM"
+        ]
       },
       "last_updated": "1737325223"
     },
@@ -297,7 +1230,31 @@
       "title": "The One Who Challenges the Gods",
       "volume": "20",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/Y9t4hAuyVK/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1AExnndqnHO15H3_v8_ZBYyggnmYLZEkg",
+          "https://lh3.googleusercontent.com/d/1kV0YHMYWZAcdpAM4sFBUSSaWIPL1B6UA",
+          "https://lh3.googleusercontent.com/d/1YtncsaHOQlTwAMgX2pUqmm1teYdv1Dup",
+          "https://lh3.googleusercontent.com/d/1t1_VPQfPcDBw0NYA2DtgmKuYNmk6nXUv",
+          "https://lh3.googleusercontent.com/d/13rIYOJcXaGv5IluBigGCaQ3t0kBHPndg",
+          "https://lh3.googleusercontent.com/d/1ZrcFnyM0dUCzw_vSdJosAHJA1wzgT3v4",
+          "https://lh3.googleusercontent.com/d/1ocMXHSHtacQsemUf8OM_a-VqitDZX_e8",
+          "https://lh3.googleusercontent.com/d/1U8QyaQjdFw9ydc-sH0fLHRi0nWADbNFX",
+          "https://lh3.googleusercontent.com/d/17BSXlTxvw4K8zQq9hpzf6O9sRjf02SeD",
+          "https://lh3.googleusercontent.com/d/1uKqa5tLdtYOZCvdjoP8xyqUUumkj1SiO",
+          "https://lh3.googleusercontent.com/d/1m67ip4Ez8rxvK_WonqDG1YNuiCTmgruL",
+          "https://lh3.googleusercontent.com/d/16qy-JrZR2j3zRIqd-GVZ6cHfke4L4psn",
+          "https://lh3.googleusercontent.com/d/1Vz-WTqNKB1HhcmMhVPPKDZix0PpZWLHV",
+          "https://lh3.googleusercontent.com/d/16AjgQQvd_fRuSZ0sDP-miLsIwYlAga9S",
+          "https://lh3.googleusercontent.com/d/1J4WgfoSUBcwar4BR9gTs4QVbhMxheCMD",
+          "https://lh3.googleusercontent.com/d/1soC_Hl8n15w0xc3aH21gzQkzygyN9fvp",
+          "https://lh3.googleusercontent.com/d/1Kv5pZJmP_3T3BQ577lwIUR7kp6wCfqZ5",
+          "https://lh3.googleusercontent.com/d/14wEP0iCGodO35GVv5ogii0WpE606AC6f",
+          "https://lh3.googleusercontent.com/d/1NZaz1zJFCk_I3yjqLag92esXlYNOl4WD",
+          "https://lh3.googleusercontent.com/d/1xVLltXbfnK7SskIiuAEYSk31oeylRadO",
+          "https://lh3.googleusercontent.com/d/1kMvStXCJi03m6M9fsnjtmo5n2H9qf-Ys",
+          "https://lh3.googleusercontent.com/d/1d0Rq2j-SCSzCXtpAFdtmVZduIztyGymF",
+          "https://lh3.googleusercontent.com/d/1qq4hOzXeT9RXeBRnpxHUm35WRH9sKo3b"
+        ]
       },
       "last_updated": "1737877649"
     },
@@ -305,7 +1262,44 @@
       "title": "Final Chapter: The Youth of Gold",
       "volume": "20",
       "groups": {
-        "House of Libra": "/proxy/api/imgbox/chapter/qIKec0pzAJ/"
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1Sa06sgJHMj0x0hvhIfNlHTjrFGw2OVyA",
+          "https://lh3.googleusercontent.com/d/1fGSlS5dINROv7Nia227qqPshik18LafR",
+          "https://lh3.googleusercontent.com/d/1hDqU2mUgQ-RkDw9CTVqELnwDHwGoAd5r",
+          "https://lh3.googleusercontent.com/d/1XrTTwux7Xqrb813uueo9RTyFhJY-5tHj",
+          "https://lh3.googleusercontent.com/d/1dPGsPu2HZ-HzSb8IqrbtEAwezP_3RyL1",
+          "https://lh3.googleusercontent.com/d/1cm5lCQT_50Pl6DpXEp9DDzwPHnaxTo0R",
+          "https://lh3.googleusercontent.com/d/1P6EBABHx4dddNNPDuvCp01LbK65QiFuy",
+          "https://lh3.googleusercontent.com/d/1yt-I5OYT9FKrtKiTdEbeqkoFUwpFaeKA",
+          "https://lh3.googleusercontent.com/d/10cQo8gh-piv7D10vjVVqvRfnZv_ux_GF",
+          "https://lh3.googleusercontent.com/d/1b1KG4E3oDu920ZkwHRVr11WHwl5CezkE",
+          "https://lh3.googleusercontent.com/d/1RBv0Lw1y6r4t5-CwcgTuxPOIxjIE7bqY",
+          "https://lh3.googleusercontent.com/d/1NLUKU-76JuDWb_xb0BYYBkadOnmYQNz4",
+          "https://lh3.googleusercontent.com/d/1vj_gEnbABZpJazx8Qf2b2_lKZ_WwsIqJ",
+          "https://lh3.googleusercontent.com/d/1mbyEtrUVNaqdQ35sAHcvAkbo9rbZJ-1j",
+          "https://lh3.googleusercontent.com/d/1DykMW6UXVHaKjKfj0SJGXVtJaw0Hu3iC",
+          "https://lh3.googleusercontent.com/d/1vZ6Iam64flKrDAzpXwa745H9uoC6st4A",
+          "https://lh3.googleusercontent.com/d/1H0gVxcLTrkELfIlk48VoOgE17dx0G7yP",
+          "https://lh3.googleusercontent.com/d/1Y7YksA74_SvhVg1FxPo0M000IeV5rg77",
+          "https://lh3.googleusercontent.com/d/1GyCA0Rrp9y6rxE6apj8NC1SwaJOzL2JV",
+          "https://lh3.googleusercontent.com/d/1ysqf0xFWX_NRNkI_pzR9HugTTx1cA2dc",
+          "https://lh3.googleusercontent.com/d/1imYvN0iLFwPz2tnkWTEJ6SxDBA1DcuNa",
+          "https://lh3.googleusercontent.com/d/1uSoFJB-RzUmZavPTa4zYh97zWF5ybh5Y",
+          "https://lh3.googleusercontent.com/d/1y7en8dHl5rZzCwa9h5Rsv_YwTP8nTfWS"
+        ]
+      },
+      "last_updated": "1738001901"
+    },
+    "87.5": {
+      "title": "Epilogue: Embarking on a Journey",
+      "volume": "20",
+      "groups": {
+        "House of Libra": [
+          "https://lh3.googleusercontent.com/d/1X92Kt45lAb7OXtqwRr6V2TnclRg8bXu1",
+          "https://lh3.googleusercontent.com/d/1ZnddHDsFeiqu2OhX_kPLz84Ja4wxakhK",
+          "https://lh3.googleusercontent.com/d/16TyT872ZnNgaoD5z0_zpUVJNEHgmLYNx",
+          "https://lh3.googleusercontent.com/d/18Sg21Vf00TxsFgF-z3gRNxYd2zmh60cf"
+        ]
       },
       "last_updated": "1738001901"
     }
